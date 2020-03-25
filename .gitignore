@@ -1,0 +1,8 @@
+# ignore deployment configuration
+/deployment/.envrc
+/deployment/kube*
+/deployment/vars*
+/deployment/.ansible.vaultpass
+
+# ignore editor config
+.vscode

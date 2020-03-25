@@ -1,0 +1,65 @@
+.docker_stages:
+  image: docker:stable
+  variables:
+    DOCKER_DRIVER: overlay2
+    DOCKER_TLS_CERTDIR: ""
+  services:
+    - docker:19.03.8-dind
+  before_script:
+    - docker info
+    - docker login ${CI_REGISTRY} -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD}
+  after_script:
+    - docker logout ${CI_REGISTRY}
+
+# push strategy comes from: https://blog.callr.tech/building-docker-images-with-gitlab-ci-best-practices/
+stages:
+  - build
+  - deploy
+
+Production Build:
+  extends: .docker_stages
+  stage: build
+  only:
+    - production
+  script:
+    - >
+      docker build
+      --pull
+      --build-arg VCS_REF=${CI_COMMIT_SHA}
+      --build-arg VCS_URL=${CI_PROJECT_URL}
+      --tag ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
+      --file Dockerfile
+      .
+    - docker push ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
+
+Lab Build:
+  extends: .docker_stages
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  stage: build
+  only:
+    - labdev
+  script:
+    - >
+      docker build
+      --pull
+      --build-arg VCS_REF=${CI_COMMIT_SHA}
+      --build-arg VCS_URL=${CI_PROJECT_URL}
+      --tag ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
+      --file Dockerfile
+      .
+    - docker push ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
+
+Deployment:
+  stage: deploy
+  only:
+    - production
+    - labdev
+  image: registry.gitlab.com/jayo/ansible-deployer:latest
+  before_script:
+    - ansible --version
+  script:
+    - cd deployment
+    - export vars_file_var="ANSIBLE_${CI_COMMIT_REF_NAME^^}_VARS"
+    - export ANSIBLE_DEPLOYMENT_VARS=${!vars_file_var}
+    - ansible-playbook deploy.yml

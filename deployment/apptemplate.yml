@@ -1,0 +1,81 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ kube_resource_name }}
+  labels:
+    app: "{{ kube_resource_name }}"
+spec:
+  type: ClusterIP
+  ports:
+    - name: http
+      port: 80
+      targetPort: http
+  selector:
+    app: "{{ kube_resource_name }}"
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: {{ kube_resource_name }}
+  labels:
+    app: "{{ kube_resource_name }}"
+  annotations:
+    kubernetes.io/tls-acme: "true"
+    cert-manager.io/cluster-issuer: "letsencrypt-production"
+spec:
+  rules:
+  - host: {{ ingress_host }}
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: "{{ kube_resource_name }}"
+          servicePort: http
+  tls:
+    - hosts:
+      - {{ ingress_host }}
+      secretName: {{ kube_resource_name }}.local-tls
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ kube_resource_name }}
+  labels:
+    app: "{{ kube_resource_name }}"
+spec:
+  selector:
+    matchLabels:
+      app: "{{ kube_resource_name }}"
+  strategy:
+    type: RollingUpdate
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: "{{ kube_resource_name }}"
+    spec:
+      hostAliases:
+      - ip: "127.0.0.1"
+        hostnames:
+        - "status.localhost"
+      containers:
+      - name: {{ kube_resource_name }}-app
+        image: {{ image_repository }}:{{ image_tag }}
+        imagePullPolicy: {{ image_pull_policy }}
+        ports:
+          - name: http
+            containerPort: 80
+            protocol: TCP
+        livenessProbe:
+          httpGet:
+            path: /
+            port: http
+        readinessProbe:
+          httpGet:
+            path: /
+            port: http
+        resources:
+          requests:
+            cpu: 100m
+            memory: 512Mi
