@@ -18,6 +18,8 @@ stages:
 
 Production Build:
   extends: .docker_stages
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
   stage: build
   only:
     - production
