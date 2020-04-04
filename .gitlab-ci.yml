@@ -57,7 +57,7 @@ Deployment:
   only:
     - production
     - labdev
-  image: registry.gitlab.com/jayo/ansible-deployer:latest
+  image: registry.gitlab.com/outfielding/ansible-deployer:latest
   before_script:
     - ansible --version
   script:
