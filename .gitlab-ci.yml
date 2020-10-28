@@ -4,14 +4,13 @@
     DOCKER_DRIVER: overlay2
     DOCKER_TLS_CERTDIR: ""
   services:
-    - docker:19.03.8-dind
+    - docker:dind
   before_script:
     - docker info
     - docker login ${CI_REGISTRY} -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD}
   after_script:
     - docker logout ${CI_REGISTRY}
 
-# push strategy comes from: https://blog.callr.tech/building-docker-images-with-gitlab-ci-best-practices/
 stages:
   - build
   - deploy
