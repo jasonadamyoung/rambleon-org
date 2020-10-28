@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.68.1-onbuild AS hugo
+FROM klakegg/hugo:onbuild AS hugo
 
 FROM nginx
 LABEL maintainer="jay@outfielding.net"
