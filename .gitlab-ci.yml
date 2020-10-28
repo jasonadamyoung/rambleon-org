@@ -53,6 +53,8 @@ Lab Build:
 
 Deployment:
   stage: deploy
+  tags:
+    - rambleon
   only:
     - production
     - labdev
