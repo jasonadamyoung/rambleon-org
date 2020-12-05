@@ -14,5 +14,5 @@ I’m trying to slowly work through several years of photos and [get them upload
 
 Interesting reading &#8211; who knew that’s what Macs do when relaxing?
 
- [1]: http://photos.littleriverview.org/
+ [1]: http://photos.rambleon.org/
  [2]: https://photos.smugmug.com/photos/526388518_tLkqZ-M.jpg

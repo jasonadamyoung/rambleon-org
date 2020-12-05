@@ -13,5 +13,5 @@ categories:
 [More from Eastern NC…][3]
 
  [1]: https://photos.smugmug.com/All/Eastern-NC-2011/i-dbdQ5JF/0/M/DSC5005-M.jpg
- [2]: http://photos.littleriverview.org/All/Eastern-NC-2011/20806887_gG652b#1652173042_dbdQ5JF-A-LB
- [3]: http://photos.littleriverview.org/All/Eastern-NC-2011
+ [2]: http://photos.rambleon.org/All/Eastern-NC-2011/20806887_gG652b#1652173042_dbdQ5JF-A-LB
+ [3]: http://photos.rambleon.org/All/Eastern-NC-2011

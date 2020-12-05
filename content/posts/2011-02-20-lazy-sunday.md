@@ -11,4 +11,4 @@ categories:
 [![][1]][2]
 
  [1]: https://photos.smugmug.com/All/Our-Pups/DSC3316/1192945766_CKKpE-M.jpg
- [2]: http://photos.littleriverview.org/photos/swfpopup.mg?AlbumID=7810105&AlbumKey=a7H5S
+ [2]: http://photos.rambleon.org/photos/swfpopup.mg?AlbumID=7810105&AlbumKey=a7H5S

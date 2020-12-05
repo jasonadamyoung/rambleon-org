@@ -15,4 +15,4 @@ The view from earlier this evening:
 ([larger][2])
 
  [1]: https://photos.smugmug.com/All/My-Photos/P1010350/939375977_bthUS-M.jpg
- [2]: http://photos.littleriverview.org/All/My-Photos/7870457_8qAAf#939375977_bthUS-X3-LB
+ [2]: http://photos.rambleon.org/All/My-Photos/7870457_8qAAf#939375977_bthUS-X3-LB

@@ -95,7 +95,7 @@ This is a really interesting software space right now, everything’s different,
 
  [1]: https://rambleon.org/2007/01/18/its-here/
  [2]: http://www.bythom.com/nikond300review.htm
- [3]: http://photos.littleriverview.org/gallery/7810105_a7H5S
+ [3]: http://photos.rambleon.org/gallery/7810105_a7H5S
  [4]: http://www.adobe.com/products/photoshoplightroom/
  [5]: https://photos.smugmug.com/photos/527020610_xNp2Z-M.jpg
  [6]: http://sysadminrambles.files.wordpress.com/2008/04/lightroomdefaultsetting.png (lightroomdefaultsetting)

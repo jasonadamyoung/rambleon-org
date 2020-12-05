@@ -37,7 +37,7 @@ And even with quite the dance of lens-changing on the trails &#8211; I haven’t
 All three (the two lenses and the Mountain Vacation 🙂 ) are highly recommended.
 
  [1]: https://rambleon.org/2009/08/22/seeing-ghosts/
- [2]: http://photos.littleriverview.org/Pets/Our-Pups/7810105_a7H5S#631456319_drNJL
+ [2]: http://photos.rambleon.org/Pets/Our-Pups/7810105_a7H5S#631456319_drNJL
  [3]: http://www.kenrockwell.com/nikon/18200.htm
  [4]: http://www.shutterbug.com/equipmentreviews/lenses/0106tokina/
  [5]: https://photos.smugmug.com/photos/635206358_PMLpD-S.jpg
@@ -47,5 +47,5 @@ All three (the two lenses and the Mountain Vacation 🙂 ) are highly recommende
  [9]: https://photos.smugmug.com/photos/635183859_4Puk3-S.jpg
  [10]: http://www.nikonusa.com/Find-Your-Nikon/Product/Camera-Lenses/2161/AF-S-VR-Zoom-NIKKOR-70-300mm-f%252F4.5-5.6G-IF-ED.html
  [11]: https://photos.smugmug.com/photos/635181061_B4CkT-S.jpg
- [12]: http://photos.littleriverview.org/photos/635217815_L5XjF-M.jpg
- [13]: http://photos.littleriverview.org/photos/swfpopup.mg?AlbumID=9530705&AlbumKey=9Vi2E
+ [12]: http://photos.rambleon.org/photos/635217815_L5XjF-M.jpg
+ [13]: http://photos.rambleon.org/photos/swfpopup.mg?AlbumID=9530705&AlbumKey=9Vi2E

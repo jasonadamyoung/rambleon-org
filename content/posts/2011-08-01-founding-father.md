@@ -15,5 +15,5 @@ Mount Jefferson as seen from Mount Hood, Oregon.
 [More pictures from Oregon][3]
 
  [1]: https://photos.smugmug.com/All/Portland/i-jRW7P3q/0/M/IMG0268-M.jpg
- [2]: http://photos.littleriverview.org/All/Portland/18233688_tfh2LD#1411134780_jRW7P3q-A-LB (Mt. Jefferson from Mt. Hood, Oregon)
- [3]: http://photos.littleriverview.org/All/Portland/18233688_tfh2LD#1402083735_JqTJQTr
+ [2]: http://photos.rambleon.org/All/Portland/18233688_tfh2LD#1411134780_jRW7P3q-A-LB (Mt. Jefferson from Mt. Hood, Oregon)
+ [3]: http://photos.rambleon.org/All/Portland/18233688_tfh2LD#1402083735_JqTJQTr

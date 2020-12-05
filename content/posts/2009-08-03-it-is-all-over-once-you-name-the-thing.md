@@ -30,5 +30,5 @@ I’m not sure what the future brings for Eli or for us, but for now, she has a 
 
  [1]: https://photos.smugmug.com/photos/610208810_GY5di-M.jpg
  [2]: https://rambleon.org/tag/our-pups
- [3]: http://photos.littleriverview.org/gallery/7870457_8qAAf#527604724_jiCTC-A-LB
+ [3]: http://photos.rambleon.org/gallery/7870457_8qAAf#527604724_jiCTC-A-LB
  [4]: http://www.vet.cornell.edu/fhc/brochures/fip.html

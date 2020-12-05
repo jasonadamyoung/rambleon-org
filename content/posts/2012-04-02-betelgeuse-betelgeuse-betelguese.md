@@ -42,7 +42,7 @@ But I need to get there by learning, doing, and most importantly being &#8211; o
 
  [1]: https://photos.smugmug.com/All/My-Photos/DSC8418/528260265_m4d6U-L.jpg
  [2]: /2011/08/03/doing-something-changes-how-we-see-it/
- [3]: http://photos.littleriverview.org/All/My-Photos/7870457_BnTtSX#!i=528260265&k=m4d6U&lb=1&s=O
+ [3]: http://photos.rambleon.org/All/My-Photos/7870457_BnTtSX#!i=528260265&k=m4d6U&lb=1&s=O
  [4]: http://en.wikipedia.org/wiki/Exchangeable_image_file_format
  [5]: http://www.stellarium.org/
  [6]: https://photos.smugmug.com/photos/i-XGVDjfP/0/L/i-XGVDjfP-L.jpg
