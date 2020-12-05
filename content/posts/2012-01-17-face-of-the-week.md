@@ -13,4 +13,4 @@ categories:
 Insert some joke about “Pirate Cat” here.
 
  [1]: https://photos.smugmug.com/All/our-animals/i-JcnZRnd/0/M/DSC5336-M.jpg
- [2]: http://photos.littleriverview.org/All/our-animals/14614295_jfKJXf#!i=1676073656&k=JcnZRnd&lb=1&s=A
+ [2]: http://photos.rambleon.org/All/our-animals/14614295_jfKJXf#!i=1676073656&k=JcnZRnd&lb=1&s=A

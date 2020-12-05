@@ -12,5 +12,5 @@ tags:
 
 [More Fall images from the little river view&#8230;][2]
 
- [1]: http://photos.littleriverview.org/All/Home-Fall-2014/i-2F7mzQC/A
- [2]: http://photos.littleriverview.org/All/Home-Fall-2014
+ [1]: http://photos.rambleon.org/All/Home-Fall-2014/i-2F7mzQC/A
+ [2]: http://photos.rambleon.org/All/Home-Fall-2014

@@ -13,4 +13,4 @@ tags:
 [![][1]][2]
 
  [1]: https://photos.smugmug.com/Pets/Pup-Face-of-the-Week/DSC9951/789562892_gKiCG-M.jpg
- [2]: http://photos.littleriverview.org/Pets/Pup-Face-of-the-Week/7799105_M5vaB#789562892_gKiCG-X2-LB
+ [2]: http://photos.rambleon.org/Pets/Pup-Face-of-the-Week/7799105_M5vaB#789562892_gKiCG-X2-LB

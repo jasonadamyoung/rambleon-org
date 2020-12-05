@@ -22,6 +22,6 @@ And even better, by the first bald eagle I’ve ever seen in the wild, that wasn
 
  [1]: http://voices.washingtonpost.com/blog-post/2010/09/super_harvest_moon_first_day_o.html
  [2]: https://photos.smugmug.com/All/My-Photos/DSC1895/1018634767_T7YWa-M.jpg
- [3]: http://photos.littleriverview.org/All/My-Photos/7870457_8qAAf#1018634767_T7YWa-A-LB
+ [3]: http://photos.rambleon.org/All/My-Photos/7870457_8qAAf#1018634767_T7YWa-A-LB
  [4]: https://photos.smugmug.com/All/My-Photos/DSC1876/1018653602_Ls2T8-M.jpg
- [5]: http://photos.littleriverview.org/All/My-Photos/7870457_8qAAf#1018653602_Ls2T8-A-LB
+ [5]: http://photos.rambleon.org/All/My-Photos/7870457_8qAAf#1018653602_Ls2T8-A-LB

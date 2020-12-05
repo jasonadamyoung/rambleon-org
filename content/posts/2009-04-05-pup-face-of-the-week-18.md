@@ -15,4 +15,4 @@ tags:
 _really, it needs no description, you know? &#8211; [click here for the extra large and even more expressive version][2]_
 
  [1]: https://photos.smugmug.com/photos/505843192_ywNX7-M.jpg
- [2]: http://photos.littleriverview.org/gallery/7799105_M5vaB/1/#505843192_ywNX7-A-LB
+ [2]: http://photos.rambleon.org/gallery/7799105_M5vaB/1/#505843192_ywNX7-A-LB

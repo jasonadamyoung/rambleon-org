@@ -16,4 +16,4 @@ categories:
 
  [1]: https://rambleon.org/2009/07/25/pup-face-of-the-week-7/
  [2]: https://photos.smugmug.com/All/Our-Pups/i-WC2kwKz/0/M/DSC3586-M.jpg
- [3]: http://photos.littleriverview.org/All/Our-Pups/7810105_a7H5S#1377684082_WC2kwKz-A-LB (Winston and the Bee)
+ [3]: http://photos.rambleon.org/All/Our-Pups/7810105_a7H5S#1377684082_WC2kwKz-A-LB (Winston and the Bee)
