@@ -22,6 +22,8 @@ Production Build:
   stage: build
   only:
     - production
+  tags:
+    - rambleon
   script:
     - >
       docker build
