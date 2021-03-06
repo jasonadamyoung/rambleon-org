@@ -23,6 +23,9 @@ metadata:
   annotations:
     kubernetes.io/tls-acme: "true"
     cert-manager.io/cluster-issuer: "letsencrypt-production"
+    traefik.ingress.kubernetes.io/redirect-entry-point: "https"
+    ingress.kubernetes.io/whitelist-x-forwarded-for: "true"
+    traefik.ingress.kubernetes.io/whitelist-source-range: "10.0.0.0/24"
 spec:
   rules:
   - host: {{ ingress_host }}
