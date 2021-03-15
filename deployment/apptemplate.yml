@@ -24,8 +24,14 @@ metadata:
     kubernetes.io/tls-acme: "true"
     cert-manager.io/cluster-issuer: "letsencrypt-production"
     traefik.ingress.kubernetes.io/redirect-entry-point: "https"
+    kubernetes.io/ingress.class: traefik
+    traefik.ingress.kubernetes.io/preserve-host: "true"
+    traefik.ingress.kubernetes.io/redirect-permanent: "true"
+    traefik.ingress.kubernetes.io/redirect-regex: "^https://www.(.*)"
+    traefik.ingress.kubernetes.io/redirect-replacement: "https://$1"
 spec:
   rules:
+  - host: www.{{ ingress_host }}
   - host: {{ ingress_host }}
     http:
       paths:
@@ -36,6 +42,7 @@ spec:
   tls:
     - hosts:
       - {{ ingress_host }}
+      - www.{{ ingress_host }}
       secretName: {{ kube_resource_name }}.local-tls
 ---
 apiVersion: apps/v1
