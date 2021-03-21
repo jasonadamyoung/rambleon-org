@@ -33,7 +33,7 @@ Sleeping with, and most often on his brother:
 
 <a href="https://photos.rambleon.org/PhotoShare/n-sRqtzP/i-hJLMKZZ/A"><img src="https://photos.smugmug.com/photos/i-hJLMKZZ/0/e8c9ec1f/L/i-hJLMKZZ-L.jpg" alt=""></a>
 
-He's mastered it in all it's forms:
+He's mastered it in all its forms:
 
 <a href="https://photos.rambleon.org/PhotoShare/n-sRqtzP/i-33BGFsW/A"><img src="https://photos.smugmug.com/photos/i-33BGFsW/0/afcc744d/L/i-33BGFsW-L.jpg" alt=""></a>
 
