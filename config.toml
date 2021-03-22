@@ -63,7 +63,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "gitlab"
-    url = "https://gitlab.com/jasonadamyoung"
+    url = "https://gitlab.com/rambleon"
 
   [[params.social]]
     name = "gitlab"
