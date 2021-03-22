@@ -145,7 +145,7 @@ Most of all, I hope he remembers how much I dearly love him. And how much joy he
 
 13 years ago, when Truman and Winston joined our family. I tweeted out their names, and a fellow dog-loving friend from Iowa said "Winston and Truman, eh? They should be able to change the world!"
 
-He definitely changed mine.
+He did. He changed mine.
 
 <a href="https://photos.rambleon.org/PhotoShare/n-sRqtzP/i-hZKjGfs/A"><img src="https://photos.smugmug.com/photos/i-hZKjGfs/0/c858ee4b/L/i-hZKjGfs-L.jpg" alt=""></a>
 
