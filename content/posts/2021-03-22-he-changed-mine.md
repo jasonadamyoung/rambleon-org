@@ -119,7 +119,7 @@ And that one time [he went viral on the Internet](https://twitter.com/jasonadamy
 
 When he sleeps, just for a moment, I forget that I just have a few hours with him left.
 
-He's my best friend. My identity has Jason, dog dad of Truman and Winston for 13 and a half years.
+He's my best friend. My identity has been Jason, dog dad of Truman and Winston for 13 and a half years.
 
 And while he lost daily contact with his mom and his brother when his mom and I separated and divorced - he stayed with me, and has been my constant companion for 5 and a half years, through love lost and love gained again.
 
