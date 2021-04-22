@@ -3,7 +3,7 @@ title: Happiness is…
 author: jay
 type: post
 date: 2007-10-06T16:21:46+00:00
-url: /2007/10/06/happiness-is-3/
+url: /2007/10/06/happiness-is/
 categories:
   - Reflections
 
