@@ -21,7 +21,7 @@ Winston, my other dog, Truman's rescue brother, came to stay with me for a few d
 
 But that's not to be. Dogs have their own time. And the last two weeks, it became overwhelmingly clear that Winston's time with us was coming to an end. His mom had to make the decision to let him go.
 
-An each day the decline was just a little worse. Winston has always been tied to Truman, and today became that day.
+And each day the decline was just a little worse. Winston has always been tied to Truman, and today became that day.
 
 I'm not ready for him to go. But when it came to Dubbie [I've never been quite ready](/2007/12/05/priorities/)
 
