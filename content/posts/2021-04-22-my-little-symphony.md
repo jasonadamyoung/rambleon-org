@@ -15,7 +15,7 @@ tags:
 
 Today is a month to the day that [I let Truman go](/2021/03/22/he-changed-mine/) and the grief for him still comes in waves. No last calls for the night, no nose pressed to the front door glass when I get home, no incessant nudges and impatient stares at dinner o'clock. No Truman.
 
-Winston, my other dog, Truman's rescue brother, came to stay with me for a few just three weeks ago. He was so energetic, so alive, such a joy to have with me for a time. We walked all over the yard, did silly dances, baroooooed at each other at dinner time, we made plans to have doggy day-care days in the months ahead.
+Winston, my other dog, Truman's rescue brother, came to stay with me for a few days just three weeks ago. He was so energetic, so alive, such a joy to have with me for a time. We walked all over the yard, did silly dances, baroooooed at each other at dinner time, we made plans to have doggy day-care days in the months ahead.
 
 ---
 
