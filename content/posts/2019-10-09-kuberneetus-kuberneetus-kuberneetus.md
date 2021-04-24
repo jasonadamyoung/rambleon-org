@@ -10,7 +10,7 @@ categories:
 ---
 Well, clearly, writing about writing doesn&#8217;t make writing happen. So maybe if I just write a _third_ blog post where I utter the word &#8220;kuberneetus&#8221; &#8211; Wilford Brimley&#8217;s ghost will appear out of nowhere and write up my blog post for me.<figure class="wp-block-image">
 
-<img src="https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs-1024x571.png" alt="" class="wp-image-1470" srcset="https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs-1024x571.png 1024w, https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs-300x167.png 300w, https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs-768x429.png 768w, https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs-1200x670.png 1200w, https://cdn.rambleon.org/migrate/2019/10/kuberneetleüs.png 2000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+<img src="https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs-1024x571.png" alt="" class="wp-image-1470" srcset="https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs-1024x571.png 1024w, https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs-300x167.png 300w, https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs-768x429.png 768w, https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs-1200x670.png 1200w, https://cdn.rambleon.org/migrate/2019/10/kuberneetle%C3%BCs.png 2000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
 
 Well, close.
 

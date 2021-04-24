@@ -18,8 +18,8 @@ In the meantime, there&#8217;s lot of history here, and a whole lot of broken li
 
  [1]: https://rambleon.org/2014/02/08/on-the-river/
  [2]: https://rambleon.org/2016/12/21/winter-solstice/
- [3]: https://rambleon.org/2009/10/10/i-write-long-emails-and-i-cannot-lie/
+ [3]: https://rambleon.org/2009/10/09/i-write-long-emails-and-i-cannot-lie/
  [4]: https://rambleon.org/2007/12/03/your-own-gem-server-and-ruby-1-8-5/
- [5]: https://rambleon.org/2013/04/10/the-wedgebuster/
+ [5]: https://rambleon.org/2013/04/09/the-wedgebuster/
  [6]: https://rambleon.org/2015/09/09/head-in-the-clouds/
  [7]: https://en.wikipedia.org/wiki/Wabi-sabi
