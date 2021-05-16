@@ -42,7 +42,6 @@ spec:
   tls:
     - hosts:
       - {{ ingress_host }}
-      - www.{{ ingress_host }}
       secretName: {{ kube_resource_name }}.local-tls
 ---
 apiVersion: apps/v1
