@@ -1,0 +1,30 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: rambleon
+  namespace: rambleon
+  labels:
+    app: rambleon
+  annotations:
+    kubernetes.io/tls-acme: "true"
+    cert-manager.io/cluster-issuer: "letsencrypt-production"
+    traefik.ingress.kubernetes.io/redirect-entry-point: "https"
+    kubernetes.io/ingress.class: traefik
+    traefik.ingress.kubernetes.io/preserve-host: "true"
+    traefik.ingress.kubernetes.io/redirect-permanent: "true"
+    traefik.ingress.kubernetes.io/redirect-regex: "^https://www.(.*)"
+    traefik.ingress.kubernetes.io/redirect-replacement: "https://$1"
+spec:
+  rules:
+  - host: www.rambleon.org
+  - host: rambleon.org
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: rambleon
+          servicePort: http
+  tls:
+    - hosts:
+      - rambleon.org
+      secretName: rambleon.local-tls

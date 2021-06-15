@@ -1,0 +1,10 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+resources:
+- ../../base
+
+images:
+- name: registry.gitlab.com/rambleon/rambleon-org
+  newName: registry.gitlab.com/rambleon/rambleon-org
+  newTag: git-d5991844
