@@ -23,7 +23,7 @@ Production Build:
   only:
     - production
   tags:
-    - rambleon
+    - gitlab-org-docker 
   script:
     - >
       docker build
@@ -76,3 +76,5 @@ Deployment:
     - git add rambleonorg.yml
     - git commit -m "Updated rambleon.org manifest" || echo "No changes, nothing to commit!"
     - git push origin main
+  tags:
+    - gitlab-org-docker 
