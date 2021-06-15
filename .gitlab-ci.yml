@@ -69,7 +69,7 @@ Deployment:
     - git clone --recurse-submodules -j8 git@gitlab.com:rambleon/kas-deploy.git /tmp/kas-deploy
     - pushd .
     - cd deploy/overlays/production
-    - kustomize edit set image registry.gitlab.com/rambleon/rambleon-org=registry.gitlab.com/rambleon/rambleon-org:$CI_COMMIT_REF_NAME 
+    - kustomize edit set image registry.gitlab.com/rambleon/rambleon-org=registry.gitlab.com/rambleon/rambleon-org:git-${CI_COMMIT_SHORT_SHA}
     - popd
     - kustomize build deploy/overlays/production > /tmp/kas-deploy/rambleonorg.yml
     - cd /tmp/kas-deploy
