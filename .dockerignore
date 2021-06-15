@@ -19,3 +19,4 @@ Thumbs.db
 .dockerignore
 /log/*.log
 /deployment
+/deploy
