@@ -92,12 +92,12 @@ taxonomyTerm = ["HTML"]
   [outputFormats.ATOM]
     name = "ATOM"
     baseName = "atom"
-    mediaType = "application/atom+xml;charset=utf-8"
+    mediaType = "application/atom+xml"
     rel = "alternate"
     isHTML = false
     isPlainText = false
     noUgly = true
 
 [mediaTypes]
-[mediaTypes."application/atom+xml;charset=utf-8"]
+[mediaTypes."application/atom+xml"]
 suffixes = ["xml"]
