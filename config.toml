@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "//rambleon.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Rambleon"
@@ -92,13 +92,12 @@ taxonomyTerm = ["HTML"]
   [outputFormats.ATOM]
     name = "ATOM"
     baseName = "atom"
-    mediaType = "application/atom+xml"
+    mediaType = "application/atom+xml;charset=utf-8"
     rel = "alternate"
     isHTML = false
     isPlainText = false
     noUgly = true
-    permalinkable = false
 
 [mediaTypes]
-[mediaTypes."application/atom+xml"]
+[mediaTypes."application/atom+xml;charset=utf-8"]
 suffixes = ["xml"]
