@@ -126,7 +126,7 @@ _Underneath the sky so blue_
 
 For dinner, Winston would sing out loud to let me know it was time.
 
-<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="640" height="360" src="https://api.smugmug.com/services/embed/10399587228_xMDX3x2?width=640&height=360&albumId=154530013&albumKey=K7TdVJ"></iframe>
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="640" height="360" src="https://api.smugmug.com/services/embed/10399587228_xMDX3x2?width=640&amp;height=360&albumId=154530013&amp;albumKey=K7TdVJ"></iframe>
 
 ---
 

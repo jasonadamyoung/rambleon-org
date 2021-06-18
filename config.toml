@@ -1,4 +1,4 @@
-baseURL = "//rambleon.org/"
+baseURL = "https://rambleon.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Rambleon"
