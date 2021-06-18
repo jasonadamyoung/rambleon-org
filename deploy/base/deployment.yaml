@@ -31,11 +31,11 @@ spec:
             protocol: TCP
         livenessProbe:
           httpGet:
-            path: /
+            path: /nginx-health
             port: http
         readinessProbe:
           httpGet:
-            path: /
+            path: /nginx-health
             port: http
         resources:
           requests:
