@@ -6,7 +6,7 @@ theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-rssLimit = 10  # Maximum number of items in the RSS feed.
+rssLimit = 42  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 
@@ -80,3 +80,25 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "About"
     url = "about/"
     weight = 20
+
+[outputs]
+# Output HTML, and ATOM on Home
+home = ["HTML","ATOM"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+
+[outputFormats]
+  [outputFormats.ATOM]
+    name = "ATOM"
+    baseName = "atom"
+    mediaType = "application/atom+xml"
+    rel = "alternate"
+    isHTML = false
+    isPlainText = false
+    noUgly = true
+    permalinkable = false
+
+[mediaTypes]
+[mediaTypes."application/atom+xml"]
+suffixes = ["xml"]

@@ -7,4 +7,4 @@ resources:
 images:
 - name: registry.gitlab.com/rambleon/rambleon-org
   newName: registry.gitlab.com/rambleon/rambleon-org
-  newTag: git-d5991844
+  newTag: latest

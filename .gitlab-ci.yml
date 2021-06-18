@@ -20,28 +20,11 @@ Production Build:
   variables:
     GIT_SUBMODULE_STRATEGY: recursive
   stage: build
-  only:
-    - production
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+      when: always
   tags:
     - gitlab-org-docker 
-  script:
-    - >
-      docker build
-      --pull
-      --build-arg VCS_REF=${CI_COMMIT_SHA}
-      --build-arg VCS_URL=${CI_PROJECT_URL}
-      --tag ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
-      --file Dockerfile
-      .
-    - docker push ${CI_REGISTRY_IMAGE}:git-${CI_COMMIT_SHORT_SHA}
-
-Lab Build:
-  extends: .docker_stages
-  variables:
-    GIT_SUBMODULE_STRATEGY: recursive
-  stage: build
-  only:
-    - labdev
   script:
     - >
       docker build
@@ -78,3 +61,6 @@ Deployment:
     - git push origin main
   tags:
     - gitlab-org-docker 
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+      when: always
