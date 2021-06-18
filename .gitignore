@@ -6,3 +6,6 @@
 
 # ignore editor config
 .vscode
+
+# ignore hugo local gens
+resources/_gen
