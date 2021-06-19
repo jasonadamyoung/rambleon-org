@@ -15,7 +15,7 @@ stages:
   - build
   - deploy
 
-Production Build:
+Build:
   extends: .docker_stages
   variables:
     GIT_SUBMODULE_STRATEGY: recursive
