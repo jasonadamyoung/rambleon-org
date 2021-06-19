@@ -16,7 +16,7 @@ Well, close.
 
 In my last post, I wrote that the fundamental reason that I have a kubernetes cluster running this blog was that: &#8220;I needed to port an application that I developed from the ground up &#8211; and understand the end-to-end experience as both developer, cluster support, and sysadmin.&#8221;
 
-So I set out to take [an app I have developed over the last several years][1] and that was rebuilt this past year that helps some friends of mine manage a simulation baseball league (and then for good measure [the previous version, which conducts the yearly draft][2] ) and deploy it to the kubernetes cluster.
+So I set out to take [an app I have developed over the last several years][1] and that was rebuilt this past year that helps some friends of mine manage a simulation baseball league (and then for good measure the previous version, which conducts the yearly draft ) and deploy it to the kubernetes cluster.
 
 My secondary goal was when I did a &#8220;git push&#8221; I wanted the application to automatically update.
 
@@ -33,7 +33,6 @@ There are much better alternatives emerging. From [OpenFaaS][5] to [Rio][6] (or 
 But first, ku ber neetle üs. It&#8217;s showtime!
 
  [1]: https://gitlab.com/busterleague/busterleague
- [2]: https://gitlab.com/busterleague/busterdraft
  [3]: https://gitlab.com/busterleague/busterleague/blob/production/LICENSE
  [4]: https://rambleon.org/2012/07/23/notes-on-development-installs/
  [5]: https://docs.openfaas.com/
