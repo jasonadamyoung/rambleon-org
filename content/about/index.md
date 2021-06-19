@@ -11,6 +11,7 @@ date: 2013-12-18T13:47:03+00:00
   * GitLab: [jayo][1] (work)
   * GitLab: [rambleon][14] (personal)
   * GitHub: [jasonadamyoung][15]
+  * LinkedIn: [jasonadamyoung][16]
   * Twitter: [jasonadamyoung][2]
   * Photos: [jasonadamyoung@smugmug][3]
 
@@ -46,3 +47,4 @@ This web site represents **my** own personal and professional opinion. It does n
  [13]: /2009/10/09/i-write-long-emails-and-i-cannot-lie/
  [14]: https://gitlab.com/rambleon
  [15]: https://github.com/jasonadamyoung
+ [16]: https://www.linkedin.com/in/jasonadamyoung/
