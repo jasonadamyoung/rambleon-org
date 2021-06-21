@@ -32,6 +32,8 @@ _A lovely day (lovely day, lovely day, lovely day, lovely day)_<br>
 
 And the sun is shining, and the world outside beckons.
 
-In the meantime - the [wildlife is still here](https://rambleon.org/2018/05/21/mutual-of-hillsboroughs-wild-kingdom/) - this early summer we've been entertained by a juvenile barred owl just learning to find its own way in the world - and I leave you with their closeup debut from the week:
-
-<a href="https://photos.rambleon.org/Other/Blog-Photos/n-RRLgq/i-fTDSmb4/A"><img src="https://photos.smugmug.com/photos/i-fTDSmb4/0/33b4a3b4/X3/i-fTDSmb4-X3.jpg" alt=""></a>
+<figure>
+<a href="https://photos.rambleon.org/Other/BlogPhotos-2021/n-GrNtpm/i-bD4hH3K/A"><img src="https://photos.smugmug.com/photos/i-bD4hH3K/0/2a9daf03/X2/i-bD4hH3K-X2.jpg" alt=""></a>
+</a>
+<figcaption>The summer sun from 100 meters above my home in Hillsborough, North Carolina</figcaption>
+</figure>
