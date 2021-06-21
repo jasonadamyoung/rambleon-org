@@ -34,7 +34,7 @@ In the last eight days, for the first time since November 2019 - I took a long w
 
 ![Movement Calendar](https://cdn.rambleon.org/2021/IMG_3672.png)
 
-90,211 steps. 40.24 miles. Just over 321 _furlongs_ (for your factoid of the day)
+90,211 steps. 40.16 miles. Just over 321 _furlongs_ (for your factoid of the day)
 
 8 different State, County, Town, and NGO Parks - all but 1 are ~15 minutes from my home.
 
