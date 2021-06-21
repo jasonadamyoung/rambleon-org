@@ -81,7 +81,7 @@ And most of all some new perspective:
 
 Those walks weren't limited to the parks, my own home is its own retreat in a way. Just walking around the yard brings new sights and sounds and even smells every day.
 
-I got to play with a DJI Mavic Mini2 this week, and the view from 400 high was something to behold:
+I got to play with a DJI Mavic Mini2 this week, and the view from 400 feet high was something to behold:
 
 <a href="https://photos.rambleon.org/Other/BlogPhotos-2021/n-GrNtpm/i-WN9G79s/A"><img src="https://photos.smugmug.com/photos/i-WN9G79s/0/182df584/XL/i-WN9G79s-XL.jpg" alt=""></a>
 
