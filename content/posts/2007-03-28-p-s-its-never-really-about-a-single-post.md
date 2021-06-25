@@ -25,6 +25,6 @@ p.p.s Oh, man, I forgot about the sponsorship link. This post sponsored by the S
 
  [1]: https://rambleon.org/2007/03/27/good-grief-people-stop-with-the-local-gems/
  [2]: https://rambleon.org/2006/01/26/how-to-unsubscribe-from-ncsu-lists/
- [3]: https://rambleon.org/2007/03/21/no-quarters-no-nikes-none-of-the-time/
+ [3]: https://rambleon.org/2007/03/21/railsians/
  [4]: http://errtheblog.com/
- [5]: http://errtheblog.com/post/35
+ [5]: http://errtheblog.com/posts/33-my-rails-toolbox
