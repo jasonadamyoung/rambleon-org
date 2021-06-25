@@ -19,7 +19,7 @@ But if you are responsible for the application AND the server? (or your shop is?
 
 No.
 
-Not just no. But HELL No. And I’d really like to write “HELL No” in an <h1> but I’m going to avoid that for the sake of sanity
+Not just no. But HELL No. And I’d really like to write “HELL No” in an `<h1>` but I’m going to avoid that for the sake of sanity
 
 I’ve yet to figure out why the rails community has this inbred desire to cause harm to their reputation in organizations that aren’t pure dev shops. I’m not even talking about the enterprise, I’m talking about small business, non-profits, companies they contract with, academic shops…
 
