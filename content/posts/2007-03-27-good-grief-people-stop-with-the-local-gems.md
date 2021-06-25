@@ -39,5 +39,5 @@ While every application should have a definite lifecycle &#8211; you know, and I
 
 Rails developers have to start figuring out that someone beyond them is going to be responsible for inheriting what they’ve done &#8211; and they have to start thinking more seriously about dependencies, third-party code, add-ons, and the lifecycle of what they do. It’s like two-bytes for the year value all over again. Seriously people, no amount of “unit tests,” “syntactic sugar,” and vendor kung-foo will ever trump communication and documentation (I don’t mean constantly out-of-date systems analyst documentation &#8211; I mean documentation about decisions and why something was done, or why it was added, etc.)
 
- [1]: http://errtheblog.com/post/2120
+ [1]: http://errtheblog.com/posts/50-vendor-everything
  [2]: http://weblog.rubyonrails.org/2006/8/9/rails-1-1-5-mandatory-security-patch-and-other-tidbits
