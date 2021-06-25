@@ -41,7 +41,7 @@ If any Rails person that actually reads this has any kind of visceral &#8211; �
 A HUGE “thanks!” to the Rails team for including <code class="highlighter-rouge">Dependencies.log_activity = true</code> as part of dependencies.rb. That helped **a lot** &#8211; and helped provide a glimpse into the automagic dependency management of Rails too.
 
  [1]: http://weblog.rubyonrails.org/2006/3/31/freeze-is-cool-so-freeze-for-goodness-sake
- [2]: http://weblog.rubyonrails.com/2006/8/9/rails-1-1-5-mandatory-security-patch-and-other-tidbits
+ [2]: http://weblog.rubyonrails.org/2006/8/9/rails-1-1-5-mandatory-security-patch-and-other-tidbits
  [3]: https://rambleon.org/2007/02/21/quote-of-the-day-6/
  [4]: http://www.railtie.net/articles/2006/11/02/deprecations-in-rails-1-2
  [5]: http://dev.rubyonrails.org/ticket/7553
