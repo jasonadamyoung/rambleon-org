@@ -49,13 +49,13 @@ Deployment:
     - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
   script:
     - git config --list
-    - git clone --recurse-submodules -j8 git@gitlab.com:rambleon/kas-deploy.git /tmp/kas-deploy
+    - git clone --recurse-submodules -j8 git@gitlab.com:rambleon/kas-config.git /tmp/kas-config
     - pushd .
     - cd deploy/overlays/production
     - kustomize edit set image registry.gitlab.com/rambleon/rambleon-org=registry.gitlab.com/rambleon/rambleon-org:git-${CI_COMMIT_SHORT_SHA}
     - popd
-    - kustomize build deploy/overlays/production > /tmp/kas-deploy/rambleonorg.yml
-    - cd /tmp/kas-deploy
+    - kustomize build deploy/overlays/production > /tmp/kas-config/rambleonorg.yml
+    - cd /tmp/kas-config
     - git add rambleonorg.yml
     - git commit -m "Updated rambleon.org manifest" || echo "No changes, nothing to commit!"
     - git push origin main
