@@ -14,7 +14,7 @@ Apparently James has now started using it and wondered where the heck I got it f
 
 And I hadn’t the slightest idea.
 
-Until, thanks to Wikipedia(*) &#8211; the root of the phrase is from the late sportscaster [Chick Hearn][1]. I’m sure that Mr. Hearn’s phrase made its way through sportscasting, and to friends of mine and to me, for me to subvert to the fun and exciting world of technology.
+Until, thanks to Wikipedia(*) — the root of the phrase is from the late sportscaster [Chick Hearn][1]. I’m sure that Mr. Hearn’s phrase made its way through sportscasting, and to friends of mine and to me, for me to subvert to the fun and exciting world of technology.
 
 (* it’s not all [wikiality][2] )
 

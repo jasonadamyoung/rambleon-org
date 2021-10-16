@@ -16,7 +16,7 @@ One of the points in that was this:
 
 > If Jason Young wants to volunteer he can certainly come on board. The last time we asked for volunteers for the Communication committee he did not volunteer.
 
-I actually laughed a bit when I read that, not at the poster, at myself. Because that’s for dang sure, I can’t complain about something and not step up to it, but I did have some rationale for it, and I thought my response was pretty relevant to things outside my community &#8211; and to colleagues and to the eventual “Googlization” of this
+I actually laughed a bit when I read that, not at the poster, at myself. Because that’s for dang sure, I can’t complain about something and not step up to it, but I did have some rationale for it, and I thought my response was pretty relevant to things outside my community — and to colleagues and to the eventual “Googlization” of this
 
 > This is a completely fair criticism. I have made a big deal about communication, and continue to do so, and in fact, did not volunteer for the “Communication committee” I was even asked twice about it and I didn’t respond.
 

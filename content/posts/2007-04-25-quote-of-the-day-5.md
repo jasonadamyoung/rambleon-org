@@ -13,9 +13,9 @@ From [Keith Whitney][1]
 
 > “Few things retain their coolness across generations.”
 
-I had a Macintosh Plus at my co-op job at GTE Government Systems &#8211; complete with beer can mouse. When I managed to finagle myself a leftover IIci &#8211; that was the greatest day ever.
+I had a Macintosh Plus at my co-op job at GTE Government Systems — complete with beer can mouse. When I managed to finagle myself a leftover IIci — that was the greatest day ever.
 
-My first personal Macintosh was a 6100/AV &#8211; then I fell off the bandwagon with a bunch of NT-based PC’s for years.
+My first personal Macintosh was a 6100/AV — then I fell off the bandwagon with a bunch of NT-based PC’s for years.
 
 This post would be tagged (if I had tags) as “uphillbothwaysinthesnow”
 

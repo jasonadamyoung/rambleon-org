@@ -15,11 +15,11 @@ tags:
   - noise
 
 ---
-So… after a little more than a year with my first [digital SLR][1] &#8211; I decided the take the plunge and go from a camera that was just beyond my ability to one that is WAY [beyond my ability][2]. Hopefully I’ll give this one a bit more time to catch up to it.
+So… after a little more than a year with my first [digital SLR][1] — I decided the take the plunge and go from a camera that was just beyond my ability to one that is WAY [beyond my ability][2]. Hopefully I’ll give this one a bit more time to catch up to it.
 
-There were a lot of reasons I went from the D80 to the D300, most of centers on being able to take continuous pictures faster. I take a lot of pictures of [the dogs][3] &#8211; and a lot of pictures of my wife’s horse jumping (she’s an eventer) &#8211; and I wanted something that would focus better, take more continuous frames, and did better at higher ISOs. I’m pretty happy with all of that so far (and the D300 meters in tough situations a lot better).
+There were a lot of reasons I went from the D80 to the D300, most of centers on being able to take continuous pictures faster. I take a lot of pictures of [the dogs][3] — and a lot of pictures of my wife’s horse jumping (she’s an eventer) — and I wanted something that would focus better, take more continuous frames, and did better at higher ISOs. I’m pretty happy with all of that so far (and the D300 meters in tough situations a lot better).
 
-One thing though, that I have been more than a bit mystified by though is the noise at ISO 800. Everyone review I read about the D300 was that the noise difference (vs. the D200, D80, and others) was spectacular. I can see a difference &#8211; but it’s a lot less pronounced than the reviews seemed to make it out to be.
+One thing though, that I have been more than a bit mystified by though is the noise at ISO 800. Everyone review I read about the D300 was that the noise difference (vs. the D200, D80, and others) was spectacular. I can see a difference — but it’s a lot less pronounced than the reviews seemed to make it out to be.
 
 And the jury’s still out on this, but I’m not all that sure that what I’m seeing isn’t due to [Adobe Lightroom][4] (which is my raw processor and image organization tool of choice).
 
@@ -53,7 +53,7 @@ iPhoto’s default seems a lot like Aperture.
 
 ![][13]
 
-Now &#8211; what about some adjustments? I really didn’t spend much time playing with Capture NX, one, because it’s incredibly slow to preview anything (which may be cause of Leopard, I don’t know), and two, doing anything seems to radically change things (moving the slider all the way really changes the image). So here’s Lightroom, and Aperture cranked up.
+Now — what about some adjustments? I really didn’t spend much time playing with Capture NX, one, because it’s incredibly slow to preview anything (which may be cause of Leopard, I don’t know), and two, doing anything seems to radically change things (moving the slider all the way really changes the image). So here’s Lightroom, and Aperture cranked up.
 
 **Lightroom:**
 
@@ -83,9 +83,9 @@ In case you are wondering about the “No Noise Reduction” case, here’s Ligh
 
 ## The Verdict {#the-verdict}
 
-Noise reduction, like beauty, is probably all in the eye of the beholder.   But my eye really prefers how Capture NX handles the noise by default.    I know that Lightroom is trying to preserve edge detail, and it’s a “different” kind of NR &#8211; but I think that the default leaves a bit to be desired compared to the defaults for both Capture NX and Aperture.
+Noise reduction, like beauty, is probably all in the eye of the beholder.   But my eye really prefers how Capture NX handles the noise by default.    I know that Lightroom is trying to preserve edge detail, and it’s a “different” kind of NR — but I think that the default leaves a bit to be desired compared to the defaults for both Capture NX and Aperture.
 
-Cranked up, it’s hard to say.   It’s good, but I’d still leave the edge to Aperture here &#8211; and certainly Capture is powerful (too powerful) &#8211; and iPhoto leaves all semblance of subtlety behind with it’s modifications.
+Cranked up, it’s hard to say.   It’s good, but I’d still leave the edge to Aperture here — and certainly Capture is powerful (too powerful) — and iPhoto leaves all semblance of subtlety behind with it’s modifications.
 
 I’m still a bigger fan of how Lightroom handles my photo library.  (though I haven’t given the Aperture trial a full and fair shake with Library handling).  Although I despise how Aperture handles zooming, I really like Lightroom’s handling here.    Capture NX, is well, just weird.  I’d only see myself using it when there’s an image that I really, really like and want to see if it will do things with it that the others can’t.
 

@@ -25,6 +25,6 @@ I mean, can you really ask for a better decision for the week? 🙂
 
 Proving that I am indeed, a glutton for all things punishable, I rescheduled the dentist appointment for the afternoon.
 
-We’ve already named one project “Seymour” &#8211; maybe the next one will be named [Orin Scrivello, DDS][1] 😉
+We’ve already named one project “Seymour” — maybe the next one will be named [Orin Scrivello, DDS][1] 😉
 
  [1]: http://en.wikipedia.org/wiki/Special:Search?search=Orin+Scrivello

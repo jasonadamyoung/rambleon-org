@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-[This is one of the reasons I like Macintosh OS X][1] &#8211; option+drag-and-drop an image into a terminal window to set a background image for the window. Great fun.
+[This is one of the reasons I like Macintosh OS X][1] — option+drag-and-drop an image into a terminal window to set a background image for the window. Great fun.
 
 Though in the sage words of a co-worker:
 

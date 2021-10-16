@@ -12,9 +12,9 @@ tags:
 ---
 (alternatively titled “things that make a sysadmin happy”)
 
-It’s really, really, really nice to have [cyradm][1] available for Mac OS X &#8211; thanks to the fine contributors to the [fink project][2].
+It’s really, really, really nice to have [cyradm][1] available for Mac OS X — thanks to the fine contributors to the [fink project][2].
 
-(hint: I had to reinstall XCode with every darn compiler it has to get it to compile &#8211; I think it really needs gcc3.1)
+(hint: I had to reinstall XCode with every darn compiler it has to get it to compile — I think it really needs gcc3.1)
 
 I now can way more easily manage shared mailboxes _without_ shelling into the IMAP server.
 

@@ -8,11 +8,11 @@ categories:
   - Reflections
 
 ---
-I’m recently retired (for four days, more on that soon) &#8211; so I’m in the process of making sure I have a backup of all my email. Why? I don’t know, I’ve lived so much of the last 10 years of my working life in email, it seemed like a good idea at the time.
+I’m recently retired (for four days, more on that soon) — so I’m in the process of making sure I have a backup of all my email. Why? I don’t know, I’ve lived so much of the last 10 years of my working life in email, it seemed like a good idea at the time.
 
 What is fun about it is finding things that long ago I forgot that I said. There’s a whole lot that never should see the light of day, but some of them–with a little tweaking–deserve a public airing, particularly if they involve monkeys.
 
-My [(now former) boss, Kevin Gamble][1] has an oft-repeated mantra of what you can do with the organization issues &#8211; the metaphorical “monkeys on your back”.
+My [(now former) boss, Kevin Gamble][1] has an oft-repeated mantra of what you can do with the organization issues — the metaphorical “monkeys on your back”.
 
 You can:
 

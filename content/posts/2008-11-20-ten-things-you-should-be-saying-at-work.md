@@ -14,9 +14,9 @@ tags:
 ---
 Earlier this week [James shared][1] this [article from publishing CEO Michael Hyatt][2] about the “10 things you’d love to say at work but can’t”
 
-But you know, in my job, I find it more prevalent that there’s an awful lot of things at work that we should be saying &#8211; but don’t. And I don’t mean those “I love the work you do” express-the-unspoken-gratitude-and-appreciation-for-your-colleagues-more-than-you-do things . I mean, real, legitimate definitive discourse about things we do, and the things we don’t do.
+But you know, in my job, I find it more prevalent that there’s an awful lot of things at work that we should be saying — but don’t. And I don’t mean those “I love the work you do” express-the-unspoken-gratitude-and-appreciation-for-your-colleagues-more-than-you-do things . I mean, real, legitimate definitive discourse about things we do, and the things we don’t do.
 
-Here are some of mine &#8211; and as you might imagine [if you have perused prior postings heretofore][3] mine come mainly the the form of questions.
+Here are some of mine — and as you might imagine [if you have perused prior postings heretofore][3] mine come mainly the the form of questions.
 
   1. Who, exactly, is “they”?
   2. <table>
@@ -40,7 +40,7 @@ Here are some of mine &#8211; and as you might imagine [if you have perused prio
   9. No.
  10. Why?
 
-That’s my 10 off the top &#8211; what are yours?
+That’s my 10 off the top — what are yours?
 
  [1]: http://friendfeed.com/e/8d275e88-7d09-347f-2476-f2cd53ddbeae/10-Things-You-d-Love-to-Say-at-Work-But-Can/
  [2]: http://www.michaelhyatt.com/fromwhereisit/2008/11/10-things-youd.html

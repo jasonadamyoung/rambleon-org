@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-Surprisingly &#8211; a federal judge actually is sane, and ruled that [Major League Baseball][1] can’t license facts.
+Surprisingly — a federal judge actually is sane, and ruled that [Major League Baseball][1] can’t license facts.
 
 This is absolutely fantastic. Maybe the best ruling in the entire court system this year.
 

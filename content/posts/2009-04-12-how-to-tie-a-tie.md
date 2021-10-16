@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Here’s the secret. Actually, I’m incredibly out of practice, and haven’t the foggiest anymore, so [let me Google “how to tie a tie” for you][1] &#8211; along with the rest of the U.S. today &#8211; at least according to [Google Trends][2]:
+Here’s the secret. Actually, I’m incredibly out of practice, and haven’t the foggiest anymore, so [let me Google “how to tie a tie” for you][1] — along with the rest of the U.S. today — at least according to [Google Trends][2]:
 
 ![google-trends][3]
 
@@ -16,13 +16,13 @@ Quite the swing upward today:
 
 ![google-trends_-how-to-tie-a-tie-apr-12-2009][4]
 
-If you are a content producer &#8211; there’s a lesson here. It’s the same old world folks &#8211; folks seek information on the same old, surprisingly mundane things &#8211; but not in the same old, surprisingly mundane ways.
+If you are a content producer — there’s a lesson here. It’s the same old world folks — folks seek information on the same old, surprisingly mundane things — but not in the same old, surprisingly mundane ways.
 
 And all across the USA today, hundreds of thousands of parents, children, spouses, and significant others are straightening out those instructions this morning in person. And perhaps that may be the most important lesson of all.
 
 (thanks to [Nate Johnson][5] and [Brian Shrader][6] for highlighting this today)
 
-p.s. Updated to add &#8211; it’s a whole different world [over at search.twitter.com][7]
+p.s. Updated to add — it’s a whole different world [over at search.twitter.com][7]
 
 ![twitter-search][8]
 

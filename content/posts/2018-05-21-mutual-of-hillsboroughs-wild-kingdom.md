@@ -8,7 +8,7 @@ categories:
   - photography
 
 ---
-I&#8217;ve been fortunate this spring that a pair of red shouldered hawks decided to build a nest here in the backyard.
+I've been fortunate this spring that a pair of red shouldered hawks decided to build a nest here in the backyard.
 
 A juvenile has emerged, and this weekend, after a bit of shyness, decided it was ready for its graduation pictures:
 

@@ -10,11 +10,11 @@ categories:
 ---
 A few days ago, I walked into a bookstore looking for a magazine, or some kind of book that I could take with me on a plane trip to a [conference][1]. I was geared toward finding a magazine about current events, something non-technology, a bit of a change of pace.
 
-The targeted marketing table for some kind of theme that I don’t remember caught my eye, and I picked up [the essay collection][2] from the [This I Believe][3] series from NPR. I thumbed through a few, liked what I read, like how the 3 pages each fit into my short attention span. And I put the book down, I wasn’t really planning on buying a book &#8211; my shelves and nightstand are already littered with too many half-read tomes that probably won’t ever get read.
+The targeted marketing table for some kind of theme that I don’t remember caught my eye, and I picked up [the essay collection][2] from the [This I Believe][3] series from NPR. I thumbed through a few, liked what I read, like how the 3 pages each fit into my short attention span. And I put the book down, I wasn’t really planning on buying a book — my shelves and nightstand are already littered with too many half-read tomes that probably won’t ever get read.
 
 But then I flipped through again, and read [Jason Sheehan’s essay about barebecue][4], and I knew I had to have it, I don’t think that I could have the temerity to leave behind a book that talks about _both_ belief **and** barbecue.
 
-I’ve half-read this one too, but that’s only because I was limited to reading it on a 2-hour plane trip &#8211; half the time with mind wandering to my own set of “this I believes”. My thoughts at first led to if I were to write my own, that I’m sure it would have been about [asking questions][5].
+I’ve half-read this one too, but that’s only because I was limited to reading it on a 2-hour plane trip — half the time with mind wandering to my own set of “this I believes”. My thoughts at first led to if I were to write my own, that I’m sure it would have been about [asking questions][5].
 
 * * *
 

@@ -10,15 +10,15 @@ tags:
   - software
 
 ---
-As a software developer, I’m keenly aware that the tools we create both empower and frustrate those that use them. I guess after what feels to be four or five internet lifetimes by now, I’ve gotten used to adapting to the features &#8211; and the quirks &#8211; of whatever software packages I use myself.
+As a software developer, I’m keenly aware that the tools we create both empower and frustrate those that use them. I guess after what feels to be four or five internet lifetimes by now, I’ve gotten used to adapting to the features — and the quirks — of whatever software packages I use myself.
 
-My development, both at work, personal, and contract deals with MySQL. And for a long time, I’d run a local instance of phpMyAdmin so that I could get at the DB. And I’m grateful for phpMyAdmin &#8211; but most of the time I just need something that will help create db’s and users, and give me a nice interface and history for queries.
+My development, both at work, personal, and contract deals with MySQL. And for a long time, I’d run a local instance of phpMyAdmin so that I could get at the DB. And I’m grateful for phpMyAdmin — but most of the time I just need something that will help create db’s and users, and give me a nice interface and history for queries.
 
 And that’s when I started using [Querious][1] for the Macintosh. If it all it did was give me a native application to do the routine stuff, and a query window, I’d be fine with it, and it would be worth the $30.
 
-One feature in particular though that stands out, and that has come in amazingly handy is their CSV import. To assist some friends and colleagues of mine in a simulated baseball draft league, I wrote a web app that manages the baseball draft &#8211; and allows custom rankings of players for individual league owners. Importing that data though involves trying to get an excel spreadsheet of stats into the database &#8211; and for anyone that’s done this, you know it can be a major pain to line up stat columns and types with the db columns.
+One feature in particular though that stands out, and that has come in amazingly handy is their CSV import. To assist some friends and colleagues of mine in a simulated baseball draft league, I wrote a web app that manages the baseball draft — and allows custom rankings of players for individual league owners. Importing that data though involves trying to get an excel spreadsheet of stats into the database — and for anyone that’s done this, you know it can be a major pain to line up stat columns and types with the db columns.
 
-Not so with Querious. The app has what might be one of my favorite features in a software program ever &#8211; a drag and drop association of import columns to db columns:
+Not so with Querious. The app has what might be one of my favorite features in a software program ever — a drag and drop association of import columns to db columns:
 
 ![][2]
 

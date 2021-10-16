@@ -10,7 +10,7 @@ categories:
   - Uncategorized
 
 ---
-I took this picture a few weeks ago (along with [this one][1]) had originally marked this photo as rejected &#8211; but I hadn’t deleted it yet &#8211; and in the process of showing some of the features in Lightroom &#8211;
+I took this picture a few weeks ago (along with [this one][1]) had originally marked this photo as rejected — but I hadn’t deleted it yet — and in the process of showing some of the features in Lightroom —
 
 [![Great Cosmic Question][2]][3]
 
@@ -18,7 +18,7 @@ we spotted this cloud formation:
 
 ![Question][4]
 
-It’s no Mother Theresa in a sticky bun or anything &#8211; but hey &#8211; you take what you can get.
+It’s no Mother Theresa in a sticky bun or anything — but hey — you take what you can get.
 
  [1]: /2007/03/26/and-day-turned-to-night/
  [2]: http://farm1.static.flickr.com/179/451543489_ca48752985.jpg

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-My local community had a small parade on July 4th &#8211; and [I spent some time taking pictures][1] there.
+My local community had a small parade on July 4th — and [I spent some time taking pictures][1] there.
 
 One thing that I thought was quite interesting was the initial parade of local politicians. I wasn’t really surprised, it’s an election year, and July 4th is a political holiday, and I expect the politicians to be there.
 

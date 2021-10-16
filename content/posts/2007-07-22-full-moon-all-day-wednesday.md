@@ -10,7 +10,7 @@ tags:
   - humor
 
 ---
-I was a little worried about the apocalypse for a moment there &#8211; but the sun will be back thursday and friday, so it should all be okay.
+I was a little worried about the apocalypse for a moment there — but the sun will be back thursday and friday, so it should all be okay.
 
 ![firefoxscreensnapz027.jpg][1]
 

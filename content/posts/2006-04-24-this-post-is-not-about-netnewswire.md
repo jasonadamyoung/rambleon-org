@@ -14,8 +14,8 @@ Which, by the way, is starting to make noise, so maybe what’s coming now is fo
 
 I started using my free Newsgator subscription that comes with being a registered user of NetNewsWire in 2.1b32 of the aggregator. So I’ll give that a go. I think it will work out, but it annoys me that some subscriptions won’t update immediately. I think for the eXtension feeds, I’ll end up putting those in reblog or something. But I digress.
 
-I started this before I left work today and managed to leave my iPod connected at work instead of bringing it home. So I didn’t have my iPod with me. Since I logged out at work &#8211; the iPod volume was unmounted at logout.
+I started this before I left work today and managed to leave my iPod connected at work instead of bringing it home. So I didn’t have my iPod with me. Since I logged out at work — the iPod volume was unmounted at logout.
 
-Never fear, we have command line administration: Step one &#8211; diskutil list to get the disk device. Step two, run diskutil mountDisk /dev/diskdevice. Step Three cd /Volumes/NameOfVolumeIWant, get the data. Step four diskutil unmountDisk /dev/diskdevice.
+Never fear, we have command line administration: Step one — diskutil list to get the disk device. Step two, run diskutil mountDisk /dev/diskdevice. Step Three cd /Volumes/NameOfVolumeIWant, get the data. Step four diskutil unmountDisk /dev/diskdevice.
 
 Yay for command line tools. and SSH

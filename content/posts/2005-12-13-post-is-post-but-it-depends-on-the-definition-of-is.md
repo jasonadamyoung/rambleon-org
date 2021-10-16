@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-So Tim Gaden over at [Hawk Wings][1] (a pretty decent, and pretty oft updated Apple Mail.app tips site) &#8211; went and posted an [epistle][2] on the value of “top-posting” &#8211; the practice of responding to an email above the previous sender’s message. As this (the “top posting”, not the epistle) encroaches on what many consider good taste, and might even violate an [RFC][3] &#8211; you might expect he got some responses, even an [ode to bottom posting][4].
+So Tim Gaden over at [Hawk Wings][1] (a pretty decent, and pretty oft updated Apple Mail.app tips site) — went and posted an [epistle][2] on the value of “top-posting” — the practice of responding to an email above the previous sender’s message. As this (the “top posting”, not the epistle) encroaches on what many consider good taste, and might even violate an [RFC][3] — you might expect he got some responses, even an [ode to bottom posting][4].
 
 After seeing both of these, and somebody’s postscript to a [Mac OS X Server list][5] thread to “P.S. please stop top-posting”. I decided that I had to respond.
 

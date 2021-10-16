@@ -10,11 +10,11 @@ tags:
   - sysadmin
 
 ---
-I am rather frustrated with Mail.app &#8211; in fact, I’m pretty close to running Entourage (not really) just to get this feature:
+I am rather frustrated with Mail.app — in fact, I’m pretty close to running Entourage (not really) just to get this feature:
 
 ![][1]
 
-That is, the ability to search mail with different criteria &#8211; e.g. messages to/from a given person containing some term in the message body.
+That is, the ability to search mail with different criteria — e.g. messages to/from a given person containing some term in the message body.
 
 Mail’s spotlight search only lets you search on the Entire Message OR From OR To OR subject. Which is pretty annoying.
 
@@ -26,7 +26,7 @@ But that’s not all that convenient in an Ad-Hoc search.
 
 * * *
 
-One nice thing that I did learn from searching in the Mail Help for, well, “searching” was that Spotlight in Mail (and Spotlight elsewhere) supports Boolean searches. However &#8211; the help is wrong &#8211; it references using the literal terms “and”, “or”, “not” And that’s wrong.
+One nice thing that I did learn from searching in the Mail Help for, well, “searching” was that Spotlight in Mail (and Spotlight elsewhere) supports Boolean searches. However — the help is wrong — it references using the literal terms “and”, “or”, “not” And that’s wrong.
 
 Apparently, at least with my limited testing “and” is assumed:
 
@@ -44,7 +44,7 @@ jason verbose => would find all messages matching the criteria selected containi
   </tr>
 </table>
 
-jason &#8211; verbose = > would find all messages matching “jason” but NOT “verbose” (obviously an empty set)
+jason — verbose = > would find all messages matching “jason” but NOT “verbose” (obviously an empty set)
 
 I assume complex queries can be built with paranthesis.
 

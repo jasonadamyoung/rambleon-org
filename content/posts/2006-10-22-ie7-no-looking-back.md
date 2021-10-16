@@ -10,8 +10,8 @@ categories:
 ---
 It is no secret that I think that Microsoft’s Internet Explorer browser is a gigantic piece of crap. It hasn’t been significantly updated since 2001, its security problems have cost customers millions of lost hours of productivity, it gives web developers headaches galore. My life has probably been shortened from the stress it’s caused.
 
-Well, IE7 is out. And maybe, just maybe, it’s not quite crap anymore &#8211; at the very least, the **major** CSS bugs have supposed to have been fixed &#8211; and there’s now transparent (alpha-channel) PNG support, and numerous security fixes. I’m a Macintosh guy &#8211; but every windows machine I have or even tacitly support will be going to IE7. And that will be my forthcoming response to every problem in IE. “Problems? Have you upgraded your browser yet? Please do so.”
+Well, IE7 is out. And maybe, just maybe, it’s not quite crap anymore — at the very least, the **major** CSS bugs have supposed to have been fixed — and there’s now transparent (alpha-channel) PNG support, and numerous security fixes. I’m a Macintosh guy — but every windows machine I have or even tacitly support will be going to IE7. And that will be my forthcoming response to every problem in IE. “Problems? Have you upgraded your browser yet? Please do so.”
 
 IT shops should be upgrading in droves.
 
-Give Microsoft a second chance &#8211; stop supporting the craptastic IE 6 browser.
+Give Microsoft a second chance — stop supporting the craptastic IE 6 browser.

@@ -10,7 +10,7 @@ categories:
 ---
 Portmanteau is a funny word.
 
-And by “funny” &#8211; I mean fun to say, fun to pronounce, and fun to drop with pomp and circumstance into a conversation, but with a twinkle in your eye that belies the fact that you aren’t really completely full of yourself.
+And by “funny” — I mean fun to say, fun to pronounce, and fun to drop with pomp and circumstance into a conversation, but with a twinkle in your eye that belies the fact that you aren’t really completely full of yourself.
 
 But I’m not writing to expound about portmanteaux. I’m writing to talk about DevOps and this war with Eurasia.
 
@@ -24,7 +24,7 @@ And even stranger is the desire of some ( looking at you [Puppet Labs][1] ) to s
 
 I’ve spent most of my career at NC State University. I’ve worn a lot of hats, but the one that I have historically most often identified with is “[sysadmin][2]”.
 
-Inconceivably, I kept using that word – “sysadmin” – and maybe, at least outside the university, it doesn’t mean what I kept thinking it meant. Maybe it’s a bit like “scale” or “client/server” &#8211; words that get redefined by everyone and their marketing department.
+Inconceivably, I kept using that word – “sysadmin” – and maybe, at least outside the university, it doesn’t mean what I kept thinking it meant. Maybe it’s a bit like “scale” or “client/server” — words that get redefined by everyone and their marketing department.
 
 At NC State, systems work – particularly on the academic and research sides – has always been development work.
 

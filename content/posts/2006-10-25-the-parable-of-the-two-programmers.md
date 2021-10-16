@@ -8,8 +8,8 @@ categories:
   - Reflections
 
 ---
-[Fascinating (and funny) &#8211; on so many levels][1]
+[Fascinating (and funny) — on so many levels][1]
 
-(and this also might actually be applicable to many state jobs, only both employees get the same raise &#8211; or no raise, and neither get a promotion)
+(and this also might actually be applicable to many state jobs, only both employees get the same raise — or no raise, and neither get a promotion)
 
  [1]: http://www.csd.uwo.ca/staff/magi/personal/humour/Computer_Audience/The%20Parable%20of%20the%20Two%20Programmers.html

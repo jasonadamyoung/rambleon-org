@@ -18,7 +18,7 @@ _If you want to measure something, then don’t measure other shit._
 
 I think I’m even more impressed with [mongrel][2] now. What can I say, I appreciate a well written rant.
 
-I’m not quite into reading [R programming][3] books for fun (sorry Kevin) &#8211; but I might spend some time with it to start getting some performance and interesting stats out of our logs.
+I’m not quite into reading [R programming][3] books for fun (sorry Kevin) — but I might spend some time with it to start getting some performance and interesting stats out of our logs.
 
  [1]: http://www.zedshaw.com/blog/programming/programmer_stats.html
  [2]: http://mongrel.rubyforge.org/

@@ -16,7 +16,7 @@ Cool, it [looks like there’s an update to mysql in RHEL5v4][1] (to version [5.
 
 That means [this bug][3] is about to get fixed. I [wasted a bit too much of my life][4] on that bug last year.
 
-p.s. 5077 sounded awfully familiar &#8211; but after double-checking, it was not the [unit number for the famous fictional MASH unit][5]. Whew.
+p.s. 5077 sounded awfully familiar — but after double-checking, it was not the [unit number for the famous fictional MASH unit][5]. Whew.
 
  [1]: http://www.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/5.4/html-single/Technical_Notes/#id495386
  [2]: http://dev.mysql.com/doc/refman/5.0/en/news-5-0-77.html

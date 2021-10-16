@@ -10,7 +10,7 @@ tags:
   - linkblog
 
 ---
-I mean _irregardless_ of the fact that [they have the inside scoop][1] on details about the Apple-Cisco iPhone agreement that no one else has &#8211; clearly they go places where no other journalist goes.
+I mean _irregardless_ of the fact that [they have the inside scoop][1] on details about the Apple-Cisco iPhone agreement that no one else has — clearly they go places where no other journalist goes.
 
 namely:
 

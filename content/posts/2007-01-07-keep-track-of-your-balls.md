@@ -15,9 +15,9 @@ But before the little moral of the tale gets too far extended into other areas o
 
 Keep track of your balls.
 
-It’s completely okay if you drop a ball. The world definitely won’t end. But if you drop a ball &#8211; just remember it’s on the floor. It’s completely okay to leave the ball on the floor, no really &#8211; DROP THE BALL AND LEAVE IT ON THE FLOOR. But know it’s there. Even better find a teammate &#8211; a spotter if you will. “Hey I dropped that ball &#8211; it’s on the floor” They might not be able to pick the ball up either &#8211; but they can help you keep an eye on it too.
+It’s completely okay if you drop a ball. The world definitely won’t end. But if you drop a ball — just remember it’s on the floor. It’s completely okay to leave the ball on the floor, no really — DROP THE BALL AND LEAVE IT ON THE FLOOR. But know it’s there. Even better find a teammate — a spotter if you will. “Hey I dropped that ball — it’s on the floor” They might not be able to pick the ball up either — but they can help you keep an eye on it too.
 
-Because if you don’t keep track of your balls &#8211; inevitably you are going to be walking around, juggling your current set, and step on that one, and have your feet fly out from underneath you, and fall on your rump and have every other ball go scattering everywhere.
+Because if you don’t keep track of your balls — inevitably you are going to be walking around, juggling your current set, and step on that one, and have your feet fly out from underneath you, and fall on your rump and have every other ball go scattering everywhere.
 
 Which, actually, the world doesn’t end then either, just rub your sore rump, laugh out loud (don’t blame the spotter) and go pick your some of the balls back up. Return some of them from whence they came, or just mark their spot on the floor.
 

@@ -12,7 +12,7 @@ I think it’s this one:
 
 [![Capital Curve][1]][2]
 
-But I [enjoyed taking a number of pictures this weekend][3] and other than busting my rear on the rocks at the old lassiter mill (“save a camera, fall on your elbow”) &#8211; I was happy with a few of them.
+But I [enjoyed taking a number of pictures this weekend][3] and other than busting my rear on the rocks at the old lassiter mill (“save a camera, fall on your elbow”) — I was happy with a few of them.
 
 Have I mentioned I really like Adobe Lightroom recently? Man I can’t wait for the 1.0 version.
 

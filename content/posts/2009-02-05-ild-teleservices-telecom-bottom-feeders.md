@@ -15,15 +15,15 @@ tags:
 ---
 We are some of those very rare communication consumers that have actually gone back to having traditional plain old telephone service (POTS, or the colloquial ‘land-line’). My wife and I both for many years prior to being in our current house were cell-phone only customers. But we are just far enough out to be in a limited service area for cell service. In the winter it’s ok, in the summer when the leaves fill out, the service is not even reliable enough to be sure we could make an emergency call.
 
-So after weighing options, we went with POTS service with our local monopoly provider &#8211; Embarq.
+So after weighing options, we went with POTS service with our local monopoly provider — Embarq.
 
-The service has been reliable and the customer service good actually. Their web service for billing/payment is horrendous, but I expect that from the monopoly providers. One of the issues that we’ve run into is that we apparently inherited the phone number that belonged to a person with some, “financial difficulties” &#8211; so we get robocalls from creditors (some of which are just awful. The continued “if you are not this person, then please hang up” calls are the worst).
+The service has been reliable and the customer service good actually. Their web service for billing/payment is horrendous, but I expect that from the monopoly providers. One of the issues that we’ve run into is that we apparently inherited the phone number that belonged to a person with some, “financial difficulties” — so we get robocalls from creditors (some of which are just awful. The continued “if you are not this person, then please hang up” calls are the worst).
 
-It was all well and good, until this bill this month, where we had a $7.70 charge &#8211; $7.20 + $.50 taxes from a “third-party provider” named **ILD Teleservices**. For a three minute “collect call.” That happened when we were out of town for the weekend.
+It was all well and good, until this bill this month, where we had a $7.70 charge — $7.20 + $.50 taxes from a “third-party provider” named **ILD Teleservices**. For a three minute “collect call.” That happened when we were out of town for the weekend.
 
 I called **Embarq**. Who actually blamed it on me. “It must have been a service you signed up for”
 
-UM, NO &#8211; I WAS OUT OF TOWN.
+UM, NO — I WAS OUT OF TOWN.
 
 “Well, this isn’t our charge, there’s a customer service number for **ILD Teleservices** on your bill, call them, and they’ll credit you.
 
@@ -41,7 +41,7 @@ I AM NOT INTERESTED IN ANYTHING YOU HAVE TO SELL.
 
 Sigh.
 
-I then called \*\* ILD Teleservices\*\*. After searching in Google and finding hundreds of similar reports. I was on hold for 15 minutes or so. And without actually any explanation on my part &#8211; the person said “I see you have a charge, do you remember taking a collect call?”
+I then called \*\* ILD Teleservices\*\*. After searching in Google and finding hundreds of similar reports. I was on hold for 15 minutes or so. And without actually any explanation on my part — the person said “I see you have a charge, do you remember taking a collect call?”
 
 NO.
 
@@ -51,4 +51,4 @@ This is nuts. Absolutely nuts.
 
 This has to be one of the most corrupt industry practices I can imagine. **ILD Teleservices** and **Embarq** have joined together into this “Let’s just randomly bill people, and see if they notice”
 
-When Google finds this post &#8211; and you have found yourself billed by \*\* ILD Teleservices\*\* and **Embarq** in the same manner? It’s a scam &#8211; a corrupt and unethical business practice. Pure and simple. So get your money back.
+When Google finds this post — and you have found yourself billed by \*\* ILD Teleservices\*\* and **Embarq** in the same manner? It’s a scam — a corrupt and unethical business practice. Pure and simple. So get your money back.

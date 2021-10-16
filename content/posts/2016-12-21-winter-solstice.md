@@ -17,16 +17,16 @@ categories:
 > </p>
 >
 > <p class="p1">
->   &#8211; Elephant Revival, &#8220;<a href="https://open.spotify.com/track/1LoqoTbFVYJsSqsH7BHiYP">Season Song</a>&#8220;
+>   — Elephant Revival, "<a href="https://open.spotify.com/track/1LoqoTbFVYJsSqsH7BHiYP">Season Song</a>"
 > </p>
 
 The last time I wrote words in this space, I wrote of a [young lady that I encountered on a flight][1] to Indianapolis, and the wish I ended the set of words with then was as much for me as it was for her, that our sense of wonder would not abate whatever the reality was to come.
 
 That reality for me was release and pain, deeply intertwined: the official separation of a nine-year marriage, and the subsequent divorce. The separation and loss for both of pets that stayed with the other. Hard thoughts, hard feelings, hard grace, hard love.
 
-It is an emptiness that hasn&#8217;t gone away.  I&#8217;m not sure it will ever quite go away.
+It is an emptiness that hasn't gone away.  I'm not sure it will ever quite go away.
 
-And I&#8217;m not sure it should.
+And I'm not sure it should.
 
 But in release, a reminder that life, that like the Universe, presents infinite opportunities to  dream, and to learn, to grow, and hopefully to be. A life that continually expands and reminds that there are thoughts/feelings/grace/love that have/do/will expand my capacity to fill in new spaces around that emptiness.
 
@@ -44,15 +44,15 @@ With love.
 
 With, to borrow from Kipling, both Triumph and Disaster, and I am learning, slowly, daily, to treat those two imposters just the same.
 
-Life, reality, dreams, all that it has to hold, has shown itself to be an incredibly beautiful and amazing thing, and I wouldn&#8217;t trade one moment of the last year, or the nine years prior, or the last forty-three years of my time on this earth for anything.  Not one moment of the pain. For that provides the contrast to better see the joy that the last year held and all the years before.
+Life, reality, dreams, all that it has to hold, has shown itself to be an incredibly beautiful and amazing thing, and I wouldn't trade one moment of the last year, or the nine years prior, or the last forty-three years of my time on this earth for anything.  Not one moment of the pain. For that provides the contrast to better see the joy that the last year held and all the years before.
 
-Today is the Winter Solstice. A pause in the Sun&#8217;s declination as it appears to return again to focus on the Earth&#8217;s Northern Hemisphere, a key moment in the seasons on this Earth. And maybe that pause in the Sun&#8217;s declination provides the opportunity to both reflect and the opportunity to return to this space after this time of quiet.
+Today is the Winter Solstice. A pause in the Sun's declination as it appears to return again to focus on the Earth's Northern Hemisphere, a key moment in the seasons on this Earth. And maybe that pause in the Sun's declination provides the opportunity to both reflect and the opportunity to return to this space after this time of quiet.
 
-I&#8217;ve seen a lot of musical groups this year. More, I think, then in all the years prior.  The words at the beginning of the this post are from a band that I had the chance to share this year with a dear friend that has been and is a deeply integral connection with this year&#8217;s music, observation, exploration, energy, and especially love.
+I've seen a lot of musical groups this year. More, I think, then in all the years prior.  The words at the beginning of the this post are from a band that I had the chance to share this year with a dear friend that has been and is a deeply integral connection with this year's music, observation, exploration, energy, and especially love.
 
 No more appropriate words could mark the dual ending/beginning that this Solstice represents.
 
-Here&#8217;s to warmth and mirth, but especially new seeds, new words, new _wonder _found each day and each dawn as the Earth turns and tilts the LittleRiverView back towards the Sun.
+Here's to warmth and mirth, but especially new seeds, new words, new _wonder _found each day and each dawn as the Earth turns and tilts the LittleRiverView back towards the Sun.
 
 &nbsp;
 

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Reading my feeds this morning, there’s another [well-written (but borderline obtuse) article][1] from [Rands][2] about what he’s calling “Malcolm Events” &#8211; those seemingly inconsequential details in the course of a project that you have to capture and make common knowledge in your group (nee, your whole organization) &#8211; or you are screwed.
+Reading my feeds this morning, there’s another [well-written (but borderline obtuse) article][1] from [Rands][2] about what he’s calling “Malcolm Events” — those seemingly inconsequential details in the course of a project that you have to capture and make common knowledge in your group (nee, your whole organization) — or you are screwed.
 
 You have to read the article, but I’m going to cherry pick a quote that I found particular useful:
 
@@ -16,7 +16,7 @@ You have to read the article, but I’m going to cherry pick a quote that I foun
 
 The issue isn’t that specifications are a bad idea, it’s that they are time-consuming and, remember, we’re in a hurry.
 
-It’s semi-orthogonal to the whole post, so I’d recommend [reading the whole thing][1]. You’ll probably have to two or three times (or just a good read once &#8211; My speed-reading techniques don’t work on Rands posts &#8211; it’s like watching _Studio 60_ &#8211; you have to pay attention the whole time)
+It’s semi-orthogonal to the whole post, so I’d recommend [reading the whole thing][1]. You’ll probably have to two or three times (or just a good read once — My speed-reading techniques don’t work on Rands posts — it’s like watching _Studio 60_ — you have to pay attention the whole time)
 
 Incidentally, my favorite quote from Jurassic Park is this one:
 

@@ -16,7 +16,7 @@ Received at our support address mailbox today:
 > 
 > […]
 > 
-> We specialize in Website Translation and URL Submission in 10 languages &#8211; Spanish, French, German, Italian, Portuguese, Dutch, Russian, Chinese, Japanese and Korean. Our Web translation package includes:
+> We specialize in Website Translation and URL Submission in 10 languages — Spanish, French, German, Italian, Portuguese, Dutch, Russian, Chinese, Japanese and Korean. Our Web translation package includes:
 > 
 > […]
 

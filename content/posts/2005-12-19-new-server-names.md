@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-I’m not your typical systems geek. Most system geeks name their servers after typical geek things &#8211; science fiction, medieval characters, the simpsons. I even had some colleagues do “Ren and Stimpy” one time.
+I’m not your typical systems geek. Most system geeks name their servers after typical geek things — science fiction, medieval characters, the simpsons. I even had some colleagues do “Ren and Stimpy” one time.
 
 Me, I have gone with baseball names.
 

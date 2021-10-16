@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-Articles like [this one from the ADC reference library][1] (I subscribe to the feed) &#8211; make me so completely happy that I’m not doing desktop programming anymore (I never have done it on the Macintosh, Win32 was enough).
+Articles like [this one from the ADC reference library][1] (I subscribe to the feed) — make me so completely happy that I’m not doing desktop programming anymore (I never have done it on the Macintosh, Win32 was enough).
 
 > If you receive this return value from AuthorizationCreateFromExternalForm it means that the AuthorizationRef from which the AuthorizationExternalForm was created is no longer valid. Typically this is because the process associated with that AuthorizationRef has quit.
 

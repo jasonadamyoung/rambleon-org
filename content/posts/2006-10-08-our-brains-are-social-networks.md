@@ -19,7 +19,7 @@ In contrast, a digital computer functions like the post office, routing arbitrar
 
 Obligatory Commentary:
 
-On a macro-scale &#8211; I’d say there’s a lot of implication in this for the design of software systems on top of digital computers. When you build _arbitrary_ structure on top of data, without consideration for what that data is &#8211; you completely go against how our brains are oriented to interact with data.
+On a macro-scale — I’d say there’s a lot of implication in this for the design of software systems on top of digital computers. When you build _arbitrary_ structure on top of data, without consideration for what that data is — you completely go against how our brains are oriented to interact with data.
 
  [1]: http://www.colorado.edu/news/releases/2006/329.html
  [2]: http://www.primidi.com/2006/10/08.html#a1644

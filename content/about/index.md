@@ -18,12 +18,12 @@ date: 2013-12-18T13:47:03+00:00
 My name is Jason Adam Young, I build things for the web and help others to do the same and this is my mostly dormant blog. Sometimes it’s about computing and technology, most days it’s just a bunch of rambly posts and photos of my cat and memories of my dogs.
 ### Greatest Hits
 
-If you are looking for my personal, work, and overall philosophy &#8211; I recommend checking out:
+If you are looking for my personal, work, and overall philosophy — I recommend checking out:
 
   * [The Wedgebuster][4] and [Head In The Clouds][5]: My absolute favorites.
   * [What did it for you][6]: Early experiences in technology that got me where I am today
   * [Operator, can you help me place this call][7]: Workplace communication
-  * [There’s just life][8]: there’s no “real life” and “online life” &#8211; there’s just life
+  * [There’s just life][8]: there’s no “real life” and “online life” — there’s just life
   * [Why ask why?][9]: Most important question you can ask.
   * [The “build it” myth][10]: Web sites have nothing to do with “Field of Dreams”
   * [To deploy or not deploy][12]: when the going gets rough, the rough rewrite Shakespeare

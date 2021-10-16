@@ -16,11 +16,11 @@ tags:
 
 For me it was after 11th Grade, and a 6-week summer math program where one class in in the first 3 weeks involved playing with this interesting ‘Assembly Language’ thing (though I totally didn’t get the second session on ‘Pascal’). I don’t remember the platform. It was an emulator/teaching program of some kind.
 
-Admittedly, 12th Grade AP Calculus also really helped though &#8211; mostly to begin developing more advanced problem solving strategies &#8211; not so much for the calculus.
+Admittedly, 12th Grade AP Calculus also really helped though — mostly to begin developing more advanced problem solving strategies — not so much for the calculus.
 
-And getting my first computer in 12th Grade &#8211; an Emerson 286 with an AMD 16 MHz 80286 (Intel’s only went to 12-something) and a 40MB HDD &#8211; running Compaq MS-DOS 3.31 &#8211; or some similar variant because MS-DOS 3.x didn’t support bigger HDD’s than 32MB. And I think 1MB of RAM. I didn’t understand any of the DOS versioning and the fact it wasn’t an Intel chip for several years.
+And getting my first computer in 12th Grade — an Emerson 286 with an AMD 16 MHz 80286 (Intel’s only went to 12-something) and a 40MB HDD — running Compaq MS-DOS 3.31 — or some similar variant because MS-DOS 3.x didn’t support bigger HDD’s than 32MB. And I think 1MB of RAM. I didn’t understand any of the DOS versioning and the fact it wasn’t an Intel chip for several years.
 
-Okay, there was a capstone moment like the weekend of Perl. I managed to get a copy of 4DOS from somewhere &#8211; I think this was right after starting at NC State. And 4DOS had a flag for the “del” command that allowed for recursively deleting things. You can imagine where this goes next.
+Okay, there was a capstone moment like the weekend of Perl. I managed to get a copy of 4DOS from somewhere — I think this was right after starting at NC State. And 4DOS had a flag for the “del” command that allowed for recursively deleting things. You can imagine where this goes next.
 
 Yep, my career was set in motion by 3 weeks of Assembly Language, AP Calculus, and one horrifying night where I recursively deleted most of the files on my 40MB HDD and key parts of the OS install with 4DOS.
 

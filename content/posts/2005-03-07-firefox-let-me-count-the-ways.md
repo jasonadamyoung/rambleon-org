@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-So love is a strong word for technology or land masses &#8211; but in addition to loving [OS X][1] and [this state I call home][2] &#8211; I’m rather fond of [Firefox][3] too.
+So love is a strong word for technology or land masses — but in addition to loving [OS X][1] and [this state I call home][2] — I’m rather fond of [Firefox][3] too.
 
 Because Firefox [already includes a setting for blocking Plugin (e.g. Flash)-initiated popups][4]
 

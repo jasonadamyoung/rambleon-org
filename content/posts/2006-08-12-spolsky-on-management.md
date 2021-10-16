@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-Joel Spolsky is running a great little blog essay series on [three different management methods][1]. While I don’t ever agree completely with Spolsky &#8211; and you probably won’t either &#8211; you ought to read them.
+Joel Spolsky is running a great little blog essay series on [three different management methods][1]. While I don’t ever agree completely with Spolsky — and you probably won’t either — you ought to read them.
 
 For the few managers/director-types that may be reading this blog. You really, really, really need to read the essay about [Command and Control Management][2] and make sure that you don’t identify with the subject of the essay. And if you do. You better seriously think about your own philosophies.
 

@@ -15,7 +15,7 @@ Well, of course I was going to take a look at the product, it’s what I do. As 
 
 I was actually looking forward to using it more.
 
-Well, until today, when it told me that my copy of Windows wasn’t legitimate. That is, the official Volume License media that I got from our Volume License vendor, and used the License Key that I officially received from Microsoft &#8211; when I called them and asked for a Windows Vista Business License Key.
+Well, until today, when it told me that my copy of Windows wasn’t legitimate. That is, the official Volume License media that I got from our Volume License vendor, and used the License Key that I officially received from Microsoft — when I called them and asked for a Windows Vista Business License Key.
 
 We have some kind of Key managment service set up on campus, but I apparently can’t run the commands to set that because of whatever reason.
 

@@ -12,7 +12,7 @@ I have [posted the text of the speech][1] that I’ll be giving to students and 
 
 It’s very similar to the one that I [gave last year][3]
 
-As a bonus &#8211; [here’s a .mp3/podcast (7.2 MB)][4] of the speech.
+As a bonus — [here’s a .mp3/podcast (7.2 MB)][4] of the speech.
 
  [1]: //people.engr.ncsu.edu/jayoung/site/pages/open-house-2005"
  [2]: //www.engr.ncsu.edu/students/openhouse/"

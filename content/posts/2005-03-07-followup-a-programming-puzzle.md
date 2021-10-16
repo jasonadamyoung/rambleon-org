@@ -52,9 +52,9 @@ Billy Beaudoin mixed his languages and provided a PHP example that would work on
   <pre class="highlight"><code>(Remainder - 1) * (-1)^Round)</code></pre>
 </div>
 
-The subscripts are off &#8211; but it takes advantage of a neat feature in Perl, negative array indexes index back from the end of the array.
+The subscripts are off — but it takes advantage of a neat feature in Perl, negative array indexes index back from the end of the array.
 
-Billy also found the [gmp\_div\_qr()][6] function &#8211; providing quotient and remainder in one fell swoop.
+Billy also found the [gmp\_div\_qr()][6] function — providing quotient and remainder in one fell swoop.
 
 Troy Hurteau also did php:
 

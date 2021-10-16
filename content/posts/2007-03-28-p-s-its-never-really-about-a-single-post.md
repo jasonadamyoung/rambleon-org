@@ -13,11 +13,11 @@ tags:
 ---
 so I went into [snarky overdrive][1] with my vendor dependencies post. it wasn’t quite as funny as [last year when I went off on the people that can’t unsubscribe from lists][2] either. Nor was it as funny as some [other commentary on Rails I’ve snarkily made][3]
 
-I really do love [the err.the.blog guys][4] &#8211; &#8211; they have the best rails blog &#8211; bar none &#8211; that I’ve ever found &#8211; I even have their [toolbox post][5] burned into my retina I think.
+I really do love [the err.the.blog guys][4] — — they have the best rails blog — bar none — that I’ve ever found — I even have their [toolbox post][5] burned into my retina I think.
 
-They really know their stuff. Rails needs devs like this &#8211; and they do a great service educating other folks about the framework.
+They really know their stuff. Rails needs devs like this — and they do a great service educating other folks about the framework.
 
-But I don’t agree (obviously) with packaging up all the dependencies with an application. I get all the reasons for doing so. It just sets a really dangerous precedent for the people that are going to take it as the gospel and never think about the ramifications of what packaging up everything with your application means. (like simple things &#8211; remind me to tell the inode story sometime. 20 capistrano delivered copies of edge rails might not kill your storage but it dang sure can eat some inodes)
+But I don’t agree (obviously) with packaging up all the dependencies with an application. I get all the reasons for doing so. It just sets a really dangerous precedent for the people that are going to take it as the gospel and never think about the ramifications of what packaging up everything with your application means. (like simple things — remind me to tell the inode story sometime. 20 capistrano delivered copies of edge rails might not kill your storage but it dang sure can eat some inodes)
 
 But hell, you can’t really trust the system administrators to get it right either about not breaking dozens of rails apps that _they_ don’t have a clue about. I, um, er, have known some sysadmins to do that (more than once even).
 

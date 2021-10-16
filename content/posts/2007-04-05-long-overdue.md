@@ -11,9 +11,9 @@ categories:
 ---
 The content for [rambleon.org][1] and in its feed is now covered [by the Creative Commons Attribution-NonCommercial license][2]
 
-It was long overdue &#8211; mainly just laziness on my part.
+It was long overdue — mainly just laziness on my part.
 
-Anyone, anywhere reading this blog is free to reproduce my original content and adapt it as you see fit, provided that you provide attribution (a link back to this site is good enough for me) &#8211; and that you are doing it in a non-commercial fashion. (the Creative Commons license defines commercial as an activity “intended for or directed toward commercial advantage or private monetary compensation”).
+Anyone, anywhere reading this blog is free to reproduce my original content and adapt it as you see fit, provided that you provide attribution (a link back to this site is good enough for me) — and that you are doing it in a non-commercial fashion. (the Creative Commons license defines commercial as an activity “intended for or directed toward commercial advantage or private monetary compensation”).
 
 I can’t for the life of me figure out why you’d want to however 🙂
 

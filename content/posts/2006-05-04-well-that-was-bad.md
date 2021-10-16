@@ -12,15 +12,15 @@ My Macintosh at home did a rare thing this morning and locked up. Spinning beach
 
 Yeah, that made things really unhappy. Macintosh reboots, goes trough the verbose startup messages(*) and never shows a login prompt or logs in (my Macintosh at home **was** set to autologin).
 
-(* I am a unix geek &#8211; so I like watching the verbose startup messages: <code class="highlighter-rouge">sudo nvram boot-args='-v'</code> )
+(* I am a unix geek — so I like watching the verbose startup messages: <code class="highlighter-rouge">sudo nvram boot-args='-v'</code> )
 
-Uh-oh. Do the power button salute again, maybe it’s just a transient thing. Again, no login &#8211; and I can’t get in via ssh.
+Uh-oh. Do the power button salute again, maybe it’s just a transient thing. Again, no login — and I can’t get in via ssh.
 
-So I boot into single user mode (Command+S as it boots) &#8211; run fsck per the instructions. fsck fixes something, and I run it again, everything’s kosher.
+So I boot into single user mode (Command+S as it boots) — run fsck per the instructions. fsck fixes something, and I run it again, everything’s kosher.
 
 Reboot. No login.
 
-Power off, boot into single user &#8211; mount the drive. Take a look at /var/log/system.log and /var/log/asl.log
+Power off, boot into single user — mount the drive. Take a look at /var/log/system.log and /var/log/asl.log
 
 Well, there’s the culprit:
 
@@ -28,7 +28,7 @@ Well, there’s the culprit:
 
 <code class="highlighter-rouge">[Sender SecurityAgent] [PID 78] [Message Autologin user authenticated.] [Sender com.apple.SecurityServer] [PID -1] [Message authinternal failed to authenticate user jayoung.]</code>
 
-Somehow, the thing is completely foobar’d trying to autologin. (You’d think it’d fall back to a login screen &#8211; maybe it does eventually &#8211; I gave the thing several minutes on one of the reboots, but alas, no prompt).
+Somehow, the thing is completely foobar’d trying to autologin. (You’d think it’d fall back to a login screen — maybe it does eventually — I gave the thing several minutes on one of the reboots, but alas, no prompt).
 
 I finally figured out how to delete the autologin preference from the command line in single-user mode
 

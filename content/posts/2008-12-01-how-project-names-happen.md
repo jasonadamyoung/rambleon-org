@@ -13,19 +13,19 @@ tags:
   - workstreaming
 
 ---
-So, being a developer _and_ the systems manager hath its privileges. I get to wade through a convoluted process to come up with names of projects &#8211; and I get to apply them. Because, well, I can.
+So, being a developer _and_ the systems manager hath its privileges. I get to wade through a convoluted process to come up with names of projects — and I get to apply them. Because, well, I can.
 
 I’ve already [rambled on][1] more than once in the blog about desktop and server names, but I’ve never really talked much about coding projects.
 
-Really, mainly that’s because the names are usually boring. And also that I/we thankfully don’t start many coding projects. Starting an application/project is not something to be taken lightly &#8211; and well, we already have what is likely too many projects anyway.
+Really, mainly that’s because the names are usually boring. And also that I/we thankfully don’t start many coding projects. Starting an application/project is not something to be taken lightly — and well, we already have what is likely too many projects anyway.
 
-However, today I am taking the baby steps into a new rails project. Currently &#8211; our [“Identity”][2] project is serving as a hub of activity tracking. For a whole host of reasons, I’m thinking of separating the actual data collection and storage and “generation” of that data into a separate application (but leaving some of the views into that data within the Identity tool).
+However, today I am taking the baby steps into a new rails project. Currently — our [“Identity”][2] project is serving as a hub of activity tracking. For a whole host of reasons, I’m thinking of separating the actual data collection and storage and “generation” of that data into a separate application (but leaving some of the views into that data within the Identity tool).
 
 So, what to name it? We’ve named projects after [Greek Words][3], the protagonist from a [movie about a talking plant with psychological issues][4], and boring things like “project function.”
 
-But this needed different. Our activity views are part of the idea of \[freeranging\]\[5\] or \[“work wide open”\]\[6\]. And after spending a few minutes in Google and Wikipedia trying to come up with names that were related to “free-range” and getting no further than pasture management strategies &#8211; I needed a new tack.
+But this needed different. Our activity views are part of the idea of \[freeranging\]\[5\] or \[“work wide open”\]\[6\]. And after spending a few minutes in Google and Wikipedia trying to come up with names that were related to “free-range” and getting no further than pasture management strategies — I needed a new tack.
 
-Our activity views are both a reporting/monitoring mechanism &#8211; but they are also an experiment in \[workstreaming\]\[7\].
+Our activity views are both a reporting/monitoring mechanism — but they are also an experiment in \[workstreaming\]\[7\].
 
 Hmmm…. streams. The \[first free-associated “stream” idea that I had\]\[8\] was clearly **NOT** going to do.
 
@@ -37,7 +37,7 @@ Hence, the new project for activity tracking, Google visualization, json data fe
 
 \[Protonic Reversal\]\[9\]
 
-And except for the ones brought to you by the stork, and the tooth fairy &#8211; is how project names happen. I mean, really, who you going to call?
+And except for the ones brought to you by the stork, and the tooth fairy — is how project names happen. I mean, really, who you going to call?
 
 (okay, sorry, couldn’t resist)
 

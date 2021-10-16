@@ -18,7 +18,7 @@ The [VCL][3] handout for [EdTech][4] and [UNC-Cause][5]
 
 ![][6]
 
-and this week &#8211; a handout on “The Future of Eos”
+and this week — a handout on “The Future of Eos”
 
 ![][7]
 

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-This is even better than Charlie Brown’s “Life is like an Ice Cream Cone &#8211; you have to learn to lick it”
+This is even better than Charlie Brown’s “Life is like an Ice Cream Cone — you have to learn to lick it”
 
 Satchel from _Get Fuzzy_ [today][1]
 

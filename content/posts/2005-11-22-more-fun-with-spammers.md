@@ -34,7 +34,7 @@ Sincerely, Linda http://www.associatesurveys.com/specialafide.html
 
 Hello Dr. Johnson,
 
-If you’ll pardon my questions on this, I’m a little concerned with this website. My mom has warned me that there are often a number of internet scams (as I mentioned in my last note, she’s a truck driver and has had people try to cause accidents with her in order to collect on insurance) &#8211; and I just want to make sure this isn’t a scam. It looks like a very legitimate site, but I’m just looking for a little reassurance.
+If you’ll pardon my questions on this, I’m a little concerned with this website. My mom has warned me that there are often a number of internet scams (as I mentioned in my last note, she’s a truck driver and has had people try to cause accidents with her in order to collect on insurance) — and I just want to make sure this isn’t a scam. It looks like a very legitimate site, but I’m just looking for a little reassurance.
 
 I noticed that there is a sign-up fee. With Christmas coming, I’m not sure I could spare a single penny unless I somehow could get a guarantee that I’d get that money back and then enough to buy my brother Timmy his Elmo (Timmy is in the hospital again, and it looks we might be spending Thanksgiving there). Is there any way you could waive the sign-up fee?
 

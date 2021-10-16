@@ -16,7 +16,7 @@ But it was made up for by the sunset:
 
 [![][2]][3]
 
-And even better, by the first bald eagle I’ve ever seen in the wild, that wasn’t in a wildlife refuge &#8211; just outside the neighborhood.
+And even better, by the first bald eagle I’ve ever seen in the wild, that wasn’t in a wildlife refuge — just outside the neighborhood.
 
 [![][4]][5]
 

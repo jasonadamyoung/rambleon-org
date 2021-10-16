@@ -10,7 +10,7 @@ categories:
 ---
 And word to the wise, [don’t use GoDaddy for the service.][1]
 
-Actually, going backwards works well here, &#8211; see [the <ahem>lawyer </ahem> response first][2]
+Actually, going backwards works well here, — see [the <ahem>lawyer </ahem> response first][2]
 
  [1]: http://blog.wired.com/27bstroke6/2007/01/myspace_alleged.html
  [2]: http://blog.wired.com/27bstroke6/2007/01/godaddy_defends.html

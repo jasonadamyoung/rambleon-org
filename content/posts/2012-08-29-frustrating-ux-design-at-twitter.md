@@ -16,13 +16,13 @@ It’s about what has to be the most idiotic settings page user experience I’v
 
 About a week and half ago, in a bit of snit, I decided to “protect my tweets”
 
-Through no fault of Twitter’s &#8211; I’m using 1Password for my twitter password. When you change your twitter settings, &#8211; it presents a javascript modal to provide your password. Unfortunately, the by-product of this was to enter my username in the email field which was then submitted along with the “checkbox” for Protect My Tweets, which then submitted the email as “jasonadamyoung” &#8211; which came back from Twitter as “This email is invalid” &#8211; but then Twitter in their UX brilliance, didn’t show “jasonadamyoung” in the email field (which it would have dawned on me as invalid) &#8211; it showed me my email address.
+Through no fault of Twitter’s — I’m using 1Password for my twitter password. When you change your twitter settings, — it presents a javascript modal to provide your password. Unfortunately, the by-product of this was to enter my username in the email field which was then submitted along with the “checkbox” for Protect My Tweets, which then submitted the email as “jasonadamyoung” — which came back from Twitter as “This email is invalid” — but then Twitter in their UX brilliance, didn’t show “jasonadamyoung” in the email field (which it would have dawned on me as invalid) — it showed me my email address.
 
 I took this as some Fail Whale event on twitter’s part at the time. I ended up working around it by managing to change my email to another email address and then cancel the confirmation of changing it.
 
-Tonight, I decide to change the setting back, and finally &#8211; after multiple “this email is invalid” &#8211; both from the AJAX email lookup &#8211; plus the form submissions, managed to realize that 1Password was the likely culprit.
+Tonight, I decide to change the setting back, and finally — after multiple “this email is invalid” — both from the AJAX email lookup — plus the form submissions, managed to realize that 1Password was the likely culprit.
 
-Only now, I want to check the setting off on my Twitter stream &#8211; and WHILE NOT CHANGING ANY OTHER SETTTING &#8211; I get this:
+Only now, I want to check the setting off on my Twitter stream — and WHILE NOT CHANGING ANY OTHER SETTTING — I get this:
 
 ![image][1]
 

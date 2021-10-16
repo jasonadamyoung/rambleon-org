@@ -12,9 +12,9 @@ An Adobe support rep [commented on the last post about the fun with fillable PDF
 
 You get mad props for commenting really, that’s awesome. While I think it’s a bit of an excuse (hey, I’ve used it, been there done that) I totally grok the incompatibilities between the interpretations of the [PDF standard][2].
 
-Just for kicks, I even downloaded the 8.6MB PDF file and went to go look at the section on forms just to see how onerous it was (section 12.7 it looks like). I’m totally glad I don’t have to program reference implementations of that. But I think people that programmed postscript are like those people that understand sendmail configuration files &#8211; that is, not like the rest of us mere mortals.
+Just for kicks, I even downloaded the 8.6MB PDF file and went to go look at the section on forms just to see how onerous it was (section 12.7 it looks like). I’m totally glad I don’t have to program reference implementations of that. But I think people that programmed postscript are like those people that understand sendmail configuration files — that is, not like the rest of us mere mortals.
 
-Look, I don’t mind PDF files. It’s better than dealing with word docs &#8211; particularly for read-only conent. And I like Photoshop, and I adore Adobe Lightroom. But just a minor recommendation &#8211; pimping Adobe Reader as a solution? you just don’t really want to go there. I mean have you used Adobe Reader on a Macintosh recently? Really?
+Look, I don’t mind PDF files. It’s better than dealing with word docs — particularly for read-only conent. And I like Photoshop, and I adore Adobe Lightroom. But just a minor recommendation — pimping Adobe Reader as a solution? you just don’t really want to go there. I mean have you used Adobe Reader on a Macintosh recently? Really?
 
 But hey, since you went there. Why not? I have always avoided installing Adobe Reader on the Macintosh at home, because it’s historically been slow, bloated, and frustrating. But it’s been awhile, so why not try it again? Maybe it will solve things.
 

@@ -16,7 +16,7 @@ But you know, when it came to putting up a web site for mine and Amy’s wedding
 
 I tried out iWeb, Sandvox, and RapidWeaver – and while nice little applications, and light-years beyond the last one of these simple wysiwyg editors I used (Netscape Composer for those playing along with the home game) – they really aren’t very flexible. I couldn’t coax the design she wanted out of them. (just changing background colors is **quite** the challenge).
 
-So I banged my head against the wall a while, but ended up going with wordpress. And it worked out. I liberated a wordpress theme (Yay for open source licensing!) that was something close to what it needed to be, and I played with the CSS, and I played with the .php files &#8211; and I finally managed to get something:
+So I banged my head against the wall a while, but ended up going with wordpress. And it worked out. I liberated a wordpress theme (Yay for open source licensing!) that was something close to what it needed to be, and I played with the CSS, and I played with the .php files — and I finally managed to get something:
 
 ![website.jpg][2]
 

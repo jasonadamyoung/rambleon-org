@@ -13,7 +13,7 @@ tags:
 
 But I do so wish I had some musical talent, because I’d spend my life doing whatever I could to be the next Weird Al. Or Flight of the Conchords. Writing parody songs for the rest of my living years.
 
-For those that know me, [asking questions][2] is fundamentally core to how I work and how I live &#8211; particularly [why?][3] &#8211; I even [joked last week][4] that my name should be legally changed to an [interrobang][5].
+For those that know me, [asking questions][2] is fundamentally core to how I work and how I live — particularly [why?][3] — I even [joked last week][4] that my name should be legally changed to an [interrobang][5].
 
 But sometimes the working life conspires in such a way that you have to change directions. Even for those that know me, you might be surprised that I expend the vast majority of my questioning energies on myself. That won’t and can’t change. I couldn’t turn that off if I wanted. But maybe for a time, I can stop the external questions.
 

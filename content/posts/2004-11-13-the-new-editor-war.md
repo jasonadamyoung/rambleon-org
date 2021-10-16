@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-It seems to be the new emacs vs. vi vs. pico &#8211; though with somewhat more visible presence. See [here][1] , [here][2] and [here][3]
+It seems to be the new emacs vs. vi vs. pico — though with somewhat more visible presence. See [here][1] , [here][2] and [here][3]
 
 But for me, Goodbye [Safari][4]
 

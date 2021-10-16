@@ -10,7 +10,7 @@ categories:
 ---
 of URL’s I need to read tomorrow (and have our devs read)
 
-Can you guess one of the problems we are facing? (hint, filesystem/pstore based sessions are really cool &#8211; until they aren’t)
+Can you guess one of the problems we are facing? (hint, filesystem/pstore based sessions are really cool — until they aren’t)
 
   * [Using memcached for Ruby on Rails session storage][1]
   * [Sessions N Such][2]

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Andrew McAfee [on what today’s students are learning and expecting][1] (via [Kevin Gamble][2] ) _As a seminal “Yeah But…“‘er &#8211; I even get this one_
+Andrew McAfee [on what today’s students are learning and expecting][1] (via [Kevin Gamble][2] ) _As a seminal “Yeah But…“‘er — I even get this one_
 
 Rands. [Bright, Patient, Design][3]. _I have used a crap-ton of editors throughout the years, and I’ve never been more productive than with TextMate. And I don’t use any keyboard macros because I haven’t learned any of them. I just wish they’d improve Find…_
 

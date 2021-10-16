@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-So you think you want to be a elite security researcher? Maybe, just maybe, hypothetically &#8211; one of your [favorite open source projects][1] releases [an announcement][2] touting a mysterious, but CRITICAL, GIGANTIC, MOTORCYCLE DEATH MACHINE security hole &#8211; so what do you do?
+So you think you want to be a elite security researcher? Maybe, just maybe, hypothetically — one of your [favorite open source projects][1] releases [an announcement][2] touting a mysterious, but CRITICAL, GIGANTIC, MOTORCYCLE DEATH MACHINE security hole — so what do you do?
 
-One, you could crash the python-based bug tracking system trying to read the code &#8211; or you could just [download it][3] and break out FileMerge &#8211; a great little GUI diff tool free for the spelunking with Apple’s Developer Tools.
+One, you could crash the python-based bug tracking system trying to read the code — or you could just [download it][3] and break out FileMerge — a great little GUI diff tool free for the spelunking with Apple’s Developer Tools.
 
 Kick it off with Quicksilver (you are running QuickSilver aren’t you?)
 

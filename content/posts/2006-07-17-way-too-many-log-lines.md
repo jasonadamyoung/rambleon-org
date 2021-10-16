@@ -13,13 +13,13 @@ Apologies to the whole cast of _Rent_
 _Two Million Seventy-Six Thousand  
 Two Hundred Log Lines  
 Two Million Seventy-Six Thousand  
-Log Lines &#8211; This Bites  
+Log Lines — This Bites  
 Two Million Seventy-Six Thousand  
 Two Hundred Log Lines  
-How do you measure &#8211; measure a Web Site?  
-In Jpegs &#8211; In Post/Gets  
-In Doctypes &#8211; In Script Kiddie Hits  
-In 404s &#8211; In 200s  
+How do you measure — measure a Web Site?  
+In Jpegs — In Post/Gets  
+In Doctypes — In Script Kiddie Hits  
+In 404s — In 200s  
 In Checking perms and rights
 
 In Two Million Seventy-Six Thousand  

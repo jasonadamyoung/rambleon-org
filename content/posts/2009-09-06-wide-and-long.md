@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-A few weeks ago [I mentioned that I was revamping my lens lineup][1]. This is probably my next experimental evolution with photography &#8211; which for better or worse consists mostly of pictures of [these two jokers][2].
+A few weeks ago [I mentioned that I was revamping my lens lineup][1]. This is probably my next experimental evolution with photography — which for better or worse consists mostly of pictures of [these two jokers][2].
 
-My first DSLR lens was the [Nikon 18-200][3]. It’s a really great travel lens, it’s hard to beat the range. Over time though, I tired a bit of the lens creeping (which should be mitigated with the second generation of it) &#8211; and I guess I was a little bit spoiled with my third lens purchase, the [Tokina 100mm Macro][4] &#8211; which at 150mm effective and fast enough to get the dogs running around the yard, has become more of a portrait lens than a macro lens for me.
+My first DSLR lens was the [Nikon 18-200][3]. It’s a really great travel lens, it’s hard to beat the range. Over time though, I tired a bit of the lens creeping (which should be mitigated with the second generation of it) — and I guess I was a little bit spoiled with my third lens purchase, the [Tokina 100mm Macro][4] — which at 150mm effective and fast enough to get the dogs running around the yard, has become more of a portrait lens than a macro lens for me.
 
 It may be still my favorite. Giving me pictures like this:
 
@@ -20,7 +20,7 @@ _and_ this:
 
 ![][6]
 
-And after completely data-geeking out on [running exiftool][7] against all my 18-200 lens photos and realizing that almost 50% of all the pictures I took with it were at 18 or 200 &#8211; I decided I’d be well served going Wide. And Long. And trading in the one to broaden my horizons a bit.
+And after completely data-geeking out on [running exiftool][7] against all my 18-200 lens photos and realizing that almost 50% of all the pictures I took with it were at 18 or 200 — I decided I’d be well served going Wide. And Long. And trading in the one to broaden my horizons a bit.
 
 So I went with the [Nikon 10-24mm][8] on the Wide end.
 
@@ -30,7 +30,7 @@ And the [Nikon 70-300mm (VR)][10] on the long
 
 ![][11]
 
-And even with quite the dance of lens-changing on the trails &#8211; I haven’t had that much fun with my camera in quite some time. I couldn’t be more pleased with both &#8211; especially on my first outing with them, a trip my wife and I took to the mountains on the NC/VA border:
+And even with quite the dance of lens-changing on the trails — I haven’t had that much fun with my camera in quite some time. I couldn’t be more pleased with both — especially on my first outing with them, a trip my wife and I took to the mountains on the NC/VA border:
 
 [12][12]][13][13]
 

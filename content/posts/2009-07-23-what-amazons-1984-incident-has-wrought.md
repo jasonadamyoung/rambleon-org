@@ -19,6 +19,6 @@ I wanted an ebook reader, I wanted a Kindle even. I’m an iPhone user of all th
 
 Exhibit B:
 
-My darling wife, who understands my feelings on most DRM and closed platform issues, but gets a bit bemused when I get all passionate about them, just looked a bit crestfallen when I told her that Zappos just got bought out by Amazon &#8211; she said “Really?!? _but I liked Zappos_”
+My darling wife, who understands my feelings on most DRM and closed platform issues, but gets a bit bemused when I get all passionate about them, just looked a bit crestfallen when I told her that Zappos just got bought out by Amazon — she said “Really?!? _but I liked Zappos_”
 
 Software has values. Misusing them has consequences you would never predict.

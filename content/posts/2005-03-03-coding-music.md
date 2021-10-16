@@ -25,9 +25,9 @@ You might have to walk the fine line,
 you might take the hard line  
 But everybody’s working overtime
 
-Living in America &#8211; eye to eye, station to station  
-Living in America &#8211; hand to hand, across the nation  
-Living in America &#8211; got to have a celebration
+Living in America — eye to eye, station to station  
+Living in America — hand to hand, across the nation  
+Living in America — got to have a celebration
 
 I’m resisting the urge to do the Numa Numa Dance.
 

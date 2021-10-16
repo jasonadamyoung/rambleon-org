@@ -12,7 +12,7 @@ tags:
   - sysadmin
 
 ---
-Wow &#8211; lookee that &#8211; I managed to become a [Red Hat Certified Engineer][1] ![certificate image][2]
+Wow — lookee that — I managed to become a [Red Hat Certified Engineer][1] ![certificate image][2]
 
  [1]: https://www.redhat.com/training/certification/verify/?rhce_cert_display:certno=804005025617182&rhce_cert_display:verify_cb=Verify
  [2]: http://rambleon.ces.ncsu.edu/blogmedia/rhcecert.jpg

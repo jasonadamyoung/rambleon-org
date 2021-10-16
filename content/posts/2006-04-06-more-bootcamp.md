@@ -14,9 +14,9 @@ so just for the record, because most people don’t really know how to read/take
 
 > From: jason.young@extension.org Subject: Re: [packmug] Windows and iPod Date: April 5, 2006 8:38:33 PM EDT To: packmug@lists.ncsu.edu
 
-Oh, just in case &#8211; because I got in trouble for this before 🙂
+Oh, just in case — because I got in trouble for this before 🙂
 
-My last note was a terribly tongue-in-cheek response (except for the whole IE and Dante part :-p) about the whole boot camp thing. Dual-boot is overrated, I think, because one side or the other DOES most often get neglected &#8211; but for those with intel macs it might be cool and actually work well for you &#8211; so try it out! Let the PackMUG know how it goes!
+My last note was a terribly tongue-in-cheek response (except for the whole IE and Dante part :-p) about the whole boot camp thing. Dual-boot is overrated, I think, because one side or the other DOES most often get neglected — but for those with intel macs it might be cool and actually work well for you — so try it out! Let the PackMUG know how it goes!
 
 Jason
 

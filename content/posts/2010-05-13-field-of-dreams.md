@@ -20,7 +20,7 @@ In a sense, it was good preparation and a good metaphor for a career in computin
 
 I’m one of those odd hybrids, a developer that’s a systems administrator, or maybe a systems administrator that’s a developer, I don’t know. I’m pretty good at what I do, which of course means I guess I’m not at the top of the game for either. While many of my colleagues in the field seem to get to focus on one thing or another, I’m the journeyman utility player, trying to keep track of a thousand things at once, and experiencing a continual string of successive failures, while maintaining perfection (or illusion thereof) of error-free service in the field.
 
-Just this week &#8211; here’s just a snapshot, what I happen to remember while writing this:
+Just this week — here’s just a snapshot, what I happen to remember while writing this:
 
   * trying to work around what appears to be a bug in a release version of OpenSSL after a few hundred SVN operations by using SSH
   * finding out after 5 hours of trying to boot rescue disks through a DRAC that I need a rootdelay of at least 20 in my grub config on my dell server.
@@ -31,7 +31,7 @@ Just this week &#8211; here’s just a snapshot, what I happen to remember while
   * to having to put together a presentation on the basics “tagging” because using a string of characters in as a ad-hoc description is a lot scarier to using a string of characters that somebody else defined to describe something, or maybe it’s just because it’s called “tagging”
   * worrying about the fallout from a tagging change that had to be changed to be consistent with all our other tools, because for three years we were developing in individual vacuums, only the fallout is coming up a month after it was released, because it’s the first time anyone has used the application that used it differently before that triggers the problems
   * worrying about colleagues wondering if we shouldn’t re-introduce the inconsistent behavior, even though it was part of a 3 month long development cycle to change to be consistent
-  * a contract job where performance problems are plaguing the application so badly that we are now shelling out to php/gd from rails because imagemagick and rmagick are too slow in a VPS environment &#8211; or maybe any environment, and once that was licked we are now struggling with 1 second response times on mobile views when we need 500ms response times (and even that is honestly too slow)
+  * a contract job where performance problems are plaguing the application so badly that we are now shelling out to php/gd from rails because imagemagick and rmagick are too slow in a VPS environment — or maybe any environment, and once that was licked we are now struggling with 1 second response times on mobile views when we need 500ms response times (and even that is honestly too slow)
 
 And that’s probably a fourth of it this week. All the while, I am getting crap because I am not open and receptive to everybody’s “great ideas” that I already worked through and spec’d last year, and wanted very much to do, but there’s no time to do it, because all of my team is working through new comps, or is out sick or is responding to support email for stuff we did 6 months ago.
 

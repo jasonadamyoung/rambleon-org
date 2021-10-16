@@ -18,9 +18,9 @@ Clearly, the ranger will need a badge:
 
 [![badge.png][5]][6]
 
-(okay, so that’s not hitting on all that much &#8211; but that’s the limit of what I can do in OmniGraffle in 10 minutes 🙂 I’m a miracle worker Systems Manager &#8211; not a graphics designer.
+(okay, so that’s not hitting on all that much — but that’s the limit of what I can do in OmniGraffle in 10 minutes 🙂 I’m a miracle worker Systems Manager — not a graphics designer.
 
-I did however pick “Raw Sienna” from the system color picker &#8211; that clearly is the most appropriate badge color when I couldn’t figure out how to do cross-object gradients right 😉 )
+I did however pick “Raw Sienna” from the system color picker — that clearly is the most appropriate badge color when I couldn’t figure out how to do cross-object gradients right 😉 )
 
 p.s. The first one of the readers that comments with “we don’t need no steenkin’ badges” gets shot on sight.
 

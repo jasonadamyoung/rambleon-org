@@ -12,9 +12,9 @@ tags:
 ---
 I hate HTML and XML Character Encoding, what a nightmare.
 
-This all started yesterday. Actually, this all started several days ago with a post to our [Campus “Network Administrators Group”][1] [mailing list][2] &#8211; in which I opined on the benefits of RSS and RSS aggregators and queried for the group’s favorites.
+This all started yesterday. Actually, this all started several days ago with a post to our [Campus “Network Administrators Group”][1] [mailing list][2] — in which I opined on the benefits of RSS and RSS aggregators and queried for the group’s favorites.
 
-Well, a couple of people pointed out that [Thunderbird][3] does RSS &#8211; ala an old fashioned NewsReader. So I wanted to try it out.
+Well, a couple of people pointed out that [Thunderbird][3] does RSS — ala an old fashioned NewsReader. So I wanted to try it out.
 
 Only the current release of Thunderbird doesn’t natively provide support for importing a bunch of subscriptions (using, say an [OPML][4]. file). Well, that led me to [this blog entry][5] Which adds OPML import/export support to Thunderbird.
 
@@ -22,7 +22,7 @@ Cool right? Well somedays it doesn’t pay to get out of bed and write your own 
 
 See, on import of my [NetNewsWire][6] OPML output, Thunderbird reported that two of the feeds were invalid.
 
-RSS feeds are XML, and like any XML/XHTML source &#8211; they should be [valid XML][7]. However, it practically seems that this can be a total nightmare.
+RSS feeds are XML, and like any XML/XHTML source — they should be [valid XML][7]. However, it practically seems that this can be a total nightmare.
 
 When [EWE][8] was released, I checked all the feeds with sample data at [feedvalidator.org][9] to make sure things looked okay.
 
@@ -34,15 +34,15 @@ What broke one of the feeds was the innocuous Copyright symbol. (C) In the sourc
 
 Well, I probably can, but I don’t understand that. Trying to understand would likely make me curse a lot (more).
 
-So I tried the xmlentities() function that was buried in the comments for [htmlentities()][10] &#8211; that was nice until it didn’t do the &nbsp because PHP’s [get\_html\_translation_table()][11] has a limited set of entries in it, none of which are &nbsp &#8211; which isn’t valid for XML.
+So I tried the xmlentities() function that was buried in the comments for [htmlentities()][10] — that was nice until it didn’t do the &nbsp because PHP’s [get\_html\_translation_table()][11] has a limited set of entries in it, none of which are &nbsp — which isn’t valid for XML.
 
-So, heretofore I found [this article][12] &#8211; which has 2000+ translations.
+So, heretofore I found [this article][12] — which has 2000+ translations.
 
-So now I run the RSS text through htmlentities &#8211; then through a [strtr()][13] with the gigantic translation table (with the < and > and &amp translations commented out).
+So now I run the RSS text through htmlentities — then through a [strtr()][13] with the gigantic translation table (with the < and > and &amp translations commented out).
 
-I think I’ve fixed things &#8211; until something else breaks.
+I think I’ve fixed things — until something else breaks.
 
-But by then &#8211; I think I’ll be like [this chap][14] and if:
+But by then — I think I’ll be like [this chap][14] and if:
 
 > <div class="highlighter-rouge">
 >   <pre class="highlight"><code>1) You can type a character on the keyboard;  2) Browsers can display it (they better if (1) is true)  3) Printers can print it  4) Humans can read it	then the RSS feed is valid. This whole valid-invalid BS is making RSS difficult for both reader makers and publishers.</code></pre></p>

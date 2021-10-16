@@ -10,9 +10,9 @@ categories:
 ---
 I’m currently in the process of revamping the smorgasbord of lenses that I own for use with my Nikon D300. Everything is here so far except for the [Nikon 35mm 1.8][1].
 
-I already own the 50mm1.8 &#8211; but one of the primary reasons I’m getting the 35mm 1.8 (besides it being a bit more “normal” on a DX form factor) is that my 50mm 1.8 + the way I seem to take pictures puts me in a position where I get a “ghost” or “hot spot” in the middle of the frame more often than I should.
+I already own the 50mm1.8 — but one of the primary reasons I’m getting the 35mm 1.8 (besides it being a bit more “normal” on a DX form factor) is that my 50mm 1.8 + the way I seem to take pictures puts me in a position where I get a “ghost” or “hot spot” in the middle of the frame more often than I should.
 
-According to [Thom Hogan][2] this ghosting [is caused by][3] a reflection off the [Bayer filter][4] in the camera at small apertures due to the lens design. I haven’t seen the technical details (which would probably be over my head) &#8211; but the effect is this:
+According to [Thom Hogan][2] this ghosting [is caused by][3] a reflection off the [Bayer filter][4] in the camera at small apertures due to the lens design. I haven’t seen the technical details (which would probably be over my head) — but the effect is this:
 
 ![][5]
 

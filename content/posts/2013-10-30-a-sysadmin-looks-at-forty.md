@@ -46,7 +46,7 @@ As for 40? It all feels a little anti-climatic really.
 
 * * *
 
-40 is a great age. I feel better than I felt at 29. I feel good about my work, and what I know, and most importantly at age 40 that I didn’t have at 29 &#8211; what all I don’t.
+40 is a great age. I feel better than I felt at 29. I feel good about my work, and what I know, and most importantly at age 40 that I didn’t have at 29 — what all I don’t.
 
 I’ve spent my entire life thinking about “what’s next?”. And 40 isn’t any different. I’m not sure about what’s next. I’ve got some ideas. Maybe the next age to think about is **_42_**. 42 is, after all, the ultimate answer – given the right question. I’m just not quite sure what that question is just yet.
 

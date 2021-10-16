@@ -12,7 +12,7 @@ categories:
 
 p.s. Our next project to be called “Dokonjo Daikon”
 
-p.p.s. Yes this is an old story (BBC’s timestamp was February 3) Even better &#8211; raw, uncensored [pictures][2] and [a picture book][3]
+p.p.s. Yes this is an old story (BBC’s timestamp was February 3) Even better — raw, uncensored [pictures][2] and [a picture book][3]
 
  [1]: http://news.bbc.co.uk/2/hi/asia-pacific/4677262.stm
  [2]: http://timesonline.typepad.com/times_tokyo_weblog/2006/02/a_vegetable_atr.html

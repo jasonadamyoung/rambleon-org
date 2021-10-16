@@ -14,7 +14,7 @@ It looks like CherryOS is a [cherry bomb][1]
 
 I love intarnet drama.
 
-And for the record &#8211; I always use [Spiro Multimax 3000][2] in _my_ code &#8211; don’t you?
+And for the record — I always use [Spiro Multimax 3000][2] in _my_ code — don’t you?
 
 > “There are some functionalities that can only be done a certain way,” he said. “Names are going to be similar or identical because there are only certain ways to do things.”
 

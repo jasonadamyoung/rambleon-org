@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-But when my icon cache gets messed up in a directory &#8211; and .pkg files get the icon for the Microsoft [Remote Desktop Client][1] &#8211; it does give you pause for a moment:
+But when my icon cache gets messed up in a directory — and .pkg files get the icon for the Microsoft [Remote Desktop Client][1] — it does give you pause for a moment:
 
 ![][2]
 

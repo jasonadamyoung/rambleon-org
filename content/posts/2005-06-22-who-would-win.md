@@ -32,7 +32,7 @@ and my personal favorite:
 
 I think overall, Ballmer got the nod.
 
-What a fun meeting and fun group. Providing an opportunity (regrettably often skipped and cancelled too often) for that group to come together in email, in meetings, and in IM, is certainly my proudest accomplishment over the last 5 years. I just provided the setting &#8211; each of them made the group.
+What a fun meeting and fun group. Providing an opportunity (regrettably often skipped and cancelled too often) for that group to come together in email, in meetings, and in IM, is certainly my proudest accomplishment over the last 5 years. I just provided the setting — each of them made the group.
 
  [1]: //sysadm.eos.ncsu.edu"
  [2]: //sysadm.eos.ncsu.edu/site/pages/default/june-2005-meeting-notes"

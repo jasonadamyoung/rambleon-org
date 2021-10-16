@@ -12,7 +12,7 @@ tags:
 ---
 I noticed this a while back, but wanted to blog it now that I was checking out the new version of [Google Earth][1]
 
-I’m pretty fascinated by photography. How it enables you to freeze for all time a span of time &#8211; in this case 1/1600th of a second.
+I’m pretty fascinated by photography. How it enables you to freeze for all time a span of time — in this case 1/1600th of a second.
 
 ![Ice Eclipse][2]
 
@@ -26,7 +26,7 @@ So you zoom in.
 
 ![google-earth][4]
 
-And realize that a traffic mishap is immortalized for a time &#8211; or at least until Google gets new aerials.
+And realize that a traffic mishap is immortalized for a time — or at least until Google gets new aerials.
 
 It is kind of a frustrating intersection, as the [street view bears out][5]
 

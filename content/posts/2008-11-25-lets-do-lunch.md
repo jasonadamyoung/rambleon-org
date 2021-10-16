@@ -10,9 +10,9 @@ tags:
   - work patterns
 
 ---
-I was pulling some of the activity data out of one of our applications &#8211; and looking to do some “live activity” and “activity today” views. Our data is stored with UTC timestamps, but we almost exclusively a U.S. shop &#8211; and for that matter, most likely a U.S. Eastern shop &#8211; so I needed to pull the working curve back into the U.S. time zone.
+I was pulling some of the activity data out of one of our applications — and looking to do some “live activity” and “activity today” views. Our data is stored with UTC timestamps, but we almost exclusively a U.S. shop — and for that matter, most likely a U.S. Eastern shop — so I needed to pull the working curve back into the U.S. time zone.
 
-I got a little curious about “working hours” and decided to run a working hour query (relative to EST) &#8211; and rather amused to see the ~20% off morning/afternoon peak during the noon hour:
+I got a little curious about “working hours” and decided to run a working hour query (relative to EST) — and rather amused to see the ~20% off morning/afternoon peak during the noon hour:
 
 ![][1]
 
@@ -20,7 +20,7 @@ Yep, U.S. Eastern Time, working hour, non [freerange][2] centric. I was smug, �
 
 ![][3]
 
-Uh. Um. Ok, well &#8211; my job really doesn’t involve editing a lot of content in the tools we track edits in. Maybe my subversion commits are different.
+Uh. Um. Ok, well — my job really doesn’t involve editing a lot of content in the tools we track edits in. Maybe my subversion commits are different.
 
 ![][4]
 
@@ -34,7 +34,7 @@ Google search?
 
 ![][6]
 
-Ok, well, the latter two are a little different. Guess I’m still pretty much “traditional work hour bound” when it comes to production &#8211; although consumption is spread out into the evenings relatively evenly (there are search peaks that correspond to high edit/coding times, which I’d expect).
+Ok, well, the latter two are a little different. Guess I’m still pretty much “traditional work hour bound” when it comes to production — although consumption is spread out into the evenings relatively evenly (there are search peaks that correspond to high edit/coding times, which I’d expect).
 
 And clearly, I’m dead to the world midnight to 7am or so.
 

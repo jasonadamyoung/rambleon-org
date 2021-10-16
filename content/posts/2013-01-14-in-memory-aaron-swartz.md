@@ -16,11 +16,11 @@ I… I’ve never really completely understood that when a tragedy occurs, parti
 
 Now? Now I can’t stop thinking about Aaron Swartz.
 
-If you know anything about that how’s and the why’s and the who’s of the technology and the politics and the issues of the internet, you’ll know about Aaron. If you don’t, you should. Start where I learned about his passing &#8211; [from a link by Jason Kottke][1] to [Cory Doctorow’s post][2]. Then others, from [Duncan Davidson][3] to [Larry Lessig][4] to [danah boyd][5] and maybe what touched me the most, from [Quinn Norton][6]
+If you know anything about that how’s and the why’s and the who’s of the technology and the politics and the issues of the internet, you’ll know about Aaron. If you don’t, you should. Start where I learned about his passing — [from a link by Jason Kottke][1] to [Cory Doctorow’s post][2]. Then others, from [Duncan Davidson][3] to [Larry Lessig][4] to [danah boyd][5] and maybe what touched me the most, from [Quinn Norton][6]
 
 You should know, and once you know, I don’t know anyone in my life that wouldn’t care. Aaron seemed to be able to make you care.
 
-I never knew Aaron Swartz, I never met him, I never interacted with him. But I’ve known a little something about Aaron maybe as long as anyone has known about Aaron in the internet world. I had vague memories of [Phillip Greenspun’s ArsDigita prize][7] &#8211; I remember (after Phillip’s reminder) when [Dave Winer bitched about the 17 year old kid][8], Reddit, Recap, the MIT/JSTOR incident, all that I had read.
+I never knew Aaron Swartz, I never met him, I never interacted with him. But I’ve known a little something about Aaron maybe as long as anyone has known about Aaron in the internet world. I had vague memories of [Phillip Greenspun’s ArsDigita prize][7] — I remember (after Phillip’s reminder) when [Dave Winer bitched about the 17 year old kid][8], Reddit, Recap, the MIT/JSTOR incident, all that I had read.
 
 Most of all, I’ve read and known as much as you can know a stranger through [his own words][9]
 

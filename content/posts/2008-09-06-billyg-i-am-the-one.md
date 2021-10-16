@@ -14,7 +14,7 @@ So, Steve S., Steve B. and BillyG.
 
 Guys, guys, guys.
 
-I appreciate you bringing my boy Jerry out of retirement &#8211; but [that new commercial?][1]. Yeah… Well, it’s just not really resonating with the populace.
+I appreciate you bringing my boy Jerry out of retirement — but [that new commercial?][1]. Yeah… Well, it’s just not really resonating with the populace.
 
 I know, you said it’s a start, a baby step in banality to get us to make an emotional connection to Windows again that doesn’t involve f-bombs and tossing Windows, well, out of windows.
 
@@ -26,19 +26,19 @@ Go Musical. (it’s working for _Mamma Mia!_). You remember when you hired Mick 
 
 Look, it worked for [William Hung][2]. It’ll work for you.
 
-Send BillyG over for an American Idol tryout, singing “Vista Bangs” &#8211; let that go viral.
+Send BillyG over for an American Idol tryout, singing “Vista Bangs” — let that go viral.
 
-Then sneak in a little while later &#8211; you and Jerry, remaking the [Elton and Kiki classic][3] “Vista, Don’t go breaking my harddrive”
+Then sneak in a little while later — you and Jerry, remaking the [Elton and Kiki classic][3] “Vista, Don’t go breaking my harddrive”
 
-(or if you prefer, [Travolta and Tennille][4] &#8211; but that’s mostly about the hair, that’s a little risky, particularly for Steve B.)
+(or if you prefer, [Travolta and Tennille][4] — but that’s mostly about the hair, that’s a little risky, particularly for Steve B.)
 
-Follow that up with some “Vista Love” &#8211; yeah, you know [how it goes][5]…
+Follow that up with some “Vista Love” — yeah, you know [how it goes][5]…
 
 > Vista Suzie…. Vista Sam…. Doing the the jitterbug, down in Vista land
 
 Microsoft: Call me!
 
-p.s. And when all that fails &#8211; [Get it together][6]
+p.s. And when all that fails — [Get it together][6]
 
  [1]: http://www.microsoft.com/windows/?ocid=ftp_wmg_vs_79
  [2]: http://en.wikipedia.org/wiki/William_Hung

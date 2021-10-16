@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Dogs with carrots, if it’s not the next internet meme, it should be &#8211; totally better than cats with stuff on them.
+Dogs with carrots, if it’s not the next internet meme, it should be — totally better than cats with stuff on them.
 
 ![][1]
 

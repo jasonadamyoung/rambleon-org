@@ -11,7 +11,7 @@ tags:
   - quotable
 
 ---
-In one of my management-oriented software classes in college &#8211; I studied under a prof that was a pretty big fan of TQM &#8211; so I spent a lot of time in the class dealing with the terms “Hoshin” (or [Hoshin Kanri][1]) and “[Kaizen][2]”
+In one of my management-oriented software classes in college — I studied under a prof that was a pretty big fan of TQM — so I spent a lot of time in the class dealing with the terms “Hoshin” (or [Hoshin Kanri][1]) and “[Kaizen][2]”
 
 While I still have a fairly healthy respect for some of the ideas and fundamentals that were packaged up as TQM, I tend to think that most “Management Methodologies” are a load of insert-your-creative-euphemism-for-well-you-know-here, invented mainly to sell business books to an entire group of lemmings in business suits, who otherwise would be contributing to Oprah’s book-of-the-month club.
 

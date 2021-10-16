@@ -10,7 +10,7 @@ categories:
 ---
 If you are reading this, you undoubtedly know that [a fellow going by the alias ‘The Pirate Captain’][1] won the NC State Student Body President this week.
 
-I’m a staff member at NCSU, in computing, and I have nothing to do with Student Development, Student Government, or really any student organization at all (I interact with the [PackMUG][2] and provide a [webserver][3] for Engineering student groups &#8211; but that’s it), so I have no influence or role or anything else in student elections. And besides, the election is said and done. I also don’t know Whil at all.
+I’m a staff member at NCSU, in computing, and I have nothing to do with Student Development, Student Government, or really any student organization at all (I interact with the [PackMUG][2] and provide a [webserver][3] for Engineering student groups — but that’s it), so I have no influence or role or anything else in student elections. And besides, the election is said and done. I also don’t know Whil at all.
 
 But I think what he did was great. I’m sure those that know me at NC State would not be surprised. I’m a big fan of those that epitomize the words from Apple Computer’s late 90’s “Think Different” marketing campaign:
 

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-So, hopefully in the next few days &#8211; eXtension is going to be hiring a System Administrator as a [SPA position][1] (an Operation and Systems Analyst in the [IT Career Banding system][2]) at NC State University. The position is grant-funded so it is “time-limited” &#8211; meaning that there’s a possibility that the grant funding could go away in two years &#8211; and employees that are in time-limited positions aren’t eligible for severance pay or North Carolina Reduction-In-Force (“RIF”) status (we are pretty confident that the funding is going to extend well beyond 2007).
+So, hopefully in the next few days — eXtension is going to be hiring a System Administrator as a [SPA position][1] (an Operation and Systems Analyst in the [IT Career Banding system][2]) at NC State University. The position is grant-funded so it is “time-limited” — meaning that there’s a possibility that the grant funding could go away in two years — and employees that are in time-limited positions aren’t eligible for severance pay or North Carolina Reduction-In-Force (“RIF”) status (we are pretty confident that the funding is going to extend well beyond 2007).
 
 The job description:
 

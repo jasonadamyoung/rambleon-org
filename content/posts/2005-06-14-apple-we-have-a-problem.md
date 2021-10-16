@@ -16,7 +16,7 @@ So I’ve seen hints at this in my RSS reader in the last few weeks, but failed 
 
 Now, you theoretically have to buy QT Pro to watch movies in “full-screen” mode in QT Player. Some sites have it that you can work around this in iTunes (iTunes allows you to click the “fullscreen” option for movie trailers).
 
-Well today &#8211; in a [somewhat related hint at macosxhints.com][1] &#8211; all you need is this AppleScript:
+Well today — in a [somewhat related hint at macosxhints.com][1] — all you need is this AppleScript:
 
 <code class="highlighter-rouge">tell application "QuickTime Player"  activate  present the front movie  end tell</code>
 

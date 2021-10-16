@@ -10,6 +10,6 @@ categories:
 ---
 That this [could happen far more often][1]. ( Heroic Computer Dies To Save World From Master’s Thesis )
 
-Even though I love the _onomatopoeia_ &#8211; I love The Onion way more.
+Even though I love the _onomatopoeia_ — I love The Onion way more.
 
  [1]: http://www.theonion.com/content/node/48461

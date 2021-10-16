@@ -20,7 +20,7 @@ Of course they can’t quite fake all the headers yet:
 
 > From: update@paypal.com Subject: Please update your PayPal account ! Date: January 11, 2006 5:04:20 PM EST Return-Path: … Received: from redakcja.trybuna.com.pl (unknown [212.160.141.120]) by mail.extension.org (Postfix) with ESMTP id 719403FF83D for ; Wed, 11 Jan 2006 17:07:30 -0500 (EST) Received: by redakcja.trybuna.com.pl (Postfix, from userid 1035) id 648541578837; Wed, 11 Jan 2006 23:04:20 +0100 (CET)
 
-And of course, I’m not running Windows, or an Internet Explorer-based email client or even Internet Explorer (even if VMWare wants me too 😉 ) &#8211; so I don’t an an obfuscated URL yet &#8211; and can tell that:
+And of course, I’m not running Windows, or an Internet Explorer-based email client or even Internet Explorer (even if VMWare wants me too 😉 ) — so I don’t an an obfuscated URL yet — and can tell that:
 
 > http://rootimage.com/.secured/updates/us/webscr.php?cmd=LogIn
 

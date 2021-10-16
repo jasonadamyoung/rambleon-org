@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-I liked Sun, I didn’t like Java. But I’ve had a long relationship with Sun hardware and the OS &#8211; dating back to the time when it was the hot thing replacing the DEC equipment both at work and at school. It always served me well in the roles where I used it.
+I liked Sun, I didn’t like Java. But I’ve had a long relationship with Sun hardware and the OS — dating back to the time when it was the hot thing replacing the DEC equipment both at work and at school. It always served me well in the roles where I used it.
 
 I’m actually going [miss the Schwartz][1].
 

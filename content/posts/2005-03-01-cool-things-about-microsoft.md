@@ -19,9 +19,9 @@ So let me tell you what’s good about Microsoft:
   * The [Xbox][4]
   * [Microsoft Research][5]
   * [Microsoft Tablet PC’s][6]
-  * [Brad Abrams][7] &#8211; a former college friend, who I spent many long programming sessions with trying to get our operating systems projects (long live Zoot!) done
-  * [Robert Scoble][8] &#8211; who is putting a human face on the innovation that’s actually being done at Microsoft (being killed by their product licensing group and lawyers)
-  * [Channel9][9] and [Raymond Chen][10] &#8211; I don’t read the Channel9 blogs because I don’t develop Windows software anymore. But Raymond Chen is cool &#8211; had he been writing like that when I was developing software, I still might be a Windows geek
+  * [Brad Abrams][7] — a former college friend, who I spent many long programming sessions with trying to get our operating systems projects (long live Zoot!) done
+  * [Robert Scoble][8] — who is putting a human face on the innovation that’s actually being done at Microsoft (being killed by their product licensing group and lawyers)
+  * [Channel9][9] and [Raymond Chen][10] — I don’t read the Channel9 blogs because I don’t develop Windows software anymore. But Raymond Chen is cool — had he been writing like that when I was developing software, I still might be a Windows geek
   * \*\* (update) \*\* The [MSDN Academic Alliance][11] (which likely takes the sting out of some of the product licensing headache for our virtual computing lab)
   * Microsoft [Developer Support][12] in general
 

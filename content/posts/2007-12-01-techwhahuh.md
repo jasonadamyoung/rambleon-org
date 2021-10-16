@@ -11,13 +11,13 @@ tags:
 ---
 I was reading through my feeds and read Shelly Powers’ [post on Facebook][1]. (or is it really Techmeme? I guess that’s the point).
 
-Interestingly enough, seeing Techmeme mentioned in her post is the first time I’ve actually looked at the site. Now, it’s not like I’m hiding my head in the sand here. I was aware that the site exists &#8211; but up until now I just thought it was a bunch of silicon valley gossipy types self-congratulating themselves. And, well, I just didn’t care.
+Interestingly enough, seeing Techmeme mentioned in her post is the first time I’ve actually looked at the site. Now, it’s not like I’m hiding my head in the sand here. I was aware that the site exists — but up until now I just thought it was a bunch of silicon valley gossipy types self-congratulating themselves. And, well, I just didn’t care.
 
-Actually, correction &#8211; scratch that “up until now” part &#8211; I still don’t care.
+Actually, correction — scratch that “up until now” part — I still don’t care.
 
 So what, it’s a bunch of news stories? And most of the bloggers that are there? Like MacBeth’s characterization of life: “full of sound and fury, and signifying nothing”
 
-As far as I can tell &#8211; there’s only two feeds on that [leaderboard][2] that I’m subscribed to. Ars Technica &#8211; which I suffer through the lack of full-feeds, and it’s the only one that I suffer through the lack of full-feeds, because I like their coverage. And I’m still subscribed to tuaw.com &#8211; but I get far better insight reading John Gruber, and several Macintosh software developers.
+As far as I can tell — there’s only two feeds on that [leaderboard][2] that I’m subscribed to. Ars Technica — which I suffer through the lack of full-feeds, and it’s the only one that I suffer through the lack of full-feeds, because I like their coverage. And I’m still subscribed to tuaw.com — but I get far better insight reading John Gruber, and several Macintosh software developers.
 
 Some of the others I’ll read occasionally, when linked to by people that I actually follow. But as far as I can tell, beyond some tech journalists that are earning their living doing journalism, and probably some of them that are doing it well, none of these people are creating anything. They are not writing code, not doing design, not solving problems. They are reporting. Most often, they are reporting on what other people are reporting. I don’t want to read that. And when I go to search for answers and solutions to the problems I’m having? These sites don’t answer my questions.
 

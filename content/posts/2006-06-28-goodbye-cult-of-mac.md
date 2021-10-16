@@ -12,13 +12,13 @@ Goodbye Cult of Mac.
 
 I really liked [your blog][1] and liked your writers.
 
-But whatever stupid change you made to your feed on June 19th? Yeah, I’m out. Because not-only did you stop with the full feeds &#8211; there’s not even an excerpt.
+But whatever stupid change you made to your feed on June 19th? Yeah, I’m out. Because not-only did you stop with the full feeds — there’s not even an excerpt.
 
 I mostly understand the full-feeds thing. You need to sell advertising. I get that. I’m cool with that. I subscribe to Wired, and I actually look at the ads sometimes because I completely fit the advertiser’s demographic (which is different than most of the other stuff I read).
 
 But it’s absolutely completely ridiculous to just have a feed with article titles. There’s no teaser, no hint, no anything to encourage me to visit your site.
 
-Back in the day, Usenet writers would indicate that you’d been put in the killfile for the newsreader with a _plonk_ &#8211; so guess what, Cult of Mac?
+Back in the day, Usenet writers would indicate that you’d been put in the killfile for the newsreader with a _plonk_ — so guess what, Cult of Mac?
 
 **_plonk_**
 

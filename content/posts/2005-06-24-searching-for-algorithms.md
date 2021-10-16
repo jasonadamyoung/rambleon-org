@@ -10,7 +10,7 @@ categories:
 ---
 So I need help. I really think I’ve been programming far too long.
 
-I have a Diet Coke addiction &#8211; actually it’s an Aspartame addiction, and while you might think that would be what I need help with (and it probably is) &#8211; that’s not what I’m writing about.
+I have a Diet Coke addiction — actually it’s an Aspartame addiction, and while you might think that would be what I need help with (and it probably is) — that’s not what I’m writing about.
 
 See, I go to the vending machines to satisfy this addiction a fair amount. Enough that you begin to recognize the patterns of the machines. Inevitably during the summer, because there’s fewer students around, the vending powers that be fill the machines less frequently, and the machines seem to suffer more “malfunctions” of various types.
 

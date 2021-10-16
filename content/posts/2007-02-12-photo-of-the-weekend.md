@@ -13,7 +13,7 @@ I think this one turns out to be my favorite of the weekend:
 
 [![Fence Framed][1]][2]
 
-But is just me &#8211; or are carousel animals [completely scary][3]?
+But is just me — or are carousel animals [completely scary][3]?
 
  [1]: http://farm1.static.flickr.com/147/387323633_6473753e9c.jpg
  [2]: http://www.flickr.com/photos/rambleon/387323633/ (Photo Sharing)

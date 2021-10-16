@@ -10,11 +10,11 @@ categories:
 ---
 One of my work colleagues asked me a few weeks ago what it took to make /etc show up in the Finder on the Macintosh.
 
-I knew it was some kind of HFS+ invisibility setting &#8211; but I honestly had no clue how to change that setting. About the only thing I knew to say was suggest doing a “open /etc” from a terminal window.
+I knew it was some kind of HFS+ invisibility setting — but I honestly had no clue how to change that setting. About the only thing I knew to say was suggest doing a “open /etc” from a terminal window.
 
 Well, thanks to [this article at TUAW][1] I learned about the [“SetFile”][2] command from the developer tools.
 
-For reasons I don’t completely I can’t seem to get it to work on /etc (which is a symlink to /private/etc in OS X &#8211; and /private/etc is already technically visible and the ‘v’ visibility parameter is only a folder attribute according to the SetFile man page) &#8211; but I can get a:
+For reasons I don’t completely I can’t seem to get it to work on /etc (which is a symlink to /private/etc in OS X — and /private/etc is already technically visible and the ‘v’ visibility parameter is only a folder attribute according to the SetFile man page) — but I can get a:
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>/Developer/Tools/SetFile -a v private</code></pre>

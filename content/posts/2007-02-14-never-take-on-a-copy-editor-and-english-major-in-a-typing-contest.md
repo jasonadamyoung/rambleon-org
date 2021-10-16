@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-So I can’t type all that fast and I already knew the wife could type much faster than me &#8211; but… well, you have to read the transcript.
+So I can’t type all that fast and I already knew the wife could type much faster than me — but… well, you have to read the transcript.
 
 > me: <http://labs.jphantom.com/wpm/>  
 > brown-eyed girl: 71 wpm, 91 wpm, 92 wpm  

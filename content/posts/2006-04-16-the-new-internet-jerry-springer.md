@@ -18,9 +18,9 @@ Matthew Mullenweg: [The Feed Validator is Dead To Me][3]
 
 If the previous paragraph makes your eyes glaze over, congratulations, you’re normal.
 
-Well, probably. But if correcting the FeedValidator to **match the specification** gets you annoyed like this, then your software philosophy is sloppy. [Specifications matter.][5] Checking against the specifications matter. Your software has to match the spec. And when it doesn’t &#8211; you fix your software. You don’t complain bitterly about the people pointing out that your software doesn’t match the specification.
+Well, probably. But if correcting the FeedValidator to **match the specification** gets you annoyed like this, then your software philosophy is sloppy. [Specifications matter.][5] Checking against the specifications matter. Your software has to match the spec. And when it doesn’t — you fix your software. You don’t complain bitterly about the people pointing out that your software doesn’t match the specification.
 
-(however- what the heck is up with all these server side validators not letting people add almost valid feeds to their subscription list &#8211; or at least pointing out the trivial little change and asking if you want to add it anyway, knowing it might break later. I really shudder at something outright breaking based on a Yes or No from a third party web tool That seems worse to me than any of this other debate about the specs).
+(however- what the heck is up with all these server side validators not letting people add almost valid feeds to their subscription list — or at least pointing out the trivial little change and asking if you want to add it anyway, knowing it might break later. I really shudder at something outright breaking based on a Yes or No from a third party web tool That seems worse to me than any of this other debate about the specs).
 
  [1]: http://feedvalidator.org/docs/warning/CommentRSS.html
  [2]: http://www.intertwingly.net/blog/2006/04/16/commentRss

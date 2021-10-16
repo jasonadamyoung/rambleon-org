@@ -10,7 +10,7 @@ tags:
   - systems administration
 
 ---
-One of the most popular landing pages for rambleon.org (which isn’t saying much) &#8211; is [a post I put together in April, 2007 about running your own gem server][1].
+One of the most popular landing pages for rambleon.org (which isn’t saying much) — is [a post I put together in April, 2007 about running your own gem server][1].
 
 Unfortunately it’s outdated. Set let me revisit it for those landing on the old page and looking to put together their own gem server. The nice thing is, gem has (almost) all the tools you need.
 
@@ -24,7 +24,7 @@ Unfortunately it’s outdated. Set let me revisit it for those landing on the ol
 
 ### Pointing your systems to your own server {#pointing-your-systems-to-your-own-server}
 
-This used to be a complete PITA that involved rebuilding the <code class="highlighter-rouge">sources</code> gem. No more! After you install rubygems &#8211; just make sure to do a:
+This used to be a complete PITA that involved rebuilding the <code class="highlighter-rouge">sources</code> gem. No more! After you install rubygems — just make sure to do a:
 
 <code class="highlighter-rouge">gem sources --remove http://gems.rubyforge.org</code>
 
@@ -36,6 +36,6 @@ and a
 
 Voila! You just managed to point your server to your own gem server! Install away.
 
-It’s good to keep one box pointed to http://gems.rubyforge.org &#8211; and take advantage of the new “gem outdated” command to keep track of changes in your installed gems that have been deployed to rubyforge.
+It’s good to keep one box pointed to http://gems.rubyforge.org — and take advantage of the new “gem outdated” command to keep track of changes in your installed gems that have been deployed to rubyforge.
 
  [1]: /2007/04/19/creating-your-own-gem-server/

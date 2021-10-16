@@ -8,19 +8,19 @@ categories:
   - Reflections
 
 ---
-Most of my colleagues and I on our engineering team for our initiative at work (a designer, software developer, sysadmin, and me &#8211; the wildcard draw four) just received new laptops last week, and Daniel (the sysadmin) and I have been putting together some instructions on setting up the development environment and software. We get to finally get them off Snow Leopard and onto Lion. Just in time for Mountain Lion.
+Most of my colleagues and I on our engineering team for our initiative at work (a designer, software developer, sysadmin, and me — the wildcard draw four) just received new laptops last week, and Daniel (the sysadmin) and I have been putting together some instructions on setting up the development environment and software. We get to finally get them off Snow Leopard and onto Lion. Just in time for Mountain Lion.
 
 I’ve been using my personal laptop for work ever since I started back, and that one had been done via a migration, so there’s years of built up tools and apps, so starting new gave me a chance to document all the apps I use for work (either free apps or ones I’ve bought)
 
 ## A note about our development {#a-note-about-our-development}
 
-We are a primarily a Ruby on Rails shop for all our development &#8211; though we have a few WordPress/WordpresMU installs, and a Drupal install that is used as a content creation system for published content to www.extension.org (a Ruby on Rails app) and a content management system for administrative documents. You can see all our [projects in GitHub][1].
+We are a primarily a Ruby on Rails shop for all our development — though we have a few WordPress/WordpresMU installs, and a Drupal install that is used as a content creation system for published content to www.extension.org (a Ruby on Rails app) and a content management system for administrative documents. You can see all our [projects in GitHub][1].
 
 We follow a “develop local” model, all our apps have to work locally (this seems old hat now, but we were doing it before it was fashionable, and you’d be surprised/saddened at how many higher education shops develop “on the server”). We use [Pow][2] for serving the rails apps, and with one exception (me), most use [MAMP][3] for serving PHP and using MySQL. We are considering using [vagrant][4] and setting up an Ubuntu VM to match our server configuration, but aren’t there yet.
 
 We deploy to either a demo or development server, and depending on the app, we may have a staging server as well. We use capistrano for deployment, even for our Drupal and WordPress deploys. We log deploys and announce them in our [campfire][5] chat room using an [add-on to capistrano][6] we wrote.
 
-We use RVM to manage rubies and gemsets. I tried rbenv, and maybe it’s the sysadmin in me, but I didn’t like it as much &#8211; while I know there’s an add-on that does “gemsets” for rbenv, I like the native gemset support. I still think RVM is easier to get setup and going in a team, and [Jewelry Box][7] can make it even easier. Still, I’m definitely looking forward to [Tokaido][8].
+We use RVM to manage rubies and gemsets. I tried rbenv, and maybe it’s the sysadmin in me, but I didn’t like it as much — while I know there’s an add-on that does “gemsets” for rbenv, I like the native gemset support. I still think RVM is easier to get setup and going in a team, and [Jewelry Box][7] can make it even easier. Still, I’m definitely looking forward to [Tokaido][8].
 
 That’s us in a snapshot, here’s our checklist for the system installs:
 
@@ -34,7 +34,7 @@ That’s us in a snapshot, here’s our checklist for the system installs:
 
 Make sure to get your ssh keys (~/.ssh/id\_rsa and ~/.ssh/id\_rsa.pub) off your old macintosh (and copy the ssh key password from the keychain on your old Macintosh)
 
-Add the following to your ~/.ssh/config file &#8211; this will help keep ssh connections open on remote networks, particularly wireless networks:
+Add the following to your ~/.ssh/config file — this will help keep ssh connections open on remote networks, particularly wireless networks:
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>Host *   ServerAliveInterval 120   ServerAliveCountMax 3  </code></pre>
@@ -89,7 +89,7 @@ other optional installs
 
 [Download][3]
 
-if using MAMP, use custom my.cnf (Applications/MAMP/conf/) to allow importinglarge db’s (darmok, create). Note: you will have to create this file, it doesnot already exist. Sample my.cnf and instructions on how to modify apache config to only listen on localhost &#8211; [Daniel’s gist][14]
+if using MAMP, use custom my.cnf (Applications/MAMP/conf/) to allow importinglarge db’s (darmok, create). Note: you will have to create this file, it doesnot already exist. Sample my.cnf and instructions on how to modify apache config to only listen on localhost — [Daniel’s gist][14]
 
 Install the timezone tables:
 
@@ -97,7 +97,7 @@ Install the timezone tables:
 
 ### Optional/Advanced: Brew MySQL Install {#optionaladvanced-brew-mysql-install}
 
-Please note: means you have to do your own PHP environment somehow, alsodoesn’t include a database management tool &#8211; you’ll want something like[Querious][15] or [MySQL workbench][16]
+Please note: means you have to do your own PHP environment somehow, alsodoesn’t include a database management tool — you’ll want something like[Querious][15] or [MySQL workbench][16]
 
   * <code class="highlighter-rouge">sudo mysql_install_db --verbose --user=_mysql --basedir="$(brew --prefix mysql)" --datadir=/usr/local/var/mysql --tmpdir=/tmp</code>
   * See [Superuser Thread for using the MySQL preference pane][17] with the brew install
@@ -124,18 +124,18 @@ Please note: means you have to do your own PHP environment somehow, alsodoesn’
   * Browser plugins (please share your recommendations!): 
       * Safari: [Click to Plugin][25] (run #%@^^# flash on your own terms)
       * Safari/Chrome: Google [voice/video plugin for hangouts][26]
-  * Microsoft Office &#8211; downloadable from NC State if you actually need it
+  * Microsoft Office — downloadable from NC State if you actually need it
 
 ## Jason’s List of other Useful Applications {#jasons-list-of-other-useful-applications}
 
 ### Macintosh App Store (MAS) {#macintosh-app-store-mas}
 
-  * [Evernote][27]: (free &#8211; yearly service subscription available)
+  * [Evernote][27]: (free — yearly service subscription available)
   * [Skitch][28]: (free)
   * [Patterns][29]: regex tool ($2.99)
   * [Growl][30]: ($1.99)
   * [HTTPClient][31]: debug HTTP requests in a GUI ($1.99)
-  * [Reeder][32]: GREAT google reader “client” &#8211; also available for iOS ($4.99)
+  * [Reeder][32]: GREAT google reader “client” — also available for iOS ($4.99)
   * [Meme Generator][33]: (free)
   * [Pixelmator][34]: nice alternative to Photoshop ($$$) for simple things ($14.99)
 
@@ -143,11 +143,11 @@ Please note: means you have to do your own PHP environment somehow, alsodoesn’
 
   * [Mailplane][35]: GREAT front-end for gmail ($24.99) (also in MAS)
   * [Alfred][36]: App Launcher (free, has $ addon) (also in MAS)
-  * [Adium][37]: IM client (free) &#8211; see also [Xtras][38]
+  * [Adium][37]: IM client (free) — see also [Xtras][38]
   * [Propane][39]: nice campfire client ($20)
   * [1Password][40]: GREAT password manager ($49.99) (also in MAS) particularly useful when combined with [Dropbox][41]
   * [Querious][15]: nice mysql management tool ($29)
-  * [Tower][42]: nice git gui ($59 &#8211; I got it on sale, not sure I’d have leaped in at $59)
+  * [Tower][42]: nice git gui ($59 — I got it on sale, not sure I’d have leaped in at $59)
   * [Fluid][43]: create site-specific browsers (free/$4.99 gets extra features)
   * [RStudio][44]: GREAT front-end to R (makes using R approachable) (free) 
       * Note: if using brew version of r: <code class="highlighter-rouge">ln -s "/usr/local/Cellar/r/2.15.1/R.framework" /Library/Frameworks</code>

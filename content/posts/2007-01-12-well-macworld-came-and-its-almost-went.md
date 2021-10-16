@@ -14,7 +14,7 @@ I think a lot of that has to do with the fact is that there were _zero_ software
 
 Well, there’s further proof. Apple Inc. is a hardware company. They just happen to write really great (well, mostly great) software to sell the hardware.
 
-I already have a perfectly functional Airport setup &#8211; so no new Airport Extreme for me. The Apple TV is intriguing &#8211; but I don’t have a widescreen TV that could do 720p. But that’s actually the most tempting product for me.
+I already have a perfectly functional Airport setup — so no new Airport Extreme for me. The Apple TV is intriguing — but I don’t have a widescreen TV that could do 720p. But that’s actually the most tempting product for me.
 
 And the iPhone? Well, it pretty cool. And exciting. And the whole wi-fi thing is intriguing to me.
 
@@ -22,6 +22,6 @@ But I’ve had a treo, and tried to do things with it. Biggest complete waste of
 
 It took awhile for the iPod to shake up the business (as a second-generation iPod owner that later became a brick, I know). Wait for the 3rd generation of the iPhone.
 
-So &#8211; no temptations yet for the new computer that I can’t afford. Aperture is the only thing that would really drive a computer purchase for me, and I think Lightroom is going to work out better for me anyway. So my Powermac still has some life.
+So — no temptations yet for the new computer that I can’t afford. Aperture is the only thing that would really drive a computer purchase for me, and I think Lightroom is going to work out better for me anyway. So my Powermac still has some life.
 
-We’ll see what the year brings. But for us software weenies &#8211; MacWorld wasn’t all that exciting.
+We’ll see what the year brings. But for us software weenies — MacWorld wasn’t all that exciting.

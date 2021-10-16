@@ -11,7 +11,7 @@ tags:
   - sysadmin
 
 ---
-I almost titled this post “If we weren’t all crazy, we’d all go insane” &#8211; because it would have been wildly appropriate. That and I probably could use a few stiff boat drinks.
+I almost titled this post “If we weren’t all crazy, we’d all go insane” — because it would have been wildly appropriate. That and I probably could use a few stiff boat drinks.
 
 A good chunk of my time last week was caught up in understanding a java/tomcat package (volano) that eXtension purchased last year for public chats, and in transitioning it to a new server (and working with peer staff at Kentucky to make sure we were on the same sheet of music regarding the service). This led me to thinking about all the technologies that I’ve had to spend quality time with since we we started buying equipment in October. By quality time, I mean multiple hours and days in manuals and configuration files.
 
@@ -19,15 +19,15 @@ The list is rather long. And my personality is such that I feel like I have to b
 
 > [Apache HTTP Server][1] [Apple File Protocol Services][2] [Cyrus IMAPd][3] [Fogbugz][4] [iptables][5] [jabberd2][6] (and/or [wildfire][7] and/or [ejabberd][8] and several [clients][9]) [Macintosh OS X][10] [Macintosh OS X Server][11] ([documentation][12]) [mailman][13] [mediawiki][14] [MySQL][15] [NFS][16] [OpenDirectory][17] (see also OpenLDAP) [OpenLDAP][18] (see also OpenDirectory) [OpenSSL][19] [PHP][20] [phpMyAdmin][21] [Postfix][22] [Red Hat Enterprise Linux AS][23] ([documentation][24]) [Rsync][25] [SpamAssassin][26] [Squirrelmail][27] [Subversion][28] [tomcat][29] [volano][30] [websvn][31] [Windows XP][32] [wordpress][33]
 
-Now, some of that might be partially redundant. I mean, one should understand a little about the Apple File Services if they have to deal with OS X Server, and iptables if they have to deal with Red Hat Enterprise Linux, but I’ve had to delve into the docs for both enough that they are really separate products until themselves. Linux is listed because I don’t even bother including things like [ssh/sshd][34] or [PAM][35] in the list, but I’ve had to delve into those too. This list doesn’t even include the various and sundry client side software running on OS X client and Windows XP, and having to have a fair amount of knowledge in those &#8211; especially things like web browsers and email clients and their configuration settings. Oh yeah, I get pulled into user support for just about every connection to the above services.
+Now, some of that might be partially redundant. I mean, one should understand a little about the Apple File Services if they have to deal with OS X Server, and iptables if they have to deal with Red Hat Enterprise Linux, but I’ve had to delve into the docs for both enough that they are really separate products until themselves. Linux is listed because I don’t even bother including things like [ssh/sshd][34] or [PAM][35] in the list, but I’ve had to delve into those too. This list doesn’t even include the various and sundry client side software running on OS X client and Windows XP, and having to have a fair amount of knowledge in those — especially things like web browsers and email clients and their configuration settings. Oh yeah, I get pulled into user support for just about every connection to the above services.
 
-Then there’s trying to stay on top of hardware for this, notably the [Dell Poweredge Servers][36], the [Apple XServe][37], and the [Apple XServe Raid][38] &#8211; not to mention a smattering of the client hardware, especially as it deals with supporting non-IT oriented peer staff.
+Then there’s trying to stay on top of hardware for this, notably the [Dell Poweredge Servers][36], the [Apple XServe][37], and the [Apple XServe Raid][38] — not to mention a smattering of the client hardware, especially as it deals with supporting non-IT oriented peer staff.
 
 Oh yeah, and the there are technologies that I haven’t even really touched yet, but have to imminently:
 
 > [Debian][39] (or Fedora Core) (see jabber and rails) [Fedora Core][40] (or Debian) (see jabber and rails) [lighttpd][41] (possibly, see Rails) [Macromedia Breeze][42] (I sure hope not, but if so, [Windows 2003 server][43] too) [Nagios][44] [Quicktime Streaming Server][45] [Ruby][46] (w/ [Rails][47]) [VMWare ESX Server][48] (or Xen) (see jabber and rails) [vtsurvey][49] (probable) [Xen][50] (or VMWare ESX Server) (see jabber and rails)
 
-And other things like VPN’s and VPN clients &#8211; and keeping up with various aspects (and competitors) of all of the above. Unfortunately there’s not much overlap with my IT peers and their roles here (although if I could coax them into dealing, support, and helping more with things like mediawiki, lighttpd, apache, and some of the other stuff I will 😉 )
+And other things like VPN’s and VPN clients — and keeping up with various aspects (and competitors) of all of the above. Unfortunately there’s not much overlap with my IT peers and their roles here (although if I could coax them into dealing, support, and helping more with things like mediawiki, lighttpd, apache, and some of the other stuff I will 😉 )
 
 Oh yeah, there’s a fair amount of coordination and project management that I pull myself into.
 

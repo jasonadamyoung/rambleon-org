@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Well, thanks to a comment from [A. J.][1] at UT-Knoxville &#8211; I know that my RHEL/Fedora problems under Virtual PC 7.0 are not only my own.
+Well, thanks to a comment from [A. J.][1] at UT-Knoxville — I know that my RHEL/Fedora problems under Virtual PC 7.0 are not only my own.
 
 I have gotten [Ubuntu][2] installed. Only to have the X Configuration go wacky and produce screens that look more like fractals:
 
@@ -16,13 +16,13 @@ I have gotten [Ubuntu][2] installed. Only to have the X Configuration go wacky a
 
 than Gnome desktops. I’ve played with the /etc/X11/xorg.conf to no avail at the moment. Great abstract art generator though.
 
-But hey &#8211; I’m further along there! (next I’ll try [suse][4])
+But hey — I’m further along there! (next I’ll try [suse][4])
 
-**[update]** &#8211; Well, while I edited my xorg.conf file to remove the option to do 24 bit color, I failed to changed the “DefaultDepth” parameter (I think it’s a tad silly that you can set the DefaultDepth to an option not in the file, but that’s just me). Changing that gives me a rather happy ubuntu install. I was reminded to look at this from the [ubuntu wiki][5].
+**[update]** — Well, while I edited my xorg.conf file to remove the option to do 24 bit color, I failed to changed the “DefaultDepth” parameter (I think it’s a tad silly that you can set the DefaultDepth to an option not in the file, but that’s just me). Changing that gives me a rather happy ubuntu install. I was reminded to look at this from the [ubuntu wiki][5].
 
 ![][6]
 
-For the record, the OpenSuse install appears to completely fail, but the only thing I tried there was booting off the cd &#8211; I’m not sure my cd image is even good.
+For the record, the OpenSuse install appears to completely fail, but the only thing I tried there was booting off the cd — I’m not sure my cd image is even good.
 
  [1]: http://web.utk.edu/~ajw/
  [2]: http://www.ubuntulinux.org/

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Today is officially “no complaint wednesday” &#8211; my attempt to go throughout the entire workday and not complain about anything.
+Today is officially “no complaint wednesday” — my attempt to go throughout the entire workday and not complain about anything.
 
 To date, this is has been basically impossible for me.
 

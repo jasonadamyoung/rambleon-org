@@ -22,7 +22,7 @@ From my friend [James Robinson][1] following up my [query][2] (as posted to the 
 > 
 > [snip, snip, oh good grief, (cranks up chain saw)]
 > 
-> [waaaaaahhhhhhhhh, waaaaaaahhhhhhhhhhhhhh &#8211; Timber!]
+> [waaaaaahhhhhhhhh, waaaaaaahhhhhhhhhhhhhh — Timber!]
 > 
 > > So, my question(s) for discussion are these: (and any you want to add):  
 > > _

@@ -42,7 +42,7 @@ About what’s going on with the project and the work being done.
 
 I’m still trying to get the Project Leadership to use that site to publish information about the vision for VCL, and capture the ideas in weblog and/or wiki form there that they communicate around campus. Getting people to write is a challenge ;-). But I still have hopes that more of those kinds of pieces of information can be published there. Imagine for a moment the opportunity of students and faculty coming to the VCL site to make reservations, or to find help, and then being able to explore the design and project documents that provide a deeper picture of the service. (Yes, I know, there I go again).
 
-  1. In response to a blogs/publications discussion on the TLTR list &#8211; we brought up a vhost: [“community.eos.ncsu.edu”][10] which is running a copy of the same PHP-based tool we use for a few other sites. This site is “postable” by anyone with a UnityID. It has gained any legs yet, but it’s a potential space for posting and sharing computing and computing use information.
+  1. In response to a blogs/publications discussion on the TLTR list — we brought up a vhost: [“community.eos.ncsu.edu”][10] which is running a copy of the same PHP-based tool we use for a few other sites. This site is “postable” by anyone with a UnityID. It has gained any legs yet, but it’s a potential space for posting and sharing computing and computing use information.
 
  [1]: //people.engr.ncsu.edu/jayoung/site/pages/-652bef9c9041e5c5f2621cfc1e6568f9"
  [2]: //people.engr.ncsu.edu/wrbeaudo"
