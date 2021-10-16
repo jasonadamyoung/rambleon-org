@@ -28,4 +28,4 @@ The summary:
 
 Do shit. Know your shit. Don’t talk shit.
 
-That’s my blinding glimpse of the obvious advice for the day
+That’s my blinding glimpse of the obvious advice for the day.
