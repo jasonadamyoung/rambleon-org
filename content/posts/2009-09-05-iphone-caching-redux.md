@@ -17,9 +17,9 @@ The 2008 article is awesome, but the problem is that the article is taken as gos
 
 The gospel then assumes that you can’t use prototype in iPhone (Mobile Safari) web views without killing performance. My own assumption was “WTF? That can’t be right”
 
-And at least with the iPhone 3.0 Mobile Safari on my iPhone 3GS &#8211; I’m pretty convinced this is not the case. After spending about 30-40 minutes realizing that I had the cache disabled in Firefox. And then I had mod\_expires loading, but not active for our web apps &#8211; I’m watching an approximately 39 item, 562KB web page (yes I know, don’t ask, but mod\_deflate _is_ turned off) being happily cached in Mobile Safari. Either getting 304’s for everything, or just not making the request once I finally fixed the mod_expires headers issue.
+And at least with the iPhone 3.0 Mobile Safari on my iPhone 3GS — I’m pretty convinced this is not the case. After spending about 30-40 minutes realizing that I had the cache disabled in Firefox. And then I had mod\_expires loading, but not active for our web apps — I’m watching an approximately 39 item, 562KB web page (yes I know, don’t ask, but mod\_deflate _is_ turned off) being happily cached in Mobile Safari. Either getting 304’s for everything, or just not making the request once I finally fixed the mod_expires headers issue.
 
-I do not know what the limits are, search turns up questions and no answers. And I’ve gone through iPhone developer and other documentation &#8211; even WebKit Framework headers (not that I really expected them there, but you never know) &#8211; and I can’t find an answer on what the limits are.
+I do not know what the limits are, search turns up questions and no answers. And I’ve gone through iPhone developer and other documentation — even WebKit Framework headers (not that I really expected them there, but you never know) — and I can’t find an answer on what the limits are.
 
 I just completely believe right now, with the limited testing that the limits are **no longer 25K and 19 items. It’s definitely higher.** But I need to do more testing and probably get some peer confirmation out there.
 

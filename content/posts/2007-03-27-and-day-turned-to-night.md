@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Lake Raleigh on the NCSU Centennial Campus &#8211; at sunset (through a polarizer)
+Lake Raleigh on the NCSU Centennial Campus — at sunset (through a polarizer)
 
 [![And Day Turned to Night][1]][2]
 

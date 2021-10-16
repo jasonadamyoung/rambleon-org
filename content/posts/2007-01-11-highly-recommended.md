@@ -9,15 +9,15 @@ categories:
   - Uncategorized
 
 ---
-I haven’t actively listened to much music in a while &#8211; I’ve been listening to mostly Imus and NPR on the drive to and from work &#8211; and I don’t like wearing headphones all that much, so I haven’t been listening to music at work much.
+I haven’t actively listened to much music in a while — I’ve been listening to mostly Imus and NPR on the drive to and from work — and I don’t like wearing headphones all that much, so I haven’t been listening to music at work much.
 
-A friend of mind made a CD of the Wallflowers a few days ago and gave it to me &#8211; he’s a big, big, big Bob Dylan fan and likes Jakob Dylan too, and thought I might like the Wallflowers (I really haven’t paid them much attention prior to today). I did enjoy listening to it, and plan on listening a fair bit more to let it sink in before I give the review on them.
+A friend of mind made a CD of the Wallflowers a few days ago and gave it to me — he’s a big, big, big Bob Dylan fan and likes Jakob Dylan too, and thought I might like the Wallflowers (I really haven’t paid them much attention prior to today). I did enjoy listening to it, and plan on listening a fair bit more to let it sink in before I give the review on them.
 
-Well, the Wallflowers CD inspired me to finally take my iPod nano to work and start listening to some music again. As I was walking out the door to work this morning &#8211; I decided to buy an album from iTunes.
+Well, the Wallflowers CD inspired me to finally take my iPod nano to work and start listening to some music again. As I was walking out the door to work this morning — I decided to buy an album from iTunes.
 
  ![Ma-Album][1][Yo-Yo Ma’s][2] _Appassionato_.
 
-This is one fantastic album. If you like classical and/or jazz &#8211; you will like this. I’m not going to get all New York Times snooty and write some music review about florid overtones or whatever things that music reviewers like to write about. I’m only going to say “get it”.
+This is one fantastic album. If you like classical and/or jazz — you will like this. I’m not going to get all New York Times snooty and write some music review about florid overtones or whatever things that music reviewers like to write about. I’m only going to say “get it”.
 
 P.S. One of my favorite Yo-Yo Ma stories comes from the late Fred Rogers, from a speech that Mr. Rogers gave at Marquette University in 2001 (that was somewhat similar to the kind of speech he gave at my graduation from NC State in 1996). He said this of Ma:
 

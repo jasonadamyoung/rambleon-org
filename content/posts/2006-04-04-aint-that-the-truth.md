@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-I read [this CNet article][1] from Linux World about the [OLPC][2] project with great interest. There’s lots of little tidbits in it about the bloatedness of Linux and Windows, and Microsoft dissing the project, even when they are working on CE versions that could work with the OLPC specs &#8211; and a very interesting prognostication about mesh networks that I personally think is right on the money.
+I read [this CNet article][1] from Linux World about the [OLPC][2] project with great interest. There’s lots of little tidbits in it about the bloatedness of Linux and Windows, and Microsoft dissing the project, even when they are working on CE versions that could work with the OLPC specs — and a very interesting prognostication about mesh networks that I personally think is right on the money.
 
 The quote that I found most interesting:
 

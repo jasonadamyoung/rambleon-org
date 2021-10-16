@@ -16,7 +16,7 @@ That’s why I can’t believe that I’m seeing more and more job posts that ar
 
 I revere and envy the best in our business, the ones I see in dozens to hundreds of github projects, who write the blogs and posts that my google searches land on when I go to solve problems, and add to each of them the thousands in their workplaces that aren’t so visible, but are equally as brilliant.
 
-I know first hand that the productivity and talent curve in software developers is a pareto distribution, and a few computational scientists and engineers have transformed human productivity along with (and sometimes in spite of) the rest of us &#8211; their colleagues in their field.
+I know first hand that the productivity and talent curve in software developers is a pareto distribution, and a few computational scientists and engineers have transformed human productivity along with (and sometimes in spite of) the rest of us — their colleagues in their field.
 
 Stereotypically the rock stars of my age and just before were incredible artists that became coddled tyrannical adolescent assholes who trashed hotel rooms, trashed equipment, and drank and drugged themselves to death at ages way too young.
 

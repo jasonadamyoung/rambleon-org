@@ -14,11 +14,11 @@ Sometimes the interpreted language equivalent of “compiler warnings” get rea
 
 Anyway, with advent of RubyGems 0.9.0, the [“require gem” command is deprecated][1].
 
-And as of 0.9.1 of RubyGems (to which you might want to update [because of a security hole][2]) &#8211; you know get lovely little warnings scattered all over the place
+And as of 0.9.1 of RubyGems (to which you might want to update [because of a security hole][2]) — you know get lovely little warnings scattered all over the place
 
 <code class="highlighter-rouge">Warning: require_gem is obsolete. Use gem instead.</code>
 
-And of course things like the mongrel\_rails command include “require\_gem” &#8211; as does feed_tools &#8211; which of course is kicked off by cron jobs in our environment, and is now happily filling my root mail with the warning messages.
+And of course things like the mongrel\_rails command include “require\_gem” — as does feed_tools — which of course is kicked off by cron jobs in our environment, and is now happily filling my root mail with the warning messages.
 
 Sigh.
 

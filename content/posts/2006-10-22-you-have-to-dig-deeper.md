@@ -8,11 +8,11 @@ categories:
   - Reflections
 
 ---
-[This commentary][1] ([linked to][2] by Jeremy Zawodny) is pretty fascinating &#8211; on all kinds of levels.
+[This commentary][1] ([linked to][2] by Jeremy Zawodny) is pretty fascinating — on all kinds of levels.
 
-One &#8211; the tastyresearch blog is pretty cool in and of itself. Two, I absolutely dig the subject matter. The fact that there are broad linguistic differences in the United States is a pretty interesting subject. ( I’m fascinated by the vocabularies we invent in our fields to communicate amongst ourselves in medicine, computing, animal sciences, etc. ).
+One — the tastyresearch blog is pretty cool in and of itself. Two, I absolutely dig the subject matter. The fact that there are broad linguistic differences in the United States is a pretty interesting subject. ( I’m fascinated by the vocabularies we invent in our fields to communicate amongst ourselves in medicine, computing, animal sciences, etc. ).
 
-But really is interesting about this is found by digging deeper. As I started looking at the [generated graph][3] &#8211; two things stood out:
+But really is interesting about this is found by digging deeper. As I started looking at the [generated graph][3] — two things stood out:
 
 ![legend.png][4]
 
@@ -34,9 +34,9 @@ The [site linked to by TastyResearch][7] is the source. It’s an older (pre-200
 
 In other words, not very accurate science. At all. It’s entertainment and general trends. It probably does reflect general viewpoints pretty well.
 
-But when you really look [look at the data][8] &#8211; that’s when you begin wondering about things &#8211; can ~3300 responses from NC build an accurate county-based view? I’ve forgotten all my statistics, but I’d say for most of the counties, no, the margin of error is too great. However, it is language, and you might have to assume that good data in one county probably likely correlates well with the neighboring county (at least for words like these). But it’s still really entertainment.
+But when you really look [look at the data][8] — that’s when you begin wondering about things — can ~3300 responses from NC build an accurate county-based view? I’ve forgotten all my statistics, but I’d say for most of the counties, no, the margin of error is too great. However, it is language, and you might have to assume that good data in one county probably likely correlates well with the neighboring county (at least for words like these). But it’s still really entertainment.
 
-At the end of the day though, I really love this kind of data view &#8211; especially working in Extension. And would love to figure out ways we can begin to do these kinds of things, and find more accurate data reporting.
+At the end of the day though, I really love this kind of data view — especially working in Extension. And would love to figure out ways we can begin to do these kinds of things, and find more accurate data reporting.
 
  [1]: http://tastyresearch.wordpress.com/2006/10/05/pop-vs-soda-vs-coke/
  [2]: http://jeremy.zawodny.com/linkblog/

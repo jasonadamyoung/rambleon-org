@@ -16,7 +16,7 @@ Which of course, had to be done:
 
 <code class="highlighter-rouge">curl -s twitter.com/statuses/user_timeline/711063.xml | sed -ne '/&lt;text/s/&lt;/*text&gt;//gp' | say -o twitter.aiff</code>
 
-And a quick run through Audacity (because I don’t have a command line lame install) yields an mp3 &#8211; thanks to ‘Alex’ the Macintosh voice &#8211; though James Earl Jones would have been much better.
+And a quick run through Audacity (because I don’t have a command line lame install) yields an mp3 — thanks to ‘Alex’ the Macintosh voice — though James Earl Jones would have been much better.
 
 [twitter][1]
 

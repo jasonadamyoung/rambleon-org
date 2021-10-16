@@ -12,13 +12,13 @@ tags:
   - sysadmin
 
 ---
-To be titled “Rambles of an University System Administrator” &#8211; my professional blog sure has suffered from a dearth of system administration topics.
+To be titled “Rambles of an University System Administrator” — my professional blog sure has suffered from a dearth of system administration topics.
 
 Well, no more.
 
-[eXtension][1] finally has some server equipment &#8211; and after a few days of crawling around on my hands and knees racking it all up, I have several observations coming. Now I realize that it’s somewhat bad form to just stick a post here to say what I’m going to say. But that’s what I’m saying.
+[eXtension][1] finally has some server equipment — and after a few days of crawling around on my hands and knees racking it all up, I have several observations coming. Now I realize that it’s somewhat bad form to just stick a post here to say what I’m going to say. But that’s what I’m saying.
 
-Meanwhile, here &#8211; [remember back to “Here comes the Hotstepper”][2] and get it stuck in your head while you wait 🙂
+Meanwhile, here — [remember back to “Here comes the Hotstepper”][2] and get it stuck in your head while you wait 🙂
 
 _Hit It! Nah, na na na nah, na na na nah, na na nah, na na nah, na na na nah
 
@@ -26,7 +26,7 @@ Here comes the sysadmin, configure-er I’m the macintosh gangster, configure-er
 
 No no blogs don’t die Yes they mul-ti-ply Unit test we’ll hear argument sing Act like you know Scoble I don’t know what Google don’t know Touch Apache up and go, uh-oh! Ch-ch-change change logs_
 
-Okay, it needs some work &#8211; but it’s not bad for five minutes of work.
+Okay, it needs some work — but it’s not bad for five minutes of work.
 
 (yes, I know I said _professional_ blog earlier, but it’s all relative)
 

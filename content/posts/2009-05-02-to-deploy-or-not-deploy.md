@@ -10,7 +10,7 @@ tags:
   - that cosmopolitan working life
 
 ---
-So for the bit of backstory on this. I was feeling, for a few hours, pretty rebellious over deploying some changes I had some concerns with that included a link to our terms of use, and over other not entirely related things that are certainly neither here nor there. And when my colleague checked the changes in all the applications, and asked us to tag and deploy said apps &#8211; well, when the rebellion turns passive-aggressive, the rebellious turn to [Hamlet][1]. Apologies to Willie. Heck, apologies to the entire United Kingdom.
+So for the bit of backstory on this. I was feeling, for a few hours, pretty rebellious over deploying some changes I had some concerns with that included a link to our terms of use, and over other not entirely related things that are certainly neither here nor there. And when my colleague checked the changes in all the applications, and asked us to tag and deploy said apps — well, when the rebellion turns passive-aggressive, the rebellious turn to [Hamlet][1]. Apologies to Willie. Heck, apologies to the entire United Kingdom.
 
 > _Deploy or not deploy:_ _that is the question:
   

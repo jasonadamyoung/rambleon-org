@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-I started to title this “The Web Killed My Video Star” or “I Don’t Like Video, (Tell Me Why)” &#8211; both of which are highly relevant pop culture references, but they are terrible titles for the subject matter.
+I started to title this “The Web Killed My Video Star” or “I Don’t Like Video, (Tell Me Why)” — both of which are highly relevant pop culture references, but they are terrible titles for the subject matter.
 
 I haven’t watched a full-length show on TV in quite some time without time-shifting, or interrupting, or browsing the internet at the same time (which because I can’t process multiple input streams at one time effectively(1) means I completely ignore the television)
 

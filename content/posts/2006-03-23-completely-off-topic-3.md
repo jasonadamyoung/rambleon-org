@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-This is completely off-topic &#8211; but since when did the iTunes Music Store start selling “albums” cheaper than $9.99?
+This is completely off-topic — but since when did the iTunes Music Store start selling “albums” cheaper than $9.99?
 
 ![iTunesScreenSnapz001.jpg][1]
 

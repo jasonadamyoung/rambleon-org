@@ -11,13 +11,13 @@ tags:
 ---
 This is one of the reasons I absolutely loathe java. And it has nothing to do with the language. It has to do with the _culture_.
 
-There are a few services that we run that are java-based. History shows that most of these seem to run happier using the JVM from Sun &#8211; so every so often as I reinstall systems or move the services around &#8211; I need to install the Sun Java software.
+There are a few services that we run that are java-based. History shows that most of these seem to run happier using the JVM from Sun — so every so often as I reinstall systems or move the services around — I need to install the Sun Java software.
 
 However, Sun makes getting Java the biggest pain in the arse out of most of the software packages I need to obtain for our services.
 
-One, because it’s not open-sourced &#8211; at least not in any semblance of open-source like most of the other language environments &#8211; and because of whatever technology politics between Sun and RedHat &#8211; Sun’s Java doesn’t come in the set of packages distributed with my Red Hat Enterprise Linux Systems. Fine, there’s a lot that Red Hat doesn’t provide.
+One, because it’s not open-sourced — at least not in any semblance of open-source like most of the other language environments — and because of whatever technology politics between Sun and RedHat — Sun’s Java doesn’t come in the set of packages distributed with my Red Hat Enterprise Linux Systems. Fine, there’s a lot that Red Hat doesn’t provide.
 
-However, it’s not in any add-on repositories either &#8211; again, because Sun doesn’t allow for redistribution. I can’t manage Sun’s Java through my standard OS package management utils. Fine, that’s life, other software is the same way.
+However, it’s not in any add-on repositories either — again, because Sun doesn’t allow for redistribution. I can’t manage Sun’s Java through my standard OS package management utils. Fine, that’s life, other software is the same way.
 
 And Lo, Sun provides an RPM install right?
 
@@ -33,9 +33,9 @@ You’d freakin think that somewhere in that that encoded token that I could use
 
 I get that. I get that I’m downloading precious cargo and you want to make it a complete pain in the arse to download the software that YOU NAMED YOUR COMPANY’S TICKER SYMBOL AFTER.
 
-Second, it’s not really an RPM, it’s a shell-script wrapped rpm that guess what it does when I execute it? &#8211; that’s right folks IT MAKES ME ACCEPT THE DAMN LICENSE AGREEMENT AGAIN.
+Second, it’s not really an RPM, it’s a shell-script wrapped rpm that guess what it does when I execute it? — that’s right folks IT MAKES ME ACCEPT THE DAMN LICENSE AGREEMENT AGAIN.
 
-I won’t get started on the other problems &#8211; like where the RPM sticks all it’s files. But that’s fine, I don’t expect that the company that changed its ticker symbol to match it’s flagship product would actually spend engineering time on making sure that the flagship product conforms to the operating system standards of all the platforms they want that flagship product on.
+I won’t get started on the other problems — like where the RPM sticks all it’s files. But that’s fine, I don’t expect that the company that changed its ticker symbol to match it’s flagship product would actually spend engineering time on making sure that the flagship product conforms to the operating system standards of all the platforms they want that flagship product on.
 
 Dear Sun. Please get a clue. [Use the Schwartz in a way that matters][1]
 

@@ -10,7 +10,7 @@ tags:
   - sysadmin
 
 ---
-According to [this Windows IT Pro article][1] ([via Engadet][2]). Windows Sysadmins will have multiple new Windows Vista versions to deal with. That’s right &#8211; no longer will you have to tear your hair out fighting issues with convincing the faculty/staff/students you support to get XP Professional instead of XP Home, now you’ll be able to choose from a support nightmare of **seven** different versions!
+According to [this Windows IT Pro article][1] ([via Engadet][2]). Windows Sysadmins will have multiple new Windows Vista versions to deal with. That’s right — no longer will you have to tear your hair out fighting issues with convincing the faculty/staff/students you support to get XP Professional instead of XP Home, now you’ll be able to choose from a support nightmare of **seven** different versions!
 
   * Windows Vista Starter Edition
   * Windows Vista Home Basic Edition
@@ -30,7 +30,7 @@ Brian: hey, maybe ultimate edition will come in a nice collector’s tin with a 
 Jason M: ooooo  
 Jason M: maybe holo foils  
 Margaret: gotta catch ‘em all  
-Jason Y: just what I’ve always wanted &#8211; holographic foils of the [Microsoft Executives][3]  
+Jason Y: just what I’ve always wanted — holographic foils of the [Microsoft Executives][3]  
 Jason Y: that might could generate revenue though, people will have to buy multiple Ultimate editions to collect the whole set
 
 I wonder if Robert Scoble will get his own card?

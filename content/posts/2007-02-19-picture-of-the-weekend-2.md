@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-Okay, so it got the lightroom “direct positive” treatment &#8211; but it worked well for it.
+Okay, so it got the lightroom “direct positive” treatment — but it worked well for it.
 
 [![Let there be light][1]][2]
 

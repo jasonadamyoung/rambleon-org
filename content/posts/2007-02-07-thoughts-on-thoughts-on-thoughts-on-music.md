@@ -16,7 +16,7 @@ I usually avoid commenting on what everyone else is commenting on. But I had to 
 
 The labels, their public idiocy in statements aside, absolutely know that DRM isn’t preventing piracy. While they keep pointing that out and sounding completely stupid in their statements about it, the major labels aren’t run by stupid people. They are run by people hell bent at all costs to foolishly control everything they possibly can.
 
-They don’t want DRM to prevent piracy. They want DRM because at their core &#8211; if they could make the honest consumers pay some kind of payment **_each and every time_** you play a music track “owned” by a major label they would. They want royalties on your own listening to their managed product. They already do everything they can to control production, packaging, distribution, and broadcast &#8211; and if they could control listening, they would just be ecstatic.
+They don’t want DRM to prevent piracy. They want DRM because at their core — if they could make the honest consumers pay some kind of payment **_each and every time_** you play a music track “owned” by a major label they would. They want royalties on your own listening to their managed product. They already do everything they can to control production, packaging, distribution, and broadcast — and if they could control listening, they would just be ecstatic.
 
 This unsubstantiated, but correct, opinion has been sponsored by the Eagles’ songs _Hotel California_ and _The Last Resort_
 

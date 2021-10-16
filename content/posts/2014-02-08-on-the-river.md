@@ -10,7 +10,7 @@ categories:
 ---
 It’s been awhile, hasn’t it?
 
-A lot of life has happened in the last few months. After four years of searching, we finally found a home that we liked &#8211; on the western side of the Raleigh-Durham-Chapel Hill “Triangle” area. Five acres of mostly trees on a river just north of Hillsborough, N.C.
+A lot of life has happened in the last few months. After four years of searching, we finally found a home that we liked — on the western side of the Raleigh-Durham-Chapel Hill “Triangle” area. Five acres of mostly trees on a river just north of Hillsborough, N.C.
 
 ![image][1]
 

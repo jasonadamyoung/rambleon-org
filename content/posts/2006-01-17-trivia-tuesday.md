@@ -10,17 +10,17 @@ categories:
 ---
 So, because I want to ask both the PackMug and the extension system IT folks about their own naming schemes – this week’s trivia question (and the inagural one of I hope a continuing series) is:
 
-**What do you name your computers?** (for system admins both servers, desktops, &#8211; but especially your own machine)
+**What do you name your computers?** (for system admins both servers, desktops, — but especially your own machine)
 
 **Servers**
 
-I’ve [already mentioned my current server naming scheme][1] (in my last job, we did boring things like engr##[id] where [id] was a type of server, e.g a webserver was “ws” &#8211; and ## an increasing count for the number of servers of that [id]).
+I’ve [already mentioned my current server naming scheme][1] (in my last job, we did boring things like engr##[id] where [id] was a type of server, e.g a webserver was “ws” — and ## an increasing count for the number of servers of that [id]).
 
-Once thing I didn’t mention in the the previous post was that I name virtual ip addresses (additional ip’s assigned to a server interface) as machinename-virtual-hexcode (all NCSU main campus ip’s are 152.1.something &#8211; so I convert the last two octets to a hex code and use that as part of the A record &#8211; e.g. a virual IP for the host “gehrig” might be “gehrig-virtual-AABB”).
+Once thing I didn’t mention in the the previous post was that I name virtual ip addresses (additional ip’s assigned to a server interface) as machinename-virtual-hexcode (all NCSU main campus ip’s are 152.1.something — so I convert the last two octets to a hex code and use that as part of the A record — e.g. a virual IP for the host “gehrig” might be “gehrig-virtual-AABB”).
 
 **Desktops**
 
-I don’t support enough desktops to care about a naming scheme &#8211; so I ask the peer staff what they want &#8211; if I “own” a supported box, I use baseball names like the servers.
+I don’t support enough desktops to care about a naming scheme — so I ask the peer staff what they want — if I “own” a supported box, I use baseball names like the servers.
 
 **My own computers**
 

@@ -11,7 +11,7 @@ tags:
   - work
 
 ---
-I’m upgrading mediawiki &#8211; can you tell?
+I’m upgrading mediawiki — can you tell?
 
 <code class="highlighter-rouge">svn status | grep ! | awk '{ print $2 }' | xargs -I '{}' svn rm '{}'</code>
 

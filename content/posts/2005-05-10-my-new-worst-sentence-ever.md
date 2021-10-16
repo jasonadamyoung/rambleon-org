@@ -22,8 +22,8 @@ Casey Stengel, eat your heart out.
 
 Though after today, this quote is fitting:
 
-_The key to being a good manager is keeping the people who hate me away from those who are still undecided. &#8211; Casey Stengel_
+_The key to being a good manager is keeping the people who hate me away from those who are still undecided. — Casey Stengel_
 
-[Followup] I ended up apologizing for the ramblings on the list, comparing myself to subject of life in MacBeth’s soliloquy &#8211; “full of sound and fury, signifying nothing” Only, I attributed the soliloquy to Hamlet. Which led in turn to another followup and correction. Some weeks it doesn’t pay to get out of bed.
+[Followup] I ended up apologizing for the ramblings on the list, comparing myself to subject of life in MacBeth’s soliloquy — “full of sound and fury, signifying nothing” Only, I attributed the soliloquy to Hamlet. Which led in turn to another followup and correction. Some weeks it doesn’t pay to get out of bed.
 
  [1]: http://sysadminrambles.files.wordpress.com/2005/05/stengel.jpg

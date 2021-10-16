@@ -16,6 +16,6 @@ Well poppycock.
 
 I watch the logs. And it turns out that while I’d really, really love for people to learn how to remember not one, but a combination of two, not-random strings, they often don’t. Or do, just the wrong combination for that particular tool.
 
-userid/password authentication schemes are already bad from a security perspective &#8211; it’s not like obfuscating the result of mistyping a not-random string improves upon that much at all, and by golly, it should would save the users some time “did I mistype my password? did I forgot my password? WHAT DO YOU MEAN INVALID ID?”
+userid/password authentication schemes are already bad from a security perspective — it’s not like obfuscating the result of mistyping a not-random string improves upon that much at all, and by golly, it should would save the users some time “did I mistype my password? did I forgot my password? WHAT DO YOU MEAN INVALID ID?”
 
 So from now on, goodbye conventional wisdom, I’m actually going to start telling people in every uid/pass dialog I write which string they got wrong.

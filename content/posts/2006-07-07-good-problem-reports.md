@@ -16,7 +16,7 @@ I’m going to add to Brent’s just a bit, but this should be shared far and wi
 
 Effective bug reports should include:
 
-  1. What you did. This should include as much detail as possible. And for web applications &#8211; please include the URL where the problem occurred and your operating system and browser/client software!
+  1. What you did. This should include as much detail as possible. And for web applications — please include the URL where the problem occurred and your operating system and browser/client software!
   2. What you expected.
   3. What actually happened.
 

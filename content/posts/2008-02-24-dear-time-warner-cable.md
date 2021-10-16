@@ -12,7 +12,7 @@ Dear Time Warner Cable,
 
 So, I went to your corporate site to check out again your Digital Phone service? Just to see the latest pricing and what your service offering is?
 
-Yeah, I was browsing [the feature page][1] &#8211; and I’m guessing you really could use an update of the way you manage your site:
+Yeah, I was browsing [the feature page][1] — and I’m guessing you really could use an update of the way you manage your site:
 
 ![cabletheft.jpg][2]
 

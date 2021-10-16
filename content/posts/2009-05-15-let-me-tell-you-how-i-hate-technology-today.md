@@ -27,7 +27,7 @@ And yes, Acrobat does. Cool.
 
 Only, all… my…. text…. is…. gone. Damnit!
 
-But no it’s not, if I click in the field &#8211; it’s there! WHAT?!?
+But no it’s not, if I click in the field — it’s there! WHAT?!?
 
 Sigh. So I saved it with the image, opened in preview, text was there, emailed it to my colleague, text wasn’t there. SIGH. I then opened in Preview, “Printed to PDF” to get something that can be sent back over.
 

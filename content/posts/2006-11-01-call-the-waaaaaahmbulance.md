@@ -12,7 +12,7 @@ So the TextMate Halloween theme has more than a few people [bent out of shape, w
 
 For my part, I just got a bit tired of it after a day. But I can replace my own Macintosh application resources while I wait for a patch.
 
-The best part, though, is that I managed to discover that TextMate has themes (because I failed to do what should be required of every Macintosh application owner &#8211; explore the preferences).
+The best part, though, is that I managed to discover that TextMate has themes (because I failed to do what should be required of every Macintosh application owner — explore the preferences).
 
 And better yet, a colleague of mine in North Carolina [did his own theme][2]
 

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Hey &#8211; you are seeing this blogged in real-time folks!
+Hey — you are seeing this blogged in real-time folks!
 
 ![Mailscreensnapz002][1]
 

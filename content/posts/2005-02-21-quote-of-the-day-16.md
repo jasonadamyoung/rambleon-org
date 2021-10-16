@@ -16,11 +16,11 @@ From [Blake Ross][1]:
 
 Highly agreed.
 
-Speaking of iTunes/iPod’s. Everyone and their brother has an opinion/pontification on both, and their relative place in the grand scheme of things, blah, blah, blah. Of course this sets the various University folks scrambling about to figure out how to capture some of the iTunes/iPod mindshare and “do something” &#8211; especially after my [colleagues just down the road][3] “did something”.
+Speaking of iTunes/iPod’s. Everyone and their brother has an opinion/pontification on both, and their relative place in the grand scheme of things, blah, blah, blah. Of course this sets the various University folks scrambling about to figure out how to capture some of the iTunes/iPod mindshare and “do something” — especially after my [colleagues just down the road][3] “did something”.
 
 The iPod does have great implications for education. e.g.
 
-> <just-a-tad-of-facetious-sarcasm> Could you \_just imagine\_, a students checks the RSS feed for course blog for his/her course, gets yesterday&#8217;s lecture as a .mp3 RSS enclosure (e.g. a &#8220;Podcast&#8221;) and their aggregator automatically puts on their iPod? </just-a-tad-of-facetious-sarcasm>
+> <just-a-tad-of-facetious-sarcasm> Could you \_just imagine\_, a students checks the RSS feed for course blog for his/her course, gets yesterday's lecture as a .mp3 RSS enclosure (e.g. a "Podcast") and their aggregator automatically puts on their iPod? </just-a-tad-of-facetious-sarcasm>
 
 (The “just-a-tad-of-facetious-sarcasm” is that the idea is not bad, but requires a lot of “wouldn’t it be great if…” technology/infrastructure/help documentation to put together. Though I’m sure a year from now, someone on campus will have that very same bright idea, and it will be deemed revolutionary, etc.).
 

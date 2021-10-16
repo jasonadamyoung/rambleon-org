@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Based on some conversations with the NC State “NAG” (network administrators group) this week about problems I was having using our NC State outgoing mail server from home and whether or not Earthlink was blocking Port 25 access &#8211; it seems that they are, for most domains at least, and at least for their DSL customers (or maybe just me, there is a ongoing running joke about the “Jason filter”)
+Based on some conversations with the NC State “NAG” (network administrators group) this week about problems I was having using our NC State outgoing mail server from home and whether or not Earthlink was blocking Port 25 access — it seems that they are, for most domains at least, and at least for their DSL customers (or maybe just me, there is a ongoing running joke about the “Jason filter”)
 
 I had the chance to test this a few nights ago. One of the ways to test SMTP connectivity is to use the tried and true “telnet” command to try and connect to Port 25 on a host.
 
@@ -28,7 +28,7 @@ Interestingly, Earthlink doesn’t block port 25 access to smtp.mac.com (thankfu
 
 (I haven’t emailed earthlink customer support about it, I’m likely to get told to reboot my DSL “modem” or the computer, and I’m not sure I’ll reach someone who actually knows which sets of customers they do or don’t block.)
 
-This all led me to writing up instructions for [using SSH tunnels][3] (oriented to the Macintosh users, but the concepts are the same) &#8211; and also [writing up instructions for using SSHKeychain to do SSH key-based access][4] (which may only work for a subset of the NCSU population that manage their own local accounts on their work systems).
+This all led me to writing up instructions for [using SSH tunnels][3] (oriented to the Macintosh users, but the concepts are the same) — and also [writing up instructions for using SSHKeychain to do SSH key-based access][4] (which may only work for a subset of the NCSU population that manage their own local accounts on their work systems).
 
  [1]: //kb.earthlink.net/case.asp?article=4015"
  [2]: //kb.earthlink.net/case.asp?article=4575"

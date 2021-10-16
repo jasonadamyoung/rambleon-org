@@ -13,6 +13,6 @@ tags:
 ---
 Dealing with magic, magic.mime, and mime.types on Red Hat Enterprise Linux and with PHP, FileInfo, and MediaWiki is a serious pain in the ass.
 
-Who in hell came up with this mess? Apache has a magic file, the os has a magic file, FileInfo complains that it can’t find /usr/share/misc/magic &#8211; when it’s really looking for /usr/share/misc/magic**.mime**. There’s about twenty billion mime.types files &#8211; including the one that MediaWiki has itself. And there’s that many symlinks from hell trying to link some of these together.
+Who in hell came up with this mess? Apache has a magic file, the os has a magic file, FileInfo complains that it can’t find /usr/share/misc/magic — when it’s really looking for /usr/share/misc/magic**.mime**. There’s about twenty billion mime.types files — including the one that MediaWiki has itself. And there’s that many symlinks from hell trying to link some of these together.
 
 What a freakin’ cluster-you-know-what.

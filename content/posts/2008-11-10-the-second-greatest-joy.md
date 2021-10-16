@@ -12,11 +12,11 @@ tags:
   - life
 
 ---
-While this blog and most especially that even more geekily weird one [involving plastic dinosaurs][1] continue to languish in appropriate obscurity &#8211; it is with great mirth that I watch the stats on my humble [flickr account][2]. From time to time I think of leaving it to go to smugmug or another service… but you just can’t beat landing on [page one for a Google Search for “dust cloth”][3] with images like this:
+While this blog and most especially that even more geekily weird one [involving plastic dinosaurs][1] continue to languish in appropriate obscurity — it is with great mirth that I watch the stats on my humble [flickr account][2]. From time to time I think of leaving it to go to smugmug or another service… but you just can’t beat landing on [page one for a Google Search for “dust cloth”][3] with images like this:
 
 [![Improvised Dust Cloth][4]][5] \_Improvised Dust Cloth: I had to dust the cabinets today. Never let an engineer get the bright idea to do this. \_
 
-There’s real funny, and there’s just funny, and questionably funny, and lastly my own funny, and my own crazy jokes are joy &#8211; at least to me, and that’s what it’s all about.
+There’s real funny, and there’s just funny, and questionably funny, and lastly my own funny, and my own crazy jokes are joy — at least to me, and that’s what it’s all about.
 
  [1]: http://comic.conversationswithplasticdinosaurs.com/
  [2]: http://www.flickr.com/photos/rambleon

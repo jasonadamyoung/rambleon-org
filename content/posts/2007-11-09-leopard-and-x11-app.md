@@ -14,7 +14,7 @@ tags:
 
 I found it after going to look for the solution to the same annoyance that others were having, namely that my ~/.xinitrc seemed to be ignored and launching X11.app would create unwanted xterms (have I mentioned that I really _HATE_ xterms?)
 
-Anyway, the new launchd implementation of X11 is great for me. In order to use terminal.app or iTerm with X11 in Tiger I had this whole block of an if statement in my bash profile that would open /Applications/Utilities/X11.app &#8211; and then run osacript to bring the focus back to the Terminal, but only do it for console terminals, not ssh terminals, and set $DISPLAY right, and…. and it was just a kludge.
+Anyway, the new launchd implementation of X11 is great for me. In order to use terminal.app or iTerm with X11 in Tiger I had this whole block of an if statement in my bash profile that would open /Applications/Utilities/X11.app — and then run osacript to bring the focus back to the Terminal, but only do it for console terminals, not ssh terminals, and set $DISPLAY right, and…. and it was just a kludge.
 
 I love the fact that I can ssh -X now and it just works.
 

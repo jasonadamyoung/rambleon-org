@@ -8,13 +8,13 @@ categories:
   - Reflections
 
 ---
-## Update &#8211; August 1, 2008 {#update---august-1-2008}
+## Update — August 1, 2008 {#update---august-1-2008}
 
 This page remains one of my most active pages for Google Searches. A number of folks want to run their own gem server, and for good reason.
 
 Unfortunately it’s outdated and has been for a while, and I’ve been too lazy to update it.
 
-I also hate for you to leave with outdated information &#8211; so please [check out the updated information][1] about the commands that are now built into gem and available for facilitating running your own gem distribution site.
+I also hate for you to leave with outdated information — so please [check out the updated information][1] about the commands that are now built into gem and available for facilitating running your own gem distribution site.
 
 * * *
 
@@ -28,7 +28,7 @@ So before I automate things, I needed a way to point to my own gem server. Which
   2. Decide where you will put your gems (say in a “mycoolgems” directory off the docroot for your webserver)
   3. <code class="highlighter-rouge">$ mkdir [docroot]/mycoolgems/gems</code>
   4. Copy your .gem files that you want to host to <code class="highlighter-rouge">$ [docroot]/mycoolgems/gems</code>
-  5. Rubygems installed a <code class="highlighter-rouge">"index_gem_repository.rb"</code> ruby script in your path. (well probably in your path, it’s in /usr/bin on my systems). You want to run this to generate a yaml-based index of your gems. (appropriately named “yaml” &#8211; and a compressed yaml.Z) e.g. <code class="highlighter-rouge">index_gem_repository.rb -d [docroot]/mycoolgems</code>
+  5. Rubygems installed a <code class="highlighter-rouge">"index_gem_repository.rb"</code> ruby script in your path. (well probably in your path, it’s in /usr/bin on my systems). You want to run this to generate a yaml-based index of your gems. (appropriately named “yaml” — and a compressed yaml.Z) e.g. <code class="highlighter-rouge">index_gem_repository.rb -d [docroot]/mycoolgems</code>
 
 ### Pointing your systems to your own server {#pointing-your-systems-to-your-own-server}
 
@@ -42,13 +42,13 @@ to
 
  <code class="highlighter-rouge">@sources = ["http://yourserver.yourdomain"] </code>
 
-However, that customization is likely going to get blown away the next time you update rubygems with a <code class="highlighter-rouge">gem update --system</code> &#8211; because the <code class="highlighter-rouge">sources</code> gem is built by the rubygems update. So what do you do? Build your own gem update.
+However, that customization is likely going to get blown away the next time you update rubygems with a <code class="highlighter-rouge">gem update --system</code> — because the <code class="highlighter-rouge">sources</code> gem is built by the rubygems update. So what do you do? Build your own gem update.
 
   1. Download the [RubyGems source][2]
   2. Edit <code class="highlighter-rouge">pkgs/sources/lib/sources.rb</code> to point to your own server
-  3. Rebuild the gem by issuing a <code class="highlighter-rouge">rake package</code> &#8211; which will build the rubygems update gem with your source changes (in <code class="highlighter-rouge">pkg/</code> &#8211; in my case <code class="highlighter-rouge">pkg/rubygems-update-0.9.2.gem</code>)
+  3. Rebuild the gem by issuing a <code class="highlighter-rouge">rake package</code> — which will build the rubygems update gem with your source changes (in <code class="highlighter-rouge">pkg/</code> — in my case <code class="highlighter-rouge">pkg/rubygems-update-0.9.2.gem</code>)
   4. Copy this gem to your gem server’s gems directories (and rebuild the yaml index as appropriate)
-  5. On your other servers &#8211; clear out <code class="highlighter-rouge">[lib/ruby]/gems/1.8/cache</code>
+  5. On your other servers — clear out <code class="highlighter-rouge">[lib/ruby]/gems/1.8/cache</code>
   6. Remove the <code class="highlighter-rouge">[lib/ruby]/gems/1.8/source_cache</code>
   7. Run <code class="highlighter-rouge">gem update --system --source http://yourserver.yourdomain</code>
 
@@ -56,7 +56,7 @@ However, that customization is likely going to get blown away the next time you 
 
 Voila! You just managed to point your server to your own gem server! Install away.
 
-It’s good to keep one box pointed to http://gems.rubyforge.org &#8211; and take advantage of the new “gem outdated” command to keep track of changes in your installed gems that have been deployed to rubyforge.
+It’s good to keep one box pointed to http://gems.rubyforge.org — and take advantage of the new “gem outdated” command to keep track of changes in your installed gems that have been deployed to rubyforge.
 
 **[Updated: April 19, 2007** Thanks to [Jim Weirich][3] for pointing out that the index script should actually be index\_gem\_repository.rb and **NOT** generate\_yaml\_index.rb. generate\_yaml\_index.rb is a holdover from earlier rubygems versions]
 

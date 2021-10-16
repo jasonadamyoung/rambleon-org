@@ -9,7 +9,7 @@ tags:
   - workout music
 
 ---
-I totally need some new workout music (yes, yes, I know, it should be “workout” &#8211; but I do own an elliptical that’s not a clothes rack) &#8211; so I’m turning to all 6.5 of my estimated blog readers for help.
+I totally need some new workout music (yes, yes, I know, it should be “workout” — but I do own an elliptical that’s not a clothes rack) — so I’m turning to all 6.5 of my estimated blog readers for help.
 
 So here’s my current list:
 
@@ -37,7 +37,7 @@ So here’s my current list:
 
 “Starry Eyed Surprise”Paul Oakenfold
 
-> Basically, it’s music that I already had that I thought would be good to workout to, and that I could handle (usually) listening to it over and over, e.g. I’d have more “Rocky” music, but other than “Eye of the Tiger” &#8211; I can’t listen to it more than once a year or so.
+> Basically, it’s music that I already had that I thought would be good to workout to, and that I could handle (usually) listening to it over and over, e.g. I’d have more “Rocky” music, but other than “Eye of the Tiger” — I can’t listen to it more than once a year or so.
 > 
 > It’s eclectic to say the least.
 > 

@@ -18,7 +18,7 @@ This is what my heartrate looks like after said work email compared to the last 
 
 New rule, no work email before workouts.
 
-Colophon: this comes from opening my iPod’s Nike+ data ( it’s in iPod_Control/Device/Trainer/Workouts/Empeds/heartrateonly for heart rate workouts ) for each workout, copying it to a text file &#8211; turning the comma delimited data into line-by-line data and pasting each workout’s data into the fantastic [OmniGraphSketcher][2] &#8211; which plots each data set independently as you paste each in.
+Colophon: this comes from opening my iPod’s Nike+ data ( it’s in iPod_Control/Device/Trainer/Workouts/Empeds/heartrateonly for heart rate workouts ) for each workout, copying it to a text file — turning the comma delimited data into line-by-line data and pasting each workout’s data into the fantastic [OmniGraphSketcher][2] — which plots each data set independently as you paste each in.
 
  [1]: https://cdn.rambleon.org/migrate/2011/10/Workout.png
  [2]: http://www.omnigroup.com/products/omnigraphsketcher

@@ -10,7 +10,7 @@ tags:
   - lightroom
 
 ---
-I finally have all my images from iPhoto imported over into Lightroom &#8211; Let the keywording and collections begin!
+I finally have all my images from iPhoto imported over into Lightroom — Let the keywording and collections begin!
 
 ![Adobe Lightroomscreensnapz002][1]
 

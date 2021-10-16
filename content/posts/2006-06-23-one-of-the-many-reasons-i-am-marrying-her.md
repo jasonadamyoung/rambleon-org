@@ -12,9 +12,9 @@ Brown-eyed Girl: but do tell him he’s not allowed to get us matching his n her
 Brown-eyed Girl: 😉  
 JAY: 🙂  
 JAY: _laughter_  
-JAY: su &#8211;  
+JAY: su —  
 JAY: whoops, wrong window  
-JAY: ha &#8211; I just tried to IM you a unix command  
+JAY: ha — I just tried to IM you a unix command  
 Brown-eyed Girl: nice   
 JAY: I tried to take “superuser” in the IM window with you   
 Brown-eyed Girl: hahaha  

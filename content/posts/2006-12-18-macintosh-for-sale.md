@@ -8,6 +8,6 @@ categories:
   - Reflections
 
 ---
-If you are local to the Raleigh/Durham area, or know someone that is and would be interested &#8211; I have my [desktop macintosh and monitor for sale][1]
+If you are local to the Raleigh/Durham area, or know someone that is and would be interested — I have my [desktop macintosh and monitor for sale][1]
 
  [1]: https://rambleon.org/macforsale/

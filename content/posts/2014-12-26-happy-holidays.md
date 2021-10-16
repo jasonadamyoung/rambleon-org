@@ -22,7 +22,7 @@ Though, this is equally as iconic of the craziness and the joy of 2014:
 
 [<img class="alignnone" src="https://photos.smugmug.com/All/Christmas-2014/i-CKpJ6Gf/1/L/DSC_1367-L.jpg" alt="" width="399" height="600" />][5]
 
-Here&#8217;s to holding on to our goose in 2015!
+Here's to holding on to our goose in 2015!
 
 [<img class="alignnone" src="https://photos.smugmug.com/All/Christmas-2014/i-BPw5Kch/1/M/DSC_1460-M.jpg" alt="" width="600" height="399" />][6]
 

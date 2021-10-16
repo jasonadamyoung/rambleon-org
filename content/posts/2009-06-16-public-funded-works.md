@@ -10,9 +10,9 @@ categories:
 ---
 I ended my [question embargo][1] with a bit of a doozy last week, namely:
 
-> Why is extension.org not releasing our collected and contributed works under a less-restrictive license to the public? Why are we not granting the public the same rights that we ask our contributors &#8211; both individual and institutional &#8211; to grant us?
+> Why is extension.org not releasing our collected and contributed works under a less-restrictive license to the public? Why are we not granting the public the same rights that we ask our contributors — both individual and institutional — to grant us?
 
-(Background: extension.org’s [terms of use][2] &#8211; and the [individual and institutional contributor’s agreements][3])
+(Background: extension.org’s [terms of use][2] — and the [individual and institutional contributor’s agreements][3])
 
 I haven’t heard back yet, but that’s to be expected. It’s a tough question best reserved for phone conferences or face-to-face meetings, and not email. I normally need to make sure these things are on staff meeting agendas to get more discussion.
 
@@ -36,7 +36,7 @@ No. Absolutely not. Let me make it as plainly clearly as I can:
 
 No questions. End of story. You paid for it, you should own it. Everyone should own it. Not me, not my University. **You.**
 
-The only reason I want ownership of my Intellectual Property &#8211; paid for by the public, is to _give it back to the public_.
+The only reason I want ownership of my Intellectual Property — paid for by the public, is to _give it back to the public_.
 
 With that goal in mind, my boss and my colleagues and I have proposed that our department be allowed to release all our intellectual property under a Creative Commons and/or GPL license.
 

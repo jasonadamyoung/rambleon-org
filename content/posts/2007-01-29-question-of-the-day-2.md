@@ -11,7 +11,7 @@ tags:
   - quotable
 
 ---
-So, if a work created by an officer or employee of the United States Government that’s part of the person’s official duties (see also [Cornell Law][1]) &#8211; is [Public Domain][2]…
+So, if a work created by an officer or employee of the United States Government that’s part of the person’s official duties (see also [Cornell Law][1]) — is [Public Domain][2]…
 
 Then why on earth isn’t it the same for officers and employees of states, and state and federal funded institutions that are created as part of that person’s official duties?
 

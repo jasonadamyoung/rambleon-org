@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-I’m a very open-information kind of guy &#8211; and a huge proponent of organizational transparency. This is one of the primary reasons that I work for a University, where, in spite of some tremendous pressures resulting from the philosophical battle of the “open” vs. “closed” information campus &#8211; especially in University Information Technology, it’s still allowed practice to publish and share intellectual property and business practices.
+I’m a very open-information kind of guy — and a huge proponent of organizational transparency. This is one of the primary reasons that I work for a University, where, in spite of some tremendous pressures resulting from the philosophical battle of the “open” vs. “closed” information campus — especially in University Information Technology, it’s still allowed practice to publish and share intellectual property and business practices.
 
 That transparency/openness desire is one of the major reasons that I have never had much of a desire to work for closed information institutions e.g. the privately held [SAS][1], located in Cary, NC, in spite of the quality of the company, or the quality of their products.
 

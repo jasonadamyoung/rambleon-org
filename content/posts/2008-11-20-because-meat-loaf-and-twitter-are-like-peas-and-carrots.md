@@ -11,7 +11,7 @@ tags:
   - twitter
 
 ---
-This week, a colleague from Auburn, and [a colleague from Iowa State][1] twittered our mini list of Geek versions of Meat Loaf songs, starting with [“2 out of 3 can’t be accurately represented in binary &#8211; but close enough ain’t bad”][2] and followed by:
+This week, a colleague from Auburn, and [a colleague from Iowa State][1] twittered our mini list of Geek versions of Meat Loaf songs, starting with [“2 out of 3 can’t be accurately represented in binary — but close enough ain’t bad”][2] and followed by:
 
   * “Paradise by the LCD backlight”
   * “NAT out of Hell” (_like a NAT out of hell… you’ll be gone when I go to logon_)

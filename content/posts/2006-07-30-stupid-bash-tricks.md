@@ -14,7 +14,7 @@ So, what do you do when you need to quickly shell script out the running of [day
 
 You cheat.
 
-You can’t really run a for loop across every month and every day in the month, because every month doesn’t have the same number of days, and it looks really stupid to have a blank report for April 31st. In a scripting language with more date arithmetic, I’d probably start with March 1st, and keep adding a day until date == the day I was running the reports, but it’s been way too long since I’ve written anything of substance in perl or php &#8211; and well, I haven’t sat down to learn Ruby yet &#8211; so all I have is the shell. And I’m not very good at that. But for looping something is certainly better than copy and past for 4 months times <=31days times 29 vhosts.
+You can’t really run a for loop across every month and every day in the month, because every month doesn’t have the same number of days, and it looks really stupid to have a blank report for April 31st. In a scripting language with more date arithmetic, I’d probably start with March 1st, and keep adding a day until date == the day I was running the reports, but it’s been way too long since I’ve written anything of substance in perl or php — and well, I haven’t sat down to learn Ruby yet — so all I have is the shell. And I’m not very good at that. But for looping something is certainly better than copy and past for 4 months times <=31days times 29 vhosts.
 
 So, yeah, back to the cheating.
 

@@ -12,7 +12,7 @@ tags:
 ---
 Via [James][1]: the CTO of Opera [has a few words to say to Microsoft about browser interop][2]
 
-I don’t deny that publishing web sites is **hard** work &#8211; and so is writing web browsers. I don’t begrudge the developers, but good grief has Internet Explorer wreaked havoc on web developers, users, and IT staff alike.
+I don’t deny that publishing web sites is **hard** work — and so is writing web browsers. I don’t begrudge the developers, but good grief has Internet Explorer wreaked havoc on web developers, users, and IT staff alike.
 
 (now if [FireFox][3] just had better corporate deployment options, we’d be in much better shape for replacing Internet Explorer. That and if my colleagues around campus didn’t write their web applications to require it)
 

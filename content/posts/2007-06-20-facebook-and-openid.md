@@ -9,7 +9,7 @@ tags:
   - work
 
 ---
-So, after finding the only webform contact I could find to contact facebook &#8211; I have to say that I was impressed that I got an answer:
+So, after finding the only webform contact I could find to contact facebook — I have to say that I was impressed that I got an answer:
 
 > Hi Jason,
 
@@ -17,18 +17,18 @@ The Facebook Platform does not currently support the method you are requesting. 
 
 Thanks again, Greg Customer Support Representative Facebook
 
-[jason.young@ncsu.edu &#8211; Mon Jun 18 07:53:59 2007]:
+[jason.young@ncsu.edu — Mon Jun 18 07:53:59 2007]:
 
 Hey folk,
 
 We are looking to build on Facebook with as much of the Cooperative Extension system as we can try to evangelize about the platform.
 
-We really would like to grow our FB use on our OpenID provider &#8211; who in FB can I contact about any possibilities for OpenID integration?
+We really would like to grow our FB use on our OpenID provider — who in FB can I contact about any possibilities for OpenID integration?
 
 Thanks, Jason Young Systems Manager, National Extension Initiative
 
 Which is nice that they actually answered, but it’s not quite good enough. Like [Kevin said][1] I’m all for them becoming a provider. But what they really need to be is a _consumer_. They lose nothing (other than having to support people’s passwords. And we gain a lot.
 
-So come on Facebook &#8211; do OpenID.
+So come on Facebook — do OpenID.
 
  [1]: http://blog.k1v1n.com/2007/06/facebook-and-openid.html

@@ -11,7 +11,7 @@ tags:
   - Sites
 
 ---
-I just saw [twitter][1] error 500 on me &#8211; and saw their [500 error][2] &#8211; which made me look for their [404 error][3] too.
+I just saw [twitter][1] error 500 on me — and saw their [500 error][2] — which made me look for their [404 error][3] too.
 
 We so need to emulate these.
 

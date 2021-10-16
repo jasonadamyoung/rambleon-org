@@ -16,7 +16,7 @@ But not about this.
 
 Good grief, switching from Metrowerks to XCode has to be a _bear_
 
-And you know, for the first time in Adobe’s **history** &#8211; they seem to be dealing with this [pretty openly][1]
+And you know, for the first time in Adobe’s **history** — they seem to be dealing with this [pretty openly][1]
 
 So cut them some slack, and get ready to watch Photoshop kick butt on the Intel Desktops Apple better announce at WWDC 🙂
 

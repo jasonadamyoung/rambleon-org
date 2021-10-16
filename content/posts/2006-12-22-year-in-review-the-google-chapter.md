@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-So, having sold out more of my personal data than ever should be sold out to Google &#8211; I’ve been using Google Personalized Search since March &#8211; and inspired by [this Google operating system blog post][1] &#8211; here are my top searches for 2006:
+So, having sold out more of my personal data than ever should be sold out to Google — I’ve been using Google Personalized Search since March — and inspired by [this Google operating system blog post][1] — here are my top searches for 2006:
 
   1. rdiff-backup
   2. ruby class variables
@@ -36,7 +36,7 @@ For the last 30 days? (can you tell what I’ve been working on?)
 
 I’m such a complete geek.
 
-And of course &#8211; here’s the graph:
+And of course — here’s the graph:
 
 ![Searches][2]
 

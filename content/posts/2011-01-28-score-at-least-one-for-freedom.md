@@ -8,13 +8,13 @@ categories:
   - Reflections
 
 ---
-Andrew Sullivan’s blog linked to this earlier today &#8211; and as if it wasn’t important to get the word out about what is going on in Egypt &#8211; what do we have for the news video? A copyright takedown.
+Andrew Sullivan’s blog linked to this earlier today — and as if it wasn’t important to get the word out about what is going on in Egypt — what do we have for the news video? A copyright takedown.
 
 ![][1]
 
 Which is why [this development from Al Jazeera][2] is just great, amazing, and awesome for getting information out there.
 
-People idly wonder about IP restrictions and our insane U.S. copyright policies and their impact on innovation &#8211; and the average Joe probably could care less.
+People idly wonder about IP restrictions and our insane U.S. copyright policies and their impact on innovation — and the average Joe probably could care less.
 
 I think this piece underscores those copyright policies and their impact on _freedom_.
 

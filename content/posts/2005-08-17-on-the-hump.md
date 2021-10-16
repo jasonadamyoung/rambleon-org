@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-Because I’m in a bit of a dead spot at work (we are largely in “startup” mode &#8211; and the funding to get the hardware we need to begin to ramp up and create new services is there, but it is still caught up in the bureacracy between the various contracts and grants groups, and the people to help create those new services aren’t here yet either) &#8211; it’s given me a chance to chip away at the mile long “Flagged Items” list in NetNewsWire.
+Because I’m in a bit of a dead spot at work (we are largely in “startup” mode — and the funding to get the hardware we need to begin to ramp up and create new services is there, but it is still caught up in the bureacracy between the various contracts and grants groups, and the people to help create those new services aren’t here yet either) — it’s given me a chance to chip away at the mile long “Flagged Items” list in NetNewsWire.
 
-Everyone and their mother’s brother’s cousin is linking to the trampling and all-around mayhem that was the Henrico County iBook sale. So I won’t link to it. Okay, I will &#8211; but only to [Dave Barry’s link to it][1] which is rather appropriate.
+Everyone and their mother’s brother’s cousin is linking to the trampling and all-around mayhem that was the Henrico County iBook sale. So I won’t link to it. Okay, I will — but only to [Dave Barry’s link to it][1] which is rather appropriate.
 
 Sometimes security through obscurity is not a bad thing.
 
@@ -28,11 +28,11 @@ which produces this dialog:
 
 ![][7]
 
-seems to hold a tremendous amount of promise. Knowing what’s going on with a thousand obscure openssl commands is great &#8211; but if there’s a GUI to make that easier? All over it. I’ll hopefully figure out whether that dialog is actually useful or not today.
+seems to hold a tremendous amount of promise. Knowing what’s going on with a thousand obscure openssl commands is great — but if there’s a GUI to make that easier? All over it. I’ll hopefully figure out whether that dialog is actually useful or not today.
 
-!["binarypage][8]Speaking of updates. Another tutorial that needs to be finished is how to install Subversion via Fink. Which in turn will let me update EWE. One of the first things I’m doing is going to change every mention of RSS to “FEED” and likely add Atom support. [Asa Dotzler is right][9] RSS is a silly name. And I’m honestly tired of the internet Jerry Springer rants surrounding the whole thing, web feeds make a lot of sense to me. (The funniest commentary I read about that was [this one, about Dave Winer living in a van…. by the river][10]). I also need to build a few more wiki-friendly features in it &#8211; and I think I’m going to call the ewe categories what they really are &#8211; tags.
+!["binarypage][8]Speaking of updates. Another tutorial that needs to be finished is how to install Subversion via Fink. Which in turn will let me update EWE. One of the first things I’m doing is going to change every mention of RSS to “FEED” and likely add Atom support. [Asa Dotzler is right][9] RSS is a silly name. And I’m honestly tired of the internet Jerry Springer rants surrounding the whole thing, web feeds make a lot of sense to me. (The funniest commentary I read about that was [this one, about Dave Winer living in a van…. by the river][10]). I also need to build a few more wiki-friendly features in it — and I think I’m going to call the ewe categories what they really are — tags.
 
-Most likely, I’ll end up screwing up the regular expression matching &#8211; so this [Redet Software][11] will come in handy. At the very least, it’s the best list of other regex tools I’ve seen so far.
+Most likely, I’ll end up screwing up the regular expression matching — so this [Redet Software][11] will come in handy. At the very least, it’s the best list of other regex tools I’ve seen so far.
 
 I think all that will keep me occupied for a bit.
 

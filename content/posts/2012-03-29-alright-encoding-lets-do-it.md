@@ -18,7 +18,7 @@ What went wrong?
 
 I had [this yaml file of stock questions][2] that I used to [seed the database][3]. Unfortunately I paid no attention to what was actually being stored in the database.
 
-Let’s observe &#8211; I can’t paste the “right single quotation mark” (which the Mac OSX character viewer gleefully reports as Unicode: U+2019, UTF-8: E2 80 99) into IRB, but I can cheat:
+Let’s observe — I can’t paste the “right single quotation mark” (which the Mac OSX character viewer gleefully reports as Unicode: U+2019, UTF-8: E2 80 99) into IRB, but I can cheat:
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>% echo "I’m your huckleberry." &gt; test.yml% rails consoleLoading development environment (Rails 3.1.3)&gt;&gt; string = YAML.load(File.open('test.yml'))=&gt; "I’m your huckleberry."</code></pre>
@@ -38,7 +38,7 @@ Doh! But then de-yamling it seems okay:
 
 Which is why I never noticed. I mean, how often do you look at a man’s shoes? er. I mean, in the database. Sorry, mixing the movie metaphors.
 
-But that was until after the gem upgrade &#8211; which we’ll simulate here with a hint of foreshadowing:
+But that was until after the gem upgrade — which we’ll simulate here with a hint of foreshadowing:
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>&gt;&gt; yamlstring = string.to_yaml=&gt; "--- "I\xE2\x80\x99m your huckleberry."n"&gt;&gt; YAML::ENGINE.yamler = 'psych'=&gt; "psych"&gt;&gt; newstring = YAML.load(yamlstring)=&gt; "Iâu0080u0099m your huckleberry."</code></pre>
@@ -46,7 +46,7 @@ But that was until after the gem upgrade &#8211; which we’ll simulate here wit
 
 Doh! And all I wanted was an normal encoding-free life.
 
-So after observing the problem in its native form, I turn to google &#8211; which turns up [this stackoverflow post][4] &#8211; and yep:
+So after observing the problem in its native form, I turn to google — which turns up [this stackoverflow post][4] — and yep:
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>% rails consoleLoading development environment (Rails 3.1.3)&gt;&gt; YAML::ENGINE.yamler =&gt; "syck"</code></pre>
@@ -66,7 +66,7 @@ So them I do a grep on the gems:
   <pre class="highlight"><code>% grep -ir 'syck' .[...]./delayed_job-2.1.4/lib/delayed/yaml_ext.rb:YAML::ENGINE.yamler = "syck" if defined?(YAML::ENGINE)</code></pre>
 </div>
 
-And there we have it and [here’s why][5] (Note Aaron Patterson’s prophetic warning) &#8211; Delayed Job 3 doesn’t force ‘syck’ anymore, so it fell back to ‘psych’.
+And there we have it and [here’s why][5] (Note Aaron Patterson’s prophetic warning) — Delayed Job 3 doesn’t force ‘syck’ anymore, so it fell back to ‘psych’.
 
 <div class="highlighter-rouge">
   <pre class="highlight"><code>% rails console                                              Loading development environment (Rails 3.2.2)&gt;&gt; YAML::ENGINE.yamler =&gt; "psych"&gt;&gt; string = YAML.load(File.open('test.yml'))=&gt; "I’m your huckleberry."&gt;&gt; string.to_yaml=&gt; "--- I’m your huckleberry.n...n"</code></pre>

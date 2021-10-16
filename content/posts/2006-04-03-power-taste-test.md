@@ -13,7 +13,7 @@ In theory, I’m on vacation today. What that mostly means is that I’m hanging
 
 So… after sending a rather benign:
 
-> If ncsu loses power and something of ours goes down &#8211; let me know. Cell == ###-###-####. I’m at home until noon &#8211; but my friend doesn’t have wireless &#8211; so I won’t be on the network after noon until this evening.
+> If ncsu loses power and something of ours goes down — let me know. Cell == ###-###-####. I’m at home until noon — but my friend doesn’t have wireless — so I won’t be on the network after noon until this evening.
 
 and then he responds:
 

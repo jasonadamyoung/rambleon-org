@@ -14,13 +14,13 @@ But there’s probably a silver lining to that. Being investigatively anal makes
 
 e.g. a server goes down: what do you do first? fix the problem? well, yeah, but what if the problem is going to take longer than say, 5 minutes, to fix? keep fixing it?
 
-well, there’s a point in there that you have to stop long enough to ask yourself “who needs to know about this? what does XYZ server failing affect? what’s my recovery strategy?” I think most people just want to fix the problem immediately. But if no one knows what’s going on &#8211; that usually causes more problems than its worth, we waste _a great deal_ of time on this campus because computing staff start troubleshooting problems that folks are having because they don’t know that the problem is being caused somewhere upstream.
+well, there’s a point in there that you have to stop long enough to ask yourself “who needs to know about this? what does XYZ server failing affect? what’s my recovery strategy?” I think most people just want to fix the problem immediately. But if no one knows what’s going on — that usually causes more problems than its worth, we waste _a great deal_ of time on this campus because computing staff start troubleshooting problems that folks are having because they don’t know that the problem is being caused somewhere upstream.
 
-Asking those questions sometimes highlights other projects: i.e. building _something_ to facilitate quick access to the information of “what is afffected” or “who do I need to tell” The best system admins are lazy ones &#8211; they build things to help them answer those questions more easily (and learn new skills in the process).
+Asking those questions sometimes highlights other projects: i.e. building _something_ to facilitate quick access to the information of “what is afffected” or “who do I need to tell” The best system admins are lazy ones — they build things to help them answer those questions more easily (and learn new skills in the process).
 
 But none of this is yet about me being anal.
 
-Well, our illustrious jabber chat room became pretty noisy (and informative) last week &#8211; at one point, Josh took advantage of the [chatbot][1]’s built in dice rolling program to help decide a discussion between three of us.
+Well, our illustrious jabber chat room became pretty noisy (and informative) last week — at one point, Josh took advantage of the [chatbot][1]’s built in dice rolling program to help decide a discussion between three of us.
 
 But two of us tied, and Josh mentioned he didn’t expect that.
 

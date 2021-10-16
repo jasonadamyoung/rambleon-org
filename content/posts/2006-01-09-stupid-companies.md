@@ -22,7 +22,7 @@ Here’s the bottom of the form in firefox:
 
 ![FirefoxScreenSnapz008.jpg][3]
 
-And when you submit the form (“Continue”) &#8211; you get various errors about information missing.
+And when you submit the form (“Continue”) — you get various errors about information missing.
 
 Here’s the bottom of the form in IE.
 
@@ -34,7 +34,7 @@ Because I can’t submit a simple web form from the browser and platform I use? 
 
 ([p.p.s] I’m calmed down now. I’m still annoyed, but this whole note is overly hyperbolic when reading it with calmer eyes. I’m leaving it for posterity though)
 
-([p.p.p.s] A VMWare rep did comment here (I mailed the link to this article to their sales division) &#8211; which was a good PR move. Thanks for the comment, I do very much appreciate that)
+([p.p.p.s] A VMWare rep did comment here (I mailed the link to this article to their sales division) — which was a good PR move. Thanks for the comment, I do very much appreciate that)
 
  [1]: http://www.xensource.com
  [2]: http://www.vmware.com/products/esx/

@@ -18,7 +18,7 @@ So [I figured something out][2].
 
 Is it worthwhile? For the world? no, not really. But it was for me.
 
-I think [Joi Ito][3] describes it best (and well enough it deserved a  [citation on the wikitionary page][4]) &#8211; but I’ll summarize:
+I think [Joi Ito][3] describes it best (and well enough it deserved a  [citation on the wikitionary page][4]) — but I’ll summarize:
 
 Some Yaks Must Be Shaved.
 

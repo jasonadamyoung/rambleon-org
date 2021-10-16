@@ -16,7 +16,7 @@ This morning I updated [mongrel][1] to the latest bug fix release on a productio
 
 The keyword is “so far.”
 
-gem apparently got foobar’d at some point and kept issuing a syntax error on every install or update operation. the error text kicked out had something to do with mongrel &#8211; so I thought the mongrel update caused the problem. So I remove the last version of mongrel.
+gem apparently got foobar’d at some point and kept issuing a syntax error on every install or update operation. the error text kicked out had something to do with mongrel — so I thought the mongrel update caused the problem. So I remove the last version of mongrel.
 
 Nope. So the I remove mongrel. and try to install.
 

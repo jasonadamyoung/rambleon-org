@@ -15,6 +15,6 @@ tags:
 
 > Learning requires the transparency that free and open source software provides.
 
-People &#8211; and companies &#8211; that don’t get this have some learning to do. People &#8211; and companies &#8211; that purposefully fight against this idea aren’t just ignorant and ill-informed. They are corrupt.
+People — and companies — that don’t get this have some learning to do. People — and companies — that purposefully fight against this idea aren’t just ignorant and ill-informed. They are corrupt.
 
  [1]: http://www.0xdeadbeef.com/weblog/?p=285

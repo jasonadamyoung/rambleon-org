@@ -20,7 +20,7 @@ _obligatory self-history reference:_ When I was co-op’ing at GTE Government Sy
 
 Then I tried it and realized that the Visual Programming Language revolution was never going to happen.
 
-However, it still shows up in kid’s programming [StarLogo][5] &#8211; and I think that one of the Lego Mindstorms software tools is based on LabView. So maybe the VPL’s will one day rule (Heck, I keep wanting to do something cool in [Quartz Composer][6])
+However, it still shows up in kid’s programming [StarLogo][5] — and I think that one of the Lego Mindstorms software tools is based on LabView. So maybe the VPL’s will one day rule (Heck, I keep wanting to do something cool in [Quartz Composer][6])
 
  [1]: http://www.sauria.com/blog/2007/02/08/the-fuss-about-yahoo-pipes/
  [2]: http://pipes.yahoo.com/

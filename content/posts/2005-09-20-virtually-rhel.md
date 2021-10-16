@@ -14,9 +14,9 @@ Every attempt to try and install RHEL WS 4.0 (the University has a site license)
 
 This occurs when the linux boot image tries to load the kernel.
 
-At the moment, given that I don’t know enough to get more detailed troubleshooting &#8211; either out of the RHEL WS boot cd or virtual PC (7.02) &#8211; I can only conclude that it’s not possible to install RHEL WS 4 under Virtual PC 7.02 for the Macintosh.
+At the moment, given that I don’t know enough to get more detailed troubleshooting — either out of the RHEL WS boot cd or virtual PC (7.02) — I can only conclude that it’s not possible to install RHEL WS 4 under Virtual PC 7.02 for the Macintosh.
 
-However, Fedora Core 4 is happily &#8211; though really, really sloooooowly installing as I type this.
+However, Fedora Core 4 is happily — though really, really sloooooowly installing as I type this.
 
 **[update]**: I spoke too soon, Fedora Core installed, but also produces the above error. Sigh.
 

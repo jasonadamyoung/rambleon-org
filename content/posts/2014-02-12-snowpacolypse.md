@@ -10,7 +10,7 @@ tags:
   - Images
 
 ---
-So today is snowpacolypse in the RDU area &#8211; but no matter, we have Cat TV:
+So today is snowpacolypse in the RDU area — but no matter, we have Cat TV:
 
 [vimeo 86546324 w=500 h=889] 
 

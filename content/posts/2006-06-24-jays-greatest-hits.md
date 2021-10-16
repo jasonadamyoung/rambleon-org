@@ -10,7 +10,7 @@ tags:
   - humor
 
 ---
-I’m trying to clear out my podunk .Mac website, and pulled over my horrendous collection of bad parody songs I’ve written into WordPress pages tonight. So without further ado, or even a stray nonny-nonny &#8211; I give you Jay’s Greatest Hits:
+I’m trying to clear out my podunk .Mac website, and pulled over my horrendous collection of bad parody songs I’ve written into WordPress pages tonight. So without further ado, or even a stray nonny-nonny — I give you Jay’s Greatest Hits:
 
   * [Don’t Let your babies grow up to be tech staff][1]
   * [With a Little Help from Depends][2]

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-A capture of one of the little-known creatures of the Snowpocalypse &#8211; the Land Piraña
+A capture of one of the little-known creatures of the Snowpocalypse — the Land Piraña
 
 [![Image][1]][2]
 

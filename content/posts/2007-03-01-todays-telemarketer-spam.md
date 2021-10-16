@@ -18,7 +18,7 @@ Transcript:
 
 This message is for Mr. Jason Young. Hi Mr. Young, my name is Colleen Sullivan. I’m with Congressman Tom Cole in the National Republican Congressional Committee in Washington. We would like to recognize you sir, it’s with our National Leadership Award. But I want to talk with too about a press release, because we do want to send that out to you. So again, my name is Colleen Sullivan. My number is 1-877-213-0603. So please call as soon as get the message. Thank you sir and you have a good day.
 
-I knew something was pretty well scam-tastic about it, so I started trying to check Ol’ Tom and Colleen out &#8211; which didn’t take long to find out that the National Republic Congressional Committee is [tele-spamming multiple people with this little “award” thing][2] But I want to make sure they get their word out &#8211; so I’ve provided a helpful translation of their message:
+I knew something was pretty well scam-tastic about it, so I started trying to check Ol’ Tom and Colleen out — which didn’t take long to find out that the National Republic Congressional Committee is [tele-spamming multiple people with this little “award” thing][2] But I want to make sure they get their word out — so I’ve provided a helpful translation of their message:
 
 * * *
 

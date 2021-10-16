@@ -10,7 +10,7 @@ categories:
 ---
 But, hey, it’s a technical blog, and it is Friday. And I was going to be on vacation today, and may even call this vacation, because it’s almost work, only not quite. But it is Apple and Linux, and about _developers, developers, developers_ and that is pretty relevant you know?
 
-Okay, I’ll just shut up already &#8211; and link to [Wil Shipley][1]. Because if 50 people a day walk in and sing a… wait, that’s not right. Just read the article, because there’s choice quotes like:
+Okay, I’ll just shut up already — and link to [Wil Shipley][1]. Because if 50 people a day walk in and sing a… wait, that’s not right. Just read the article, because there’s choice quotes like:
 
 > It’s like saying, “Should McDonald’s worry because vegetarians are boycotting the restaurant?”
 

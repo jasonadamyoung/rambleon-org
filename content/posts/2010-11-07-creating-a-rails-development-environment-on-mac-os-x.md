@@ -21,7 +21,7 @@ It worked out quite nicely for several years. But it was a complete pain to rebu
 
 I had poked my way around the Objective-C app, and I understood where to make modifications I needed, but I didn’t really understand how the app was put together (and parts of it were pre-Interface Builder and had code created interface that I still don’t totally grok, even after a week long iPhone training that had enough Obj-C in it to make me dangerous).
 
-Best-laid plans being what they are, I never did update it, and it was time to move on. With a Rails 3 and possibly a Ruby 1.9 update in the next six months to year for all these apps &#8211; I wanted to spend more time on that than learning Cocoa. So I needed something new.
+Best-laid plans being what they are, I never did update it, and it was time to move on. With a Rails 3 and possibly a Ruby 1.9 update in the next six months to year for all these apps — I wanted to spend more time on that than learning Cocoa. So I needed something new.
 
 Enter [Homebrew][3], [RVM][4], and [Passenger][5] standalone.
 
@@ -31,7 +31,7 @@ So, I’ve been a Fink, then DarwinPorts MacPorts user forever, and would recomm
 
 Enter [Homebrew][3]. Because Homebrew uses a lot of of what’s already there in OS X instead of installing it’s own versions, it’s faster to get the packages you need (with the risk that something is broken with an OS update, but I haven’t seen something like that in a while with 10.5/10.6 on Intel). And in our case, we only need the mysql client libraries for the mysql gem, and the imagemagick libraries for the rmagick. And wget. Because everyone needs wget.
 
-It’s easy to get started, just follow the [instructions][6] (The system admin in me recommends you look at [the executed ruby script first][7] &#8211; but I know you won’t).
+It’s easy to get started, just follow the [instructions][6] (The system admin in me recommends you look at [the executed ruby script first][7] — but I know you won’t).
 
 Oh, you need Xcode. You do have Xcode installed right? Even the designers need it for the iPhone emulator. Trust me.
 
@@ -65,7 +65,7 @@ RVM’s documentation is very comprehensive, though it can be a little tricky to
   <pre class="highlight"><code>rvm install ree                           # I use ruby enterprise edition - version 1.8.7 on our, ree is a shortcut string for this version - see "rvm strings" for morervm gemset create busterleague # creates a gemset for a person project of minervm --default ree@busterleague  # sets my default ruby to ree and the default gemset to busterleaguervm use ree@busterleague        # sets up the session to use ree and the busterleague gemsetgem install rails --version=2.3.10  # still at rails 2gem install passenger               # passenger v3gem install ...                           # rest of gems</code></pre>
 </div>
 
-As a convenience &#8211; because you like will end up shifting between rubies &#8211; or at least gemsets &#8211; create some bash aliases to make that easier (Locomotive/MiCodaLoco had a “open terminal” command for each project that automatically put one into the right bundle environment and the working directory for the project, these aliases replace that as well).
+As a convenience — because you like will end up shifting between rubies — or at least gemsets — create some bash aliases to make that easier (Locomotive/MiCodaLoco had a “open terminal” command for each project that automatically put one into the right bundle environment and the working directory for the project, these aliases replace that as well).
 
 Here’s mine for my work, contract, and personal projects (I put my working directories in a “dev” subdirectory to my home directory)
 
@@ -81,13 +81,13 @@ rvm-prompt has a [nice documentation page][9]
 
 Finally, I use [Passenger][5] in standalone mode running on an arbitrary port to deliver the dev versions of our apps (actually I use passenger everywhere, currently running under Apache, it’s made my system admin life much easier than other rails environments).  After installing passenger, just run the “passenger start” command, and it will self-install and configure a version of nginx that it uses to do this.
 
-As a convenience, I’ve created a ruby script that starts passenger with a set of default parameters &#8211; which can be overridden by a yaml configuration file &#8211; or from the command line. I called this “script/devserver” to distinguish it from the rails webrick “script/server” command.
+As a convenience, I’ve created a ruby script that starts passenger with a set of default parameters — which can be overridden by a yaml configuration file — or from the command line. I called this “script/devserver” to distinguish it from the rails webrick “script/server” command.
 
 You can see a [version of that devserver script at github][10]
 
 What I probably need to do is go back and have a debugging option that would start webrick, mongrel, or thin in order to use it with ruby-debug (since [Passenger 3 isn’t really setup to support ruby-debug][11])
 
-**[Update]** You probably want [this link to the devserver script][12] &#8211; [here’s why][13].
+**[Update]** You probably want [this link to the devserver script][12] — [here’s why][13].
 
  [1]: http://sourceforge.net/projects/locomotive/
  [2]: http://www.raaum.org/

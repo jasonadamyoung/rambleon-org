@@ -11,11 +11,11 @@ tags:
   - rubyonrails
 
 ---
-When I played little league baseball we had announcers for the game, one of which was some nice old guy in a ramshackle shelter behind home plate that was the “booth” &#8211; and every time there’d be two outs, two strikes and two balls &#8211; he’d croon “TOOOOO-TOOOOO-TOOOO”. Which of course, has little to do with this post other than version numbers.
+When I played little league baseball we had announcers for the game, one of which was some nice old guy in a ramshackle shelter behind home plate that was the “booth” — and every time there’d be two outs, two strikes and two balls — he’d croon “TOOOOO-TOOOOO-TOOOO”. Which of course, has little to do with this post other than version numbers.
 
-Rails 2.2 was [just released][1] &#8211; so of course, I’m taking the most critical application we have (well, maybe the second critical, and that’s really only because other apps depend on it, it’s not critical in terms of features) &#8211; and upgrading it first, because, well, that’s how system administrators roll.
+Rails 2.2 was [just released][1] — so of course, I’m taking the most critical application we have (well, maybe the second critical, and that’s really only because other apps depend on it, it’s not critical in terms of features) — and upgrading it first, because, well, that’s how system administrators roll.
 
-The [release notes][2] are great. Seriously. Really great. So great I shouldn’t even be writing this post. Which I am anyway &#8211; because here are some of the highlights of what I had to change to make my app work.
+The [release notes][2] are great. Seriously. Really great. So great I shouldn’t even be writing this post. Which I am anyway — because here are some of the highlights of what I had to change to make my app work.
 
 ### NoMethodError for Association Methods {#nomethoderror-for-association-methods}
 
@@ -25,17 +25,17 @@ Rails 2.2 now [enforces privacy on private methods called through associations][
 
 ### Update Rails Footnotes {#update-rails-footnotes}
 
-If you use [Rails footnotes][4] in development mode &#8211; you’ll want to update [for this change][5] for Rails 2.2 compatibility.
+If you use [Rails footnotes][4] in development mode — you’ll want to update [for this change][5] for Rails 2.2 compatibility.
 
 ### Aside… Piston 1.9.5 {#aside-piston-195}
 
-A great way to stay current with Rails plugins is to use [Piston][6] &#8211; which has a new 1.9.5 release. You can [build your own][7].
+A great way to stay current with Rails plugins is to use [Piston][6] — which has a new 1.9.5 release. You can [build your own][7].
 
 ### “quoted\_table\_name” and Has Many Polymorphs {#quoted_table_name-and-has-many-polymorphs}
 
-If you start getting some error about <code class="highlighter-rouge">undefined method </code>quoted\_table\_name’\` and you use [has\_many\_polymorphs][8] &#8211; you’ll [want this change][9].
+If you start getting some error about <code class="highlighter-rouge">undefined method </code>quoted\_table\_name’\` and you use [has\_many\_polymorphs][8] — you’ll [want this change][9].
 
-I don’t use the plugin, I use the gem. So I built my own has\_many\_polymorphs 2.12.1 gem &#8211; by doing: \` gem install echoe git clone git://github.com/fauna/has\_many\_polymorphs.git cd has\_many\_polymorphs \`
+I don’t use the plugin, I use the gem. So I built my own has\_many\_polymorphs 2.12.1 gem — by doing: \` gem install echoe git clone git://github.com/fauna/has\_many\_polymorphs.git cd has\_many\_polymorphs \`
 
 edit CHANGELOG with a “v2.12.1 line” (e.g. v2.12.1. Cloned GitHub project and rebuilt gem for our nefarious purposes.)
 
@@ -43,13 +43,13 @@ edit CHANGELOG with a “v2.12.1 line” (e.g. v2.12.1. Cloned GitHub project an
 
 ### add_joins! and Has Many Polymorphs (or anything else for that matter) {#add_joins-and-has-many-polymorphs-or-anything-else-for-that-matter}
 
-HMP includes a ‘tagged\_with’ method for finding collections ‘tagged\_with’ a set of tags. I use a heavily modified version of that. The method supports custom scopes, in theory. (well, probably more than theory, I’ve just never tried it). While, I don’t have any scopes on models that call my functions &#8211; I still had some of the private ActiveRecord method calls in mine &#8211; particularly <code class="highlighter-rouge">add_joins!</code>.
+HMP includes a ‘tagged\_with’ method for finding collections ‘tagged\_with’ a set of tags. I use a heavily modified version of that. The method supports custom scopes, in theory. (well, probably more than theory, I’ve just never tried it). While, I don’t have any scopes on models that call my functions — I still had some of the private ActiveRecord method calls in mine — particularly <code class="highlighter-rouge">add_joins!</code>.
 
-Well, [this change][10] changed the params for the method to make sure that the scoped joins were merged, and not overwritten &#8211; which changes calls into it. If you are calling it with your own <code class="highlighter-rouge">options</code> use <code class="highlighter-rouge">options[:joins]</code>. My code doesn’t use the scopes in combination with my <code class="highlighter-rouge">tagged_with</code> method, so I just pulled them.
+Well, [this change][10] changed the params for the method to make sure that the scoped joins were merged, and not overwritten — which changes calls into it. If you are calling it with your own <code class="highlighter-rouge">options</code> use <code class="highlighter-rouge">options[:joins]</code>. My code doesn’t use the scopes in combination with my <code class="highlighter-rouge">tagged_with</code> method, so I just pulled them.
 
 ### And…. thankfully that’s it {#and-thankfully-thats-it}
 
-Other than cleaning up deprecations like <code class="highlighter-rouge">number_with_precision</code> now preferring <code class="highlighter-rouge">(number, :precision =&gt; myprecision)</code> instead of <code class="highlighter-rouge">(number, myprecision)</code> &#8211; and <code class="highlighter-rouge">ActiveRecord::Base.verification_timeout</code> no longer valid, and <code class="highlighter-rouge">mb_chars</code> being preferred over <code class="highlighter-rouge">chars</code> &#8211; we seem to be good to go for Rails 2.2. I still need to test some crons, but I imagine that our app will go production as 2.2 shortly.
+Other than cleaning up deprecations like <code class="highlighter-rouge">number_with_precision</code> now preferring <code class="highlighter-rouge">(number, :precision =&gt; myprecision)</code> instead of <code class="highlighter-rouge">(number, myprecision)</code> — and <code class="highlighter-rouge">ActiveRecord::Base.verification_timeout</code> no longer valid, and <code class="highlighter-rouge">mb_chars</code> being preferred over <code class="highlighter-rouge">chars</code> — we seem to be good to go for Rails 2.2. I still need to test some crons, but I imagine that our app will go production as 2.2 shortly.
 
 TOOOOOO-TOOOOOO-TOOOOOO!
 

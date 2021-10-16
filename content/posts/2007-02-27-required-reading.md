@@ -10,7 +10,7 @@ tags:
   - linkblog
 
 ---
-Jakob Nielson &#8211; [Life Long Computer Skills][1]
+Jakob Nielson — [Life Long Computer Skills][1]
 
 Amen.
 

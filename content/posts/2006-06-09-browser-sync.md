@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Wow &#8211; I didn’t know about the [Google/Firefox sync extension][1]
+Wow — I didn’t know about the [Google/Firefox sync extension][1]
 
 Cool.
 

@@ -8,13 +8,13 @@ categories:
   - Reflections
 
 ---
-So, when you are at a conference &#8211; and the hotel blocks port 25 &#8211; the best thing in the world, is that old standby &#8211; ssh port forwarding.
+So, when you are at a conference — and the hotel blocks port 25 — the best thing in the world, is that old standby — ssh port forwarding.
 
 alias mailshell=’ssh -L 5525:mymailserver.edu:25 username@myserver-with-smtp-access-to-mymailserver.edu’
 
 And then configure my mail client to send to 127.0.0.1:5525
 
-Or use Gmail &#8211; whatever floats your boat
+Or use Gmail — whatever floats your boat
 
 * * *
 

@@ -11,7 +11,7 @@ tags:
   - wikipedia
 
 ---
-After seeing [Anne’s Twitter about problems at the Georgia Dome][1] &#8211; I turned to Google wondering what might be going on. I wondered if this was some current event, or like, maybe issues with the facility itself being talked about during the basketball game there.
+After seeing [Anne’s Twitter about problems at the Georgia Dome][1] — I turned to Google wondering what might be going on. I wondered if this was some current event, or like, maybe issues with the facility itself being talked about during the basketball game there.
 
 The [Wikipedia article for the Georgia Dome][2] **ALREADY HAD INFORMATION ABOUT THIS:**
 

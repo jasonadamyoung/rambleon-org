@@ -15,6 +15,6 @@ tags:
 ---
 That [thinks that “F#”][1] has to be one of the worst labels for a programming language.
 
-Perhaps I employ a wee bit too much colorful language &#8211; but the first word that that comes to my mind every time I read it is “F-Bomb” &#8211; not “F-Sharp”
+Perhaps I employ a wee bit too much colorful language — but the first word that that comes to my mind every time I read it is “F-Bomb” — not “F-Sharp”
 
  [1]: http://arstechnica.com/news.ars/post/20071023-microsoft-to-push-functional-programming-into-the-mainstream-with-f.html

@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Hey, how about this…. [lyceum][1] &#8211; perhaps a better multi-user wordpress than multi-user wordpress.
+Hey, how about this…. [lyceum][1] — perhaps a better multi-user wordpress than multi-user wordpress.
 
 This might well replace [roller][2] for our multi-user blogging rollout. With the multitude of software that we have, having something that’s PHP and not Tomcat will make my life easier. Much easier. And I seem to be getting stuck with dealing with most of all this software.
 

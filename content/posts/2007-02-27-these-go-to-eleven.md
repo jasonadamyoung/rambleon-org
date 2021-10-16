@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-10 years ago today I came back to NC State University, 9 months after my college graduation. I had quit my job at CompuCom a month prior &#8211; even breaking a training contact &#8211; it was one of those things that I ethically felt at the time I had to do. That’s another story for another day though.
+10 years ago today I came back to NC State University, 9 months after my college graduation. I had quit my job at CompuCom a month prior — even breaking a training contact — it was one of those things that I ethically felt at the time I had to do. That’s another story for another day though.
 
 I came back for a whole host of reasons, personal and professional. I guess what I wanted most of all was to find a place that I could learn from those that I thought were the best at what they did. That I could find a place to cast down my bucket. That I could find a place where Information Technology and education were a strategic role, not a servant one (notice I didn’t say “service”, “service” and “servant” are two completely different things). That I could make a difference. That’s really what I’ve always wanted most.
 

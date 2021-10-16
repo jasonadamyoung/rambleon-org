@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-Last night, I had dinner with Billy and Mandy &#8211; and we talked about various things &#8211; including work (Billy took my old job as the [ITECS][1] Systems Manager). Billy said something pretty enlightening for me &#8211; while I was talking about how I’m a little less stressed that I’m not managing 5 people anymore and how, while I need to hire someone to help with the Systems work in eXtension &#8211; something I’ve been pretty hesitant to do thus far.
+Last night, I had dinner with Billy and Mandy — and we talked about various things — including work (Billy took my old job as the [ITECS][1] Systems Manager). Billy said something pretty enlightening for me — while I was talking about how I’m a little less stressed that I’m not managing 5 people anymore and how, while I need to hire someone to help with the Systems work in eXtension — something I’ve been pretty hesitant to do thus far.
 
 He said:
 

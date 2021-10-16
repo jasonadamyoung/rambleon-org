@@ -18,13 +18,13 @@ Which is why I find it pretty funny these days when I hear anyone quote what the
 
 _“If you build it, they will come”_
 
-And when people quote this, they’ll do it in that chuckled, sort of “nyuck, nyuck, nyuck” kind of way &#8211; where it’s a shared joke with all the room, but they are completely serious about applying it back to whatever project they are talking about. Like they want to be the second coming of James Earl Jones themselves, with deeply sonorous voices, dripping with _gravitas_, replicating his pitch with some amalgamated combination with his CNN tag line “This is… my web site” “If I [if you give me the money to] build it, they will come”.
+And when people quote this, they’ll do it in that chuckled, sort of “nyuck, nyuck, nyuck” kind of way — where it’s a shared joke with all the room, but they are completely serious about applying it back to whatever project they are talking about. Like they want to be the second coming of James Earl Jones themselves, with deeply sonorous voices, dripping with _gravitas_, replicating his pitch with some amalgamated combination with his CNN tag line “This is… my web site” “If I [if you give me the money to] build it, they will come”.
 
 See, the funny thing is, the people quoting the movie like this? With “if you build it, they will come”?
 
 They completely and totally get it wrong.
 
-See, here’s the plot synopsis. This guy, 36, gets the crazy idea to buy a farm. So he does, fixes up the house &#8211; plants some corn. Lives the farm-livin’ life in Iowa. Then he hears this disembodied whisper.
+See, here’s the plot synopsis. This guy, 36, gets the crazy idea to buy a farm. So he does, fixes up the house — plants some corn. Lives the farm-livin’ life in Iowa. Then he hears this disembodied whisper.
 
 _“If you build it, **he** will come”_
 
@@ -32,7 +32,7 @@ The man sees visions to mow down some corn, build a baseball field with all his 
 
 _“Ease his pain”_
 
-Travels across the country, kidnaps a famous author, who can see dead people too &#8211; wait, wrong movie &#8211; er, who hears voices too. Goes and does some research on another past ballplayer that only got one at-bat. Picks up a ghost on the side of the road, goes back to Iowa. Won’t sell the farm to developers to pay the mortgage. Watches more games. Daughter chokes on a hot dog. Ghost saves kid. Everyone can see dead people now. Man plays catch with ghost dad. Eases his own pain. Long line of people come to see dead people play baseball on a field in Iowa, and bring money. The end.
+Travels across the country, kidnaps a famous author, who can see dead people too — wait, wrong movie — er, who hears voices too. Goes and does some research on another past ballplayer that only got one at-bat. Picks up a ghost on the side of the road, goes back to Iowa. Won’t sell the farm to developers to pay the mortgage. Watches more games. Daughter chokes on a hot dog. Ghost saves kid. Everyone can see dead people now. Man plays catch with ghost dad. Eases his own pain. Long line of people come to see dead people play baseball on a field in Iowa, and bring money. The end.
 
 Really, it’s a great movie. But is there anything, anything at all in the movie about “if you build it, they will come”?
 
@@ -48,23 +48,23 @@ What I’m not going to give you is that you can somehow twist the sonorous soli
 
 Because, get this straight, it is _not_ about the baseball field. And at no point in the movie was it ever about the baseball field. And just about everyone that watches the movie will tell you that. “Of course, Jay, we know it’s not about the baseball field” But, see, when they pull out those nyuck, nyuck, nyucks, and they pull out that quote, they’ll be obsessing over whatever the “thing” is for them. And the context that I usually hear it in, because of the business I’m in, is some kind of “web site”. And if it’s all about the “rockstar web sites” in my industry, it’s about some kind of “monetization”
 
-So, what then, is it about? Well, if you really want to subvert _Field of Dreams_ to describe your tech vision, let’s do that. Because _Field of Dreams_ is just a well told inventive allegory about thing we already know &#8211; about why people use Twitter, or Facebook, Second Life, etc. And that even sometimes they feel compelled to pass over some printed pieces of fabric, or provide a number in a webform that authorizes some numbers to move around from one financial institution to another in exchange for that use.
+So, what then, is it about? Well, if you really want to subvert _Field of Dreams_ to describe your tech vision, let’s do that. Because _Field of Dreams_ is just a well told inventive allegory about thing we already know — about why people use Twitter, or Facebook, Second Life, etc. And that even sometimes they feel compelled to pass over some printed pieces of fabric, or provide a number in a webform that authorizes some numbers to move around from one financial institution to another in exchange for that use.
 
 It’s about a connection.
 
 In Ray Kinsella’s case, he has a great life, but never quite connected with his dad. In seeking that connection, the problem that _he_ had, a pain that was _his_, a connection _he_ needed to make.
 
-Ray has a problem. And he goes about solving it in a way that is novel, unique, and everyone thinks is more than a little crazy. He’s solving an age old problem &#8211; but _doing it completely differently than it’s normally done_. At great personal risk. Let me repeat that in a slightly different way: Ray is _personally invested in seeing the solution through_, in our modern vernacular, Ray **owns it**.
+Ray has a problem. And he goes about solving it in a way that is novel, unique, and everyone thinks is more than a little crazy. He’s solving an age old problem — but _doing it completely differently than it’s normally done_. At great personal risk. Let me repeat that in a slightly different way: Ray is _personally invested in seeing the solution through_, in our modern vernacular, Ray **owns it**.
 
 And no promise other than it’s making a connection for Ray in a way that he feels like he needs. His close associates get it. Or they believe in Ray enough to give a shot.
 
-Then something a little mystically miraculous happens. Shoeless Joe shows up, making a connection to something he hasn’t had since 1919. And other players show up. Making connections. And Ray and his associates (his family) suddenly can see the field for what it really is. But they are having one devil of a time convincing the brother-in-law &#8211; and the bank. Why? Because they are too busy focusing on their own “thing” &#8211; not the baseball field for them, but the value of the land underneath it for development. (We get all smug because of course we don’t do that &#8211; we some have a higher noble purpose by focusing on the place, and not the value of the dirt underneath it, it’s just edges of the same coin)
+Then something a little mystically miraculous happens. Shoeless Joe shows up, making a connection to something he hasn’t had since 1919. And other players show up. Making connections. And Ray and his associates (his family) suddenly can see the field for what it really is. But they are having one devil of a time convincing the brother-in-law — and the bank. Why? Because they are too busy focusing on their own “thing” — not the baseball field for them, but the value of the land underneath it for development. (We get all smug because of course we don’t do that — we some have a higher noble purpose by focusing on the place, and not the value of the dirt underneath it, it’s just edges of the same coin)
 
 Terrence Mann? Connections. Archibald Graham? Connections. And after witnessing Archie show up out of nowhere to dislodge some hot dog? The brother-in-law gets it then too. And takes some personal investment into (after all, he now owns the note on the farm).
 
 I keep harping on that word, but it’s really what it’s about.
 
-For anyone that follows baseball, you know there are 30 ballparks in the top league in the U.S. That space is owned (and if you think about our metaphor here, so is that web space, unless you are prepared to spend millions upon millions to crack it &#8211; And even then, you probably can forget about it &#8211; Microsoft has tried and basically failed, Yahoo has faltered. Google doesn’t really bother, they focus mainly on getting people into the ballpark Because again, _it’s not about the ball park_). There are some foreign opportunities here, it’s a bit different market &#8211; and usually far different games.
+For anyone that follows baseball, you know there are 30 ballparks in the top league in the U.S. That space is owned (and if you think about our metaphor here, so is that web space, unless you are prepared to spend millions upon millions to crack it — And even then, you probably can forget about it — Microsoft has tried and basically failed, Yahoo has faltered. Google doesn’t really bother, they focus mainly on getting people into the ballpark Because again, _it’s not about the ball park_). There are some foreign opportunities here, it’s a bit different market — and usually far different games.
 
 But really, domestically you have two choices. Make a connection. Learn to sell beer and peanuts. (and that’s not trivial, those people doing it in the park, particularly the people in the stands at those 30 major parks they are pros at what they do, but even they went to the ball park themselves) Or think differently about the ballpark. Again, if you follow baseball, you know the best games are in the minor leagues. There’s still a personal touch. The prices are cheaper. The promotions and personalities are better.
 

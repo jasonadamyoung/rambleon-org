@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-So this morning I download the new Backup version 3 application that comes with my .Mac account. I use Backup at home, and it works &#8211; but only if you never let the Backup log get too big (like more than a few days).
+So this morning I download the new Backup version 3 application that comes with my .Mac account. I use Backup at home, and it works — but only if you never let the Backup log get too big (like more than a few days).
 
-I’m hoping that Backup 3 fixes that &#8211; and wanted to see what it looked like in the office.
+I’m hoping that Backup 3 fixes that — and wanted to see what it looked like in the office.
 
 Somehow a blank “keychain access” dialog doesn’t bode well
 

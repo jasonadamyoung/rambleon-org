@@ -22,7 +22,7 @@ But I have things to say. Clearly this is debatable. But let’s humor me for a 
 
 And because I’m not a writer and I have things to say, I write incredibly long, rambly, parenthetically filled emails.
 
-You know, one of the proudest moment in my life &#8211; well maybe the most amusing moments &#8211; was when I wrote this **awesome** email about the tyranny of dealing with Powerpoint. A faculty member in the communications department that puts together documentary films said of my email “it was like a jazz riff with words”
+You know, one of the proudest moment in my life — well maybe the most amusing moments — was when I wrote this **awesome** email about the tyranny of dealing with Powerpoint. A faculty member in the communications department that puts together documentary films said of my email “it was like a jazz riff with words”
 
 This should immediately harken you back to _Jerry Macguire_
 
@@ -30,7 +30,7 @@ This should immediately harken you back to _Jerry Macguire_
 
 Where was I? Oh yes, I’m sick and freaking tired of the long, rambly, parenthetically inclined email writers catching such a bad rap. Now, I realize it’s the hip thing to do these days to pick on the long email writers. It’s incredibly easy to do too. “Oh whine, I get soooo much email, it’s just information overload, I don’t know how I’ll ever get through it all. These long email writers are just so selfish. They don’t respect my time. OMG, Jay has written another one”
 
-Horsewaddled bollywocks (no, I don’t know what that means either, but it sounded good). You know what I’m tired of? I’m tired of you asking me the same damn question for the fourth time &#8211; when I clearly addressed it in Paragraph 7, in the fourth clause of the second sentence on May 11, 2008. And again in Paragraph 4 on December 17. And yet again on the second page of that system update email on July 17.
+Horsewaddled bollywocks (no, I don’t know what that means either, but it sounded good). You know what I’m tired of? I’m tired of you asking me the same damn question for the fourth time — when I clearly addressed it in Paragraph 7, in the fourth clause of the second sentence on May 11, 2008. And again in Paragraph 4 on December 17. And yet again on the second page of that system update email on July 17.
 
 And that idea that you think is so fabulous? I addressed that too, in my note on March 4, 2007. That was in the second paragraph even. And I gave you a half dozen reasons in one long run-on sentence of why it was complete crap then, and you can bet your sweet bippy it’s still complete crap now.
 

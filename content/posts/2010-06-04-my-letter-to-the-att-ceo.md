@@ -15,7 +15,7 @@ Dear Randall (or the AT&T Executive Relations Team),
 
 I am an AT&T wireless customer and have been for just over 2 years, I switched to AT&T from Verizon because of the iPhone.
 
-I am happy with AT&T. My service in the Raleigh/Durham area has been good. I have found your customer service department to be excellent. I did have one issue where your stores refused to honor your own corporate statement about subsidized pricing for an iPhone upgrade &#8211; and had to call myself corporate support from the store. After a period of momentary confusion where the representative thought I paid late (when I pay bills consistently a half-month early) &#8211; your support representative was fantastic, and ironed out the issue with the local store. (Keep working on those stores, it’s one great reason why Apple is doing as well as they are).
+I am happy with AT&T. My service in the Raleigh/Durham area has been good. I have found your customer service department to be excellent. I did have one issue where your stores refused to honor your own corporate statement about subsidized pricing for an iPhone upgrade — and had to call myself corporate support from the store. After a period of momentary confusion where the representative thought I paid late (when I pay bills consistently a half-month early) — your support representative was fantastic, and ironed out the issue with the local store. (Keep working on those stores, it’s one great reason why Apple is doing as well as they are).
 
 I’m a satisfied AT&T customer.
 
@@ -25,7 +25,7 @@ I understand your move to placing data transfer caps on your service. I consiste
 
 244 FRI 04/30/2010 1:59AM Data Transfer Data 31 KB CMB1 AT GPRR Out 0.00 245 FRI 04/30/2010 3:05AM Data Transfer Data 1,467 KB CMB1 AT GPRR Out 0.00 246 SAT 05/01/2010 2:34AM Data Transfer Data 3,428 KB CMB1 AT GPRR Out 0.00 247 SUN 05/02/2010 2:16AM Data Transfer Data 45 KB CMB1 AT GPRR Out 0.00 248 SUN 05/02/2010 3:14AM Data Transfer Data 886 KB CMB1 AT GPRR Out 0.00
 
-But at the moment, I recognize that may likely be due to the fact I’m a Microcell user (coverage at phone is poor, but it’s poor for every wireless provider) and the phone is connecting to the Microcell instead of the house wireless to update email, or whatever. That’s somewhat concerning, considering that you piggy-back the Microcell on my internet connection already, but I understand if you are handling the data, you need to account for it. I will figure that out at some point &#8211; and I’m not really worried about it (though you may want to check with your engineers on that).
+But at the moment, I recognize that may likely be due to the fact I’m a Microcell user (coverage at phone is poor, but it’s poor for every wireless provider) and the phone is connecting to the Microcell instead of the house wireless to update email, or whatever. That’s somewhat concerning, considering that you piggy-back the Microcell on my internet connection already, but I understand if you are handling the data, you need to account for it. I will figure that out at some point — and I’m not really worried about it (though you may want to check with your engineers on that).
 
 Here’s what I don’t understand. I don’t understand why you are going to charge $20 a month just to set a tethering flag on the phone. I have read your [GigaOM][1] interview about it. But it doesn’t make any sense to me. I’d _already be paying for the 2GB data!_ It’s not like the tethering does anything else other than increase the chances that you’ll make additional fees on additional data transfers.
 
@@ -33,10 +33,10 @@ That extra $20 a month just for the privilege of being tagged as a tethering cus
 
 It’s, in a word, bullshit.
 
-Please do review that policy within your organization. As I said, I have personally been very pleased with AT&T &#8211; but that tethering charge seems to be completely out of line with a company that is trying to win the hearts and minds of their wireless customers.
+Please do review that policy within your organization. As I said, I have personally been very pleased with AT&T — but that tethering charge seems to be completely out of line with a company that is trying to win the hearts and minds of their wireless customers.
 
 Jason
 
-p.s. I have read with great fascination that you threatened a Cease and Desist on one of your customers for emailing the CEO &#8211; but I’m glad to see that has worked out.
+p.s. I have read with great fascination that you threatened a Cease and Desist on one of your customers for emailing the CEO — but I’m glad to see that has worked out.
 
  [1]: http://gigaom.com/2010/06/02/att-explains-its-pricing-change-its-all-about-value/

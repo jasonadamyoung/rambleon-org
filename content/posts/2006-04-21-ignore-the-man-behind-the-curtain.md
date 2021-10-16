@@ -14,6 +14,6 @@ But anyway, onto my private little joke:
 
 > eXtension is A natural extension of the growth of national collaborative eXtension is A value-added eXtension is A place where agreements and standards
 
-_What?!?_ should be your natural reaction &#8211; it was mine too. 🙂
+_What?!?_ should be your natural reaction — it was mine too. 🙂
 
  [1]: https://rambleon.org/2005/05/09/my-new-worst-sentence-ever/

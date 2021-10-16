@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-So I go to the NCSU Gym today &#8211; where I’m greeted with a flyer on the locker room door that reads:
+So I go to the NCSU Gym today — where I’m greeted with a flyer on the locker room door that reads:
 
 “The Hot Water will be secured on Friday March 3, 2006 for maintenance”
 

@@ -9,7 +9,7 @@ tags:
   - politics
 
 ---
-Whatever your believe on the health care debate &#8211; you owe it to ourself to watch this:
+Whatever your believe on the health care debate — you owe it to ourself to watch this:
 
 The [text is here][1]. I don’t know if it is as compelling as the video.
 

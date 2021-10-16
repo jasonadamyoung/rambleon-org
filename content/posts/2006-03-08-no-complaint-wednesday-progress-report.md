@@ -8,7 +8,7 @@ categories:
   - Reflections
 
 ---
-2:00pm and all is well &#8211; even with slight temptations from Kevin Gamble and Jason Corley
+2:00pm and all is well — even with slight temptations from Kevin Gamble and Jason Corley
 
 There is some debate however, about snide comments and whether those constitute implicit complaints or not. I have avoided those just to be safe.
 

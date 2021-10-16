@@ -10,9 +10,9 @@ categories:
 ---
 Dear Online Retailers.
 
-(This includes Staples &#8211; and a few other sites I can’t mention because my wife reads my blog).
+(This includes Staples — and a few other sites I can’t mention because my wife reads my blog).
 
-That thing you do &#8211; where you make people create a whole freaking account at your website in order to spend money with you?
+That thing you do — where you make people create a whole freaking account at your website in order to spend money with you?
 
 Please stop.
 

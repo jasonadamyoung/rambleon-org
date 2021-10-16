@@ -9,7 +9,7 @@ tags:
   - sysadmin
 
 ---
-So after about a half-dozen “please unsubscribe me” emails to our campus PackMUG mailing list today (one with an all caps subject) &#8211; it sort of begged for a response. Which I did.
+So after about a half-dozen “please unsubscribe me” emails to our campus PackMUG mailing list today (one with an all caps subject) — it sort of begged for a response. Which I did.
 
 One day they are going to come for me. Likely with straightjackets and/or pitchforks.
 
@@ -19,17 +19,17 @@ One day they are going to come for me. Likely with straightjackets and/or pitchf
 > To: packmug@lists.ncsu.edu  
 > Reply-To: jason.young@ncsu.edu
 
-So because I’m a crusty old system administrator, and I don’t run the packmug list, and I’m not actually responsible for doing any user support &#8211; but seem to be roped in to doing a lot of it &#8211; I thereby have the license to be snarky. (I really, really need to get a snarky license printed up, but I’m still waiting for my updated copy of photoshop to get here 🙂
+So because I’m a crusty old system administrator, and I don’t run the packmug list, and I’m not actually responsible for doing any user support — but seem to be roped in to doing a lot of it — I thereby have the license to be snarky. (I really, really need to get a snarky license printed up, but I’m still waiting for my updated copy of photoshop to get here 🙂
 
 So I’m about to be a little snarky about unsubscribing. I’m going to help you really, just not quite in the way you want.
 
 The Macintosh platform is fantastic, it includes a very capable web browser that comes from Apple called “Safari” You’ll find that Safari can help you find all kinds of information, including, among other things, how to unsubscribe from the list. Really! (you should just hear the chorus of claps, cheers, and acapella notes from the Mormon Tabernacle Choir that I have in my head right now)
 
-Now you might not have a Macintosh, because the PackMUG list doesn’t discriminate, I mean, the list mail even goes to people that use Solaris &#8211; but you really are going to need one of these to unsubscribe. So step one for unsubscribing is to go buy a Macintosh.
+Now you might not have a Macintosh, because the PackMUG list doesn’t discriminate, I mean, the list mail even goes to people that use Solaris — but you really are going to need one of these to unsubscribe. So step one for unsubscribing is to go buy a Macintosh.
 
 I know buying a Macintosh seems like a lot, a big expense just to get off a mailing list. But think of it as a investment in your future (there goes that chorus again, this time with bells).
 
-Now, it is theoretically possible to use a Windows computer to unsubscribe but then you might be tempted to use Internet Explorer, and the ramifications of that are huge &#8211; too much even to consider. It might even be borderline criminally negligent to suggest that you could use Internet Explorer for anything, and I just don’t want that on my conscience &#8211; so if you don’t have a Mac, please go buy one. The NCSU Bookstore has some great deals on Macintosh computers.
+Now, it is theoretically possible to use a Windows computer to unsubscribe but then you might be tempted to use Internet Explorer, and the ramifications of that are huge — too much even to consider. It might even be borderline criminally negligent to suggest that you could use Internet Explorer for anything, and I just don’t want that on my conscience — so if you don’t have a Mac, please go buy one. The NCSU Bookstore has some great deals on Macintosh computers.
 
 If you already have a Macintosh, great! That is fantastic. Congratulations on owning, um, er, … wait a second, I need to find my script ….
 
@@ -53,7 +53,7 @@ That will search for the words “unsubscribe” “from” and “list” and r
 
 Now, you might get several different results from your Google Search. This is where that College Degree comes in handy. No scratch that, they don’t teach this in College. This is where watching American Idol really comes in handy, especially the first couple of shows. Because some of the results aren’t very useful. Kind of like how some of the American Idol singers are really, really bad. And they don’t know it.
 
-  * The first result will likely be from www.ces.ncsu.edu, and is completely irrelevant &#8211; and should look so (for help, just imagine Simon Cowell saying “I think this is just completely abysmal”)
+  * The first result will likely be from www.ces.ncsu.edu, and is completely irrelevant — and should look so (for help, just imagine Simon Cowell saying “I think this is just completely abysmal”)
   * The second result is from a mirror of the PHP (a web programming language) site that’s hosted at NCSU, and while it looks nice, it’s completely irrelevant. (Randy says “You alright dawg, but you aren’t really what we are looking for”)
   * The third result is NCSU Information Technology’s official documentation on how to unsubscribe from lists handled at lists.ncsu.edu (Paula: “You are beautiful! You are going to Hollywood!”).
 

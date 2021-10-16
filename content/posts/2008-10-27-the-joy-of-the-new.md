@@ -10,7 +10,7 @@ tags:
   - life
 
 ---
-There is little in this life that measures up to the joy of the new &#8211; seeing and experiencing things for the very first time.
+There is little in this life that measures up to the joy of the new — seeing and experiencing things for the very first time.
 
 Except the joy of seeing that in others.
 

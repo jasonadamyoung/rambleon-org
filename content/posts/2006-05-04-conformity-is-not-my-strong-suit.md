@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-You know. I am all for consistent identity. If you have a team &#8211; and you are trying to acheive a certain common look and feel to your presentations, or your web pages, or common information that everyone needs to provide. Well, I think that’s great. I’m all for it. You step up, show leadership, and rally the troops to believe in the common mantra, incorporate a common logo, make sure that everyone has their email or IM listed. And then, THEN you encourage them to get creative. To build on that base, and run with it. Make it “eye-popping” or funny or “WOW!”.
+You know. I am all for consistent identity. If you have a team — and you are trying to acheive a certain common look and feel to your presentations, or your web pages, or common information that everyone needs to provide. Well, I think that’s great. I’m all for it. You step up, show leadership, and rally the troops to believe in the common mantra, incorporate a common logo, make sure that everyone has their email or IM listed. And then, THEN you encourage them to get creative. To build on that base, and run with it. Make it “eye-popping” or funny or “WOW!”.
 
-Oh Well. There hasn’t been much the push for conformity at all. Until, of course THREE (BUSINESS) DAYS BEFORE WE START PRESENTING, the **COMMON TEMPLATE** appears &#8211; no creative license encouraged.
+Oh Well. There hasn’t been much the push for conformity at all. Until, of course THREE (BUSINESS) DAYS BEFORE WE START PRESENTING, the **COMMON TEMPLATE** appears — no creative license encouraged.
 
 Well, I’m not much the comformist. So I’ll do my own thing. But don’t worry, it has a disclaimer.
 

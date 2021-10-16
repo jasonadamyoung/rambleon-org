@@ -10,4 +10,4 @@ tags:
   - sysadmin
 
 ---
-Maybe it’s just me &#8211; but I always find it incredibly amusing that the named process on my DNS master is process id number **42**.
+Maybe it’s just me — but I always find it incredibly amusing that the named process on my DNS master is process id number **42**.

@@ -10,6 +10,6 @@ tags:
   - sysadmin
 
 ---
-In a conversation with a colleague today &#8211; who was wondering about the source for a question we had about web application security &#8211; I remarked to him that unless it was a banking site, or an e-commerce site (if even then) &#8211; anyone that uses the word _security_ was most certainly an IT person.
+In a conversation with a colleague today — who was wondering about the source for a question we had about web application security — I remarked to him that unless it was a banking site, or an e-commerce site (if even then) — anyone that uses the word _security_ was most certainly an IT person.
 
-IT people care about _security_, users care about _privacy_ &#8211; and web applications should be written for users, not IT people.
+IT people care about _security_, users care about _privacy_ — and web applications should be written for users, not IT people.

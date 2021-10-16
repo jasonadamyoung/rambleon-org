@@ -21,7 +21,7 @@ This last week has brought the computing world another high-profile so-called ha
 
 * * *
 
-In something closer to the issues Universities face, earlier this year, a group of business school applicants hacked the Harvard Business School’s outsourced ApplyYourself system &#8211; and were (at least then) denied admission to the school. Again, details are sketchy and varied, though I’m inclined to accept the Philip Greenspun’s (opinionated as it might be) [take on the matter][6]. (see also a media story from [boston.com][7] )
+In something closer to the issues Universities face, earlier this year, a group of business school applicants hacked the Harvard Business School’s outsourced ApplyYourself system — and were (at least then) denied admission to the school. Again, details are sketchy and varied, though I’m inclined to accept the Philip Greenspun’s (opinionated as it might be) [take on the matter][6]. (see also a media story from [boston.com][7] )
 
 * * *
 

@@ -8,6 +8,6 @@ categories:
   - Reflections
 
 ---
-[GMail Paper][1] &#8211; I know several faculty that will really like this.
+[GMail Paper][1] — I know several faculty that will really like this.
 
  [1]: http://mail.google.com/mail/help/paper/more.html

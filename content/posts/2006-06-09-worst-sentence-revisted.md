@@ -8,9 +8,9 @@ categories:
   - Reflections
 
 ---
-following my [previous whoppers][1] &#8211; there’s this one from this morning (which is why, even if I manage a eureka! moment before 7am, I shouldn’t be emailing about it)
+following my [previous whoppers][1] — there’s this one from this morning (which is why, even if I manage a eureka! moment before 7am, I shouldn’t be emailing about it)
 
-> But I started having some issues with images/styles/javascripts that were likely related to incomplete stanzas in my apache config &#8211; but that I thought might be proxy related. There’s also a hardcoded /images instead of images/ reference in apps/views/layouts/heureka.html which also makes relocating the application having missing things and I didn’t know how many more of those there might be so I said to heck with it and ran it at its own vhosts since we aren’t currently running multiple rails apps in a single vhost.
+> But I started having some issues with images/styles/javascripts that were likely related to incomplete stanzas in my apache config — but that I thought might be proxy related. There’s also a hardcoded /images instead of images/ reference in apps/views/layouts/heureka.html which also makes relocating the application having missing things and I didn’t know how many more of those there might be so I said to heck with it and ran it at its own vhosts since we aren’t currently running multiple rails apps in a single vhost.
 
 Huh?
 

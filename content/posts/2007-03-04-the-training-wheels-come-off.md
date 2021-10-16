@@ -13,7 +13,7 @@ I took the training wheels off my Nikon D80 yesterday.
 
 You see, I’m a graduate of the point and shoot camera. I’ve had decent P&S digitals to this point, and my entire photographic way of being has consisted of having a sometimes decent eye for composition, and hoping that the camera would get everything else correct. I’ve spent my photographic life in “Automatic” mode.
 
-Most of the [pictures I’ve taken to date with the D80][1] have all been in ‘P’ mode &#8211; which is just ‘A’ mode with choices. To this point, I’ve had the camera auto choose focus areas (I felt like a complete dummy when I realized I had a dyamic and single point AutoFocus option and yes, I could actually pick my focus area), and had it largely choose all my shutter speeds and apertures. Even when I was using shutter-priority or aperture-priority modes &#8211; I still had the camera in auto-iso.
+Most of the [pictures I’ve taken to date with the D80][1] have all been in ‘P’ mode — which is just ‘A’ mode with choices. To this point, I’ve had the camera auto choose focus areas (I felt like a complete dummy when I realized I had a dyamic and single point AutoFocus option and yes, I could actually pick my focus area), and had it largely choose all my shutter speeds and apertures. Even when I was using shutter-priority or aperture-priority modes — I still had the camera in auto-iso.
 
 Well, I’ve been going through [Bryan Peterson’s _Understanding Exposure_][2] and I decided it was time to take the training wheels off. Go to manual mode, pick my aperture, pick my shutter, set my iso speed, pick my focus area.
 

@@ -16,9 +16,9 @@ Let’s review:
 
 ### We get a house {#we-get-a-house}
 
-This was a pretty easy prediction, but it still feels like a nice accomplishment for the year. There was a fair amount of uncertainty at the start &#8211; my townhome was in an area of Garner that didn’t sell all that fast usually &#8211; and my townhome definitely did not follow the price appreciation trend of the greater triangle area in the last 7 years. We had no idea where in the Triangle we wanted to live. Most of the kinds of house styles and lot sizes we wanted were in a ring from Fuquay-Varina to Clayton to Wendell to Wake Forest, and even a few in Durham (for non-NC readers &#8211; that’s a pretty wide circle around Raleigh) But things worked out, we had a contract on the house within 2 months of listing &#8211; and we found a nice house, with a nice lot, in a pretty area. It’s not far from where I grew up, which I wasn’t all that thrilled about at first. But we have great neighbors, and while the commute is long into work, there’s llamas and cows, and trees.
+This was a pretty easy prediction, but it still feels like a nice accomplishment for the year. There was a fair amount of uncertainty at the start — my townhome was in an area of Garner that didn’t sell all that fast usually — and my townhome definitely did not follow the price appreciation trend of the greater triangle area in the last 7 years. We had no idea where in the Triangle we wanted to live. Most of the kinds of house styles and lot sizes we wanted were in a ring from Fuquay-Varina to Clayton to Wendell to Wake Forest, and even a few in Durham (for non-NC readers — that’s a pretty wide circle around Raleigh) But things worked out, we had a contract on the house within 2 months of listing — and we found a nice house, with a nice lot, in a pretty area. It’s not far from where I grew up, which I wasn’t all that thrilled about at first. But we have great neighbors, and while the commute is long into work, there’s llamas and cows, and trees.
 
-In the end, it wasn’t all that sad to leave my first home that I bought myself. After 7 years of a meadow-like area where rabbits raised families and lots of buffer trees behind the townhome, several months after we moved &#8211; it’s finally being developed commercially (the plan for that space all along). And it’s nice to have a yard and a fence to call our own. And the lawn-mowing really isn’t all that onerous.
+In the end, it wasn’t all that sad to leave my first home that I bought myself. After 7 years of a meadow-like area where rabbits raised families and lots of buffer trees behind the townhome, several months after we moved — it’s finally being developed commercially (the plan for that space all along). And it’s nice to have a yard and a fence to call our own. And the lawn-mowing really isn’t all that onerous.
 
 [![The Anniversary Tree][2]][3]
 
@@ -34,13 +34,13 @@ And [Winston][8] came second:
 
 [![Winston][9]][10]
 
-And when not running over each other and biting each other’s faces in the yard, and when we aren’t renaming them to “damnit” and “stop that” and “no” &#8211; they make a [pretty cute pair][11].
+And when not running over each other and biting each other’s faces in the yard, and when we aren’t renaming them to “damnit” and “stop that” and “no” — they make a [pretty cute pair][11].
 
 [![Impromptu Concert][12]][13]
 
 ### I implement OpenID somewhere/anywhere {#i-implement-openid-somewhereanywhere}
 
-Our account signup application, which should slowly grow to providing an account for every Extension employee in the nation (okay, we probably won’t get there, but it’s a goal) &#8211; provides an OpenID for all those employees. For use in our applications, and well, anywhere. This was quite straightforward thanks to the [folks at JanRain and the others contributing to the Ruby OpenID project][14].
+Our account signup application, which should slowly grow to providing an account for every Extension employee in the nation (okay, we probably won’t get there, but it’s a goal) — provides an OpenID for all those employees. For use in our applications, and well, anywhere. This was quite straightforward thanks to the [folks at JanRain and the others contributing to the Ruby OpenID project][14].
 
 More importantly our news application will consume any OpenID and our public site application will soon consume any OpenID. Every internal application will move to OpenID consumption (if limited).
 
@@ -52,31 +52,31 @@ I did do lots of vague things. And a few moderately interesting ones. Nothing to
 
 ### I reflect on 10 years at work {#i-reflect-on-10-years-at-work}
 
-February was my 10th anniversary in a working role at NC State, and I [did briefly reflect on it][15] &#8211; and [even more with my 2-year anniversary in my current role][16]
+February was my 10th anniversary in a working role at NC State, and I [did briefly reflect on it][15] — and [even more with my 2-year anniversary in my current role][16]
 
 The February post is somewhat enigmatic, but not all that much so. I was not sure that I’d make it to 11 years at the University. And I wasn’t sure that I’d make it to 3 years in my current role. It wasn’t about the pay, it wasn’t about my co-workers, perhaps the only way to say what it was about was similarly [stated by Mark Pilgrim][17] in March when he left IBM for Google.
 
-Sometimes though, in my strong desire to want to see a greater purpose, a greater meaning, and the kind of leadership that is ready, willing, and able to take us into the 21st century version of Seaman Knapp’s vision for the land-grant &#8211; I forget too easily that I have to be the change that I want to see.
+Sometimes though, in my strong desire to want to see a greater purpose, a greater meaning, and the kind of leadership that is ready, willing, and able to take us into the 21st century version of Seaman Knapp’s vision for the land-grant — I forget too easily that I have to be the change that I want to see.
 
 To risk self-repetition, you don’t have to be Winston Churchill and Harry Truman to change the world. Two dogs with similar names changed ours. And that’s what really matters.
 
 On a personal-professional level, I love watching the photographic talent through flickr of one of my colleagues in our content development group, I am really, really enjoying getting to know my colleagues at Auburn, Iowa State, Texas A&M, and even NC State through something as [simple as Twitter][18]. Those connections and relationships have gone a long, long way to providing new perspective, and new meaning.
 
-And with those reflections, my job satisfaction is way up. I’m isolated from the larger IT quagmire of the University. Our Engineering/Professional Development team is one of the absolute best groups of people I have ever worked with. My boss gets it and is very supportive of the work we do and the ideas we bring to the table. I have the freedom and flexibility to build the systems we need, and our own version of 20% time to explore new directions, and the co-workers to do it with. I am only limited by myself to making the kinds of differences I want to make &#8211; at least at the levels I have a direct influence over.
+And with those reflections, my job satisfaction is way up. I’m isolated from the larger IT quagmire of the University. Our Engineering/Professional Development team is one of the absolute best groups of people I have ever worked with. My boss gets it and is very supportive of the work we do and the ideas we bring to the table. I have the freedom and flexibility to build the systems we need, and our own version of 20% time to explore new directions, and the co-workers to do it with. I am only limited by myself to making the kinds of differences I want to make — at least at the levels I have a direct influence over.
 
-When Paul Jones [wrote in his blog][19] about speaking at NCSU Computer Science’s December graduation, he asked “What would you tell today’s Computer Science grads before they go out into the world?” [My comment][20] was hastily, but passionately written, there’s an amazing power that software and systems people have. [Paul ended up saying it much better than I][21] &#8211; my comment was more about the individual, but Paul got to the real issue of the _social_. As a developer, system administrator, software/systems architect &#8211; you do have a choice &#8211; design software and systems that foster relationships, or design software and systems that attempt to control them. It helps to be in an organization that understands the former and from what I see in Twitter and Flickr at least, is that we still do.
+When Paul Jones [wrote in his blog][19] about speaking at NCSU Computer Science’s December graduation, he asked “What would you tell today’s Computer Science grads before they go out into the world?” [My comment][20] was hastily, but passionately written, there’s an amazing power that software and systems people have. [Paul ended up saying it much better than I][21] — my comment was more about the individual, but Paul got to the real issue of the _social_. As a developer, system administrator, software/systems architect — you do have a choice — design software and systems that foster relationships, or design software and systems that attempt to control them. It helps to be in an organization that understands the former and from what I see in Twitter and Flickr at least, is that we still do.
 
 ### My new camera and lens gets here {#my-new-camera-and-lens-gets-here}
 
 [![Yates Mill Reflected][22]][23]
 
-[Making it’s public appearance on January 18th][24] I entered the DSLR world in 2007. I’ve taken a lot of baby steps with it. I’ve learned a lot, if only to learn that I don’t know a thing about taking pictures, not really &#8211; nothing like I thought I knew. But I’ve had [a few that I’ve enjoyed recording][25] and a lot that needed work &#8211; but I think they are as good, if not better than any I’ve taken before.
+[Making it’s public appearance on January 18th][24] I entered the DSLR world in 2007. I’ve taken a lot of baby steps with it. I’ve learned a lot, if only to learn that I don’t know a thing about taking pictures, not really — nothing like I thought I knew. But I’ve had [a few that I’ve enjoyed recording][25] and a lot that needed work — but I think they are as good, if not better than any I’ve taken before.
 
-But the best part is that photography is definitely one of those “the journey is more important than the destination” activities &#8211; and that’s something that I need reminding about again and again. I’m looking forward to that continued journey through the lens this year.
+But the best part is that photography is definitely one of those “the journey is more important than the destination” activities — and that’s something that I need reminding about again and again. I’m looking forward to that continued journey through the lens this year.
 
 ### I write something vaguely funny again {#i-write-something-vaguely-funny-again}
 
-Not really. I did make [appropriate fun of Michigan State][26] recently. But perhaps I did something a bit better, if I didn’t really keep it up consistently, with some plastic dinosaurs and bad one-liners &#8211; I [made a comic of a sort][27]
+Not really. I did make [appropriate fun of Michigan State][26] recently. But perhaps I did something a bit better, if I didn’t really keep it up consistently, with some plastic dinosaurs and bad one-liners — I [made a comic of a sort][27]
 
 The best far and away was [about blog badges][28]. But I think the [the one about Rails][29] and the [other about java][30] aren’t too bad.
 
@@ -88,7 +88,7 @@ You know what? I never heard one the entire year. Another small joy of life.
 
 ### It was a good year {#it-was-a-good-year}
 
-If you are reading this and made it this far &#8211; thank you. Thanks for walking along with me. It was a good year. A year in a normal life perhaps, but sometimes the _something normal_ is changed into _something beautiful_.
+If you are reading this and made it this far — thank you. Thanks for walking along with me. It was a good year. A year in a normal life perhaps, but sometimes the _something normal_ is changed into _something beautiful_.
 
 Happy 2008 and happy trails everyone!
 

@@ -10,7 +10,7 @@ categories:
 ---
 Well, it would appear that the lawyer for one of the students charged in Pennsylvania (the so-called “Kutztown 13”) [has commented][1] on [my post about the “IT Responsibilities”][2] in cases like these.
 
-I assume it’s the lawyer &#8211; it may or may not be. I don’t really have much identity verification. The IP Address is a Pennsylvania IP Address though, and searching google for his name shows him quoted in a Washington Post story about the case.
+I assume it’s the lawyer — it may or may not be. I don’t really have much identity verification. The IP Address is a Pennsylvania IP Address though, and searching google for his name shows him quoted in a Washington Post story about the case.
 
 What I assume is that he’s blanket posting in blogs his side of the story. I don’t necessarily blame him, he’s representing a teenager charged with a felony. It’s his job as a lawyer to get his client off or at least bargain the punishment down to something more acceptable to his client and to those charging his client.
 
@@ -40,7 +40,7 @@ What I do care about is three things:
 
 Which is serious business. I do not ever want to see a mistake that I make escalate into felony charges for students (unless they have malicious intent) or identity theft. It’s my responsibility to do my best with data and information and the systems that store that, to keep that from happening. It might happen anyway. But if I’m the one that screwed up, I don’t want to see an over-reactive administration go after students. And in the identity theft case, I better be treating that data like it’s the data of my family.
 
-3) People turn their brains off when it comes to computers. It’s high damn time to start teaching the users of the system that they have a responsibility for the use of that system too (which goes back to (1) &#8211; when you control things tightly, the users of the system don’t take responsibility for their own use of it &#8211; because they think someone is always “taking care of it”)
+3) People turn their brains off when it comes to computers. It’s high damn time to start teaching the users of the system that they have a responsibility for the use of that system too (which goes back to (1) — when you control things tightly, the users of the system don’t take responsibility for their own use of it — because they think someone is always “taking care of it”)
 
 I hope he gets his client off, or better, the charges reduced.
 

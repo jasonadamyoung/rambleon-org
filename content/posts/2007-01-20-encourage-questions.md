@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 
 ---
-[Whether it’s from your kids][1] or [your employees][2] (or someone else’s employees) &#8211; you should _always_, _always_, _always_ encourage their questions &#8211; and be ready to answer honestly, and to question your own answers, your own assumptions, and your own bias. That is the beginning of wisdom and trust and well, freedom.
+[Whether it’s from your kids][1] or [your employees][2] (or someone else’s employees) — you should _always_, _always_, _always_ encourage their questions — and be ready to answer honestly, and to question your own answers, your own assumptions, and your own bias. That is the beginning of wisdom and trust and well, freedom.
 
 Your zen truth of the day:
 

@@ -8,11 +8,11 @@ categories:
   - Reflections
 
 ---
-I’m trying to slowly work through several years of photos and [get them uploaded][1] &#8211; when I came across this candid snapshot of my laptop relaxing in the chair a few years back.
+I’m trying to slowly work through several years of photos and [get them uploaded][1] — when I came across this candid snapshot of my laptop relaxing in the chair a few years back.
 
 ![][2]
 
-Interesting reading &#8211; who knew that’s what Macs do when relaxing?
+Interesting reading — who knew that’s what Macs do when relaxing?
 
  [1]: http://photos.rambleon.org/
  [2]: https://photos.smugmug.com/photos/526388518_tLkqZ-M.jpg

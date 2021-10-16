@@ -12,7 +12,7 @@ I hadn’t posted this yet, because, well, it really wasn’t germane to whateve
 
 But [I asked][1] Rogers Cadenhead about his continued work with the RSS Board and [he answered][2]. I really liked the answer.
 
-And it’s probably time to switch this site to have an Atom 1.0 feed, if not from [wordpress themselves][3], (no, I’m not sure [I understand][4] either) &#8211; then from [Ben de Groot][5]. [Invalid or not.][6] it’s time to put my own blog where my mouth is (and the tentative-for-now eXtension blogs too).
+And it’s probably time to switch this site to have an Atom 1.0 feed, if not from [wordpress themselves][3], (no, I’m not sure [I understand][4] either) — then from [Ben de Groot][5]. [Invalid or not.][6] it’s time to put my own blog where my mouth is (and the tentative-for-now eXtension blogs too).
 
 (and the Mediawiki sites, but that’s another issue).
 

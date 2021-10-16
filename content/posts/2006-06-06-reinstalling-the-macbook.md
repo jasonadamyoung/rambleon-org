@@ -14,7 +14,7 @@ Turns out it’s probably better to reinstall from the get-go. I was somewhat ap
 
 Reinstalling does the trick, pulling out printer drivers, language files, GarageBand, iWeb, iMovie, iDVD, (none of which is applicable to using it as a business laptop, at least my business) and making sure to install X11 (which I really which Apple would put back on the drive by default or at least making it easier to get at post-install) pares me down to a 6GB footprint. Which is relatively huge for an OS and distributed applications, but acceptable (yes I kept the Big Bang Board Games 🙂 ).
 
-Any minor complaints aside, out of the litany of laptops I’ve personally had or had at work in the last 10+ years &#8211; this MacBook is the best laptop I’ve had.
+Any minor complaints aside, out of the litany of laptops I’ve personally had or had at work in the last 10+ years — this MacBook is the best laptop I’ve had.
 
  [1]: http://monolingual.sourceforge.net/
  [2]: http://www.apple.com/macbook/macbook.html
