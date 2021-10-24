@@ -16,5 +16,5 @@ tags:
 ---
  ![Online courses][1]Tip of the vestigial appendage to [Kevin Gamble][2]
 
- [1]: https://cdn.rambleon.org/migrate/2008/08/onlinecourses.jpg
+ [1]: https://files.rambleon.org/images/2008/08/onlinecourses.jpg
  [2]: http://blog.k1v1n.com/2008/08/suggesting-solutions-we-dont-use.html

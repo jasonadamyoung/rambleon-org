@@ -18,4 +18,4 @@ tags:
 
 _Tell me what that movie is about again? Helping the bombardier with a website proposal?_
 
- [1]: https://cdn.rambleon.org/migrate/2008/12/catch22.jpg
+ [1]: https://files.rambleon.org/images/2008/12/catch22.jpg

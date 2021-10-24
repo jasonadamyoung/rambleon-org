@@ -40,9 +40,9 @@ The drawbacks? No service when the power goes and the UPS runs out. And getting 
 
 AT&T’s MicroCell — very highly recommended (so far). I haven’t been this excited about giving a telecomm money in, well, forever.
 
- [1]: https://cdn.rambleon.org/migrate/2009/10/microcell.jpg
+ [1]: https://files.rambleon.org/images/2009/10/microcell.jpg
  [2]: http://www.wireless.att.com/learn/why/3gmicrocell/
- [3]: https://cdn.rambleon.org/migrate/2009/10/microcellback.jpg
- [4]: https://cdn.rambleon.org/migrate/2009/10/IMG_0537.jpg
- [5]: https://cdn.rambleon.org/migrate/2009/10/IMG_0537_2.jpg
+ [3]: https://files.rambleon.org/images/2009/10/microcellback.jpg
+ [4]: https://files.rambleon.org/images/2009/10/IMG_0537.jpg
+ [5]: https://files.rambleon.org/images/2009/10/IMG_0537_2.jpg
  [6]: http://www.youtube.com/watch?v=3CFvEi4fdXA

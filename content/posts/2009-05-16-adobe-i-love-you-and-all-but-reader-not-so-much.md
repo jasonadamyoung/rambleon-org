@@ -38,6 +38,6 @@ p.s. [Ben’s right, this totally needs a little hip-hop treatment.][5]
 
  [1]: https://rambleon.org/2009/05/15/let-me-tell-you-how-i-hate-technology-today/#comment-344
  [2]: http://www.adobe.com/devnet/pdf/pdf_reference.html
- [3]: https://cdn.rambleon.org/migrate/2009/05/adobe-readerscreensnapz004.png (Adobe Reader Warning)
- [4]: https://cdn.rambleon.org/migrate/2009/05/adobe-readerscreensnapz001-300x81.png (Cannot Save From)
+ [3]: https://files.rambleon.org/images/2009/05/adobe-readerscreensnapz004.png (Adobe Reader Warning)
+ [4]: https://files.rambleon.org/images/2009/05/adobe-readerscreensnapz001-300x81.png (Cannot Save From)
  [5]: http://friendfeed.com/jasonadamyoung/f760d3c8/acrobat-absurdity-desktop

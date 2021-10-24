@@ -43,4 +43,4 @@ And of course — here’s the graph:
 I wonder what’s up with Tuesdays and Fridays?
 
  [1]: http://googlesystem.blogspot.com/2006/12/your-top-google-searches-in-2006.html
- [2]: https://cdn.rambleon.org/migrate/2006/12/searches.jpg
+ [2]: https://files.rambleon.org/images/2006/12/searches.jpg

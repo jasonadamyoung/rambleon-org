@@ -14,5 +14,5 @@ I am not sure I want to know what prompted this:
 
 to show up in the front of the manual for the [Motorola Razr v3m][2]
 
- [1]: https://cdn.rambleon.org/migrate/2006/07/donotdry.jpg
+ [1]: https://files.rambleon.org/images/2006/07/donotdry.jpg
  [2]: http://direct.motorola.com/ENS/web_producthome.asp?Country=USA&language=ENS&productid=30535

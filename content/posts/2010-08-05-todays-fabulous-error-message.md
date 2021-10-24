@@ -19,5 +19,5 @@ This was my sign-up experience:
 
 WTF?
 
- [1]: https://cdn.rambleon.org/migrate/2010/08/Sign-Up-300x111.png (Sign Up)
- [2]: https://cdn.rambleon.org/migrate/2010/08/Sign-Up.png
+ [1]: https://files.rambleon.org/images/2010/08/Sign-Up-300x111.png (Sign Up)
+ [2]: https://files.rambleon.org/images/2010/08/Sign-Up.png

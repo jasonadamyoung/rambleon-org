@@ -27,5 +27,5 @@ At any rate, during that master class one young man was struggling with the tone
 
 Buy it. You’ll like it.
 
- [1]: https://cdn.rambleon.org/migrate/2007/01/ma-album.jpg
+ [1]: https://files.rambleon.org/images/2007/01/ma-album.jpg
  [2]: http://www.yo-yoma.com/

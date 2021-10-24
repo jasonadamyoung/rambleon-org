@@ -24,4 +24,4 @@ The only real issue came when I took the stripper home. I mean, really, I wanted
 
 But she eventually did. And was rather amused.
 
- [1]: https://cdn.rambleon.org/migrate/2006/08/stripper.jpg
+ [1]: https://files.rambleon.org/images/2006/08/stripper.jpg

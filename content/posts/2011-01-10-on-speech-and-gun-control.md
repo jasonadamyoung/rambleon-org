@@ -28,4 +28,4 @@ But I hope beyond hope for those that espouse these things — that in your hear
 
  [1]: http://www.huffingtonpost.com/2010/03/24/sarah-palins-pac-puts-gun_n_511433.html
  [2]: http://www.dailykos.com/comments/2011/1/8/13371/41091/21#c21
- [3]: https://cdn.rambleon.org/migrate/2011/01/bumpersticker_rhetoric.jpeg (bumpersticker_rhetoric)
+ [3]: https://files.rambleon.org/images/2011/01/bumpersticker_rhetoric.jpeg (bumpersticker_rhetoric)

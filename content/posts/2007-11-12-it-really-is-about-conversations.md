@@ -64,8 +64,8 @@ Anyway, that’s my $.02 — I’m sure there are a lot better reviews out there
  [3]: http://www.trixietracker.com
  [4]: https://rambleon.org/2007/11/07/nice-upgrade/#comment-34771
  [5]: http://blog.k1v1n.com
- [6]: https://cdn.rambleon.org/migrate/2007/11/parallels-vm.png
- [7]: https://cdn.rambleon.org/migrate/2007/11/parallels-vmsettings.png
- [8]: https://cdn.rambleon.org/migrate/2007/11/fusion-settings.png
- [9]: https://cdn.rambleon.org/migrate/2007/11/parallels-folders.png
- [10]: https://cdn.rambleon.org/migrate/2007/11/fusion-folders.png
+ [6]: https://files.rambleon.org/images/2007/11/parallels-vm.png
+ [7]: https://files.rambleon.org/images/2007/11/parallels-vmsettings.png
+ [8]: https://files.rambleon.org/images/2007/11/fusion-settings.png
+ [9]: https://files.rambleon.org/images/2007/11/parallels-folders.png
+ [10]: https://files.rambleon.org/images/2007/11/fusion-folders.png

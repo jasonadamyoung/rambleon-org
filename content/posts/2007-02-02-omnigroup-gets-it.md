@@ -28,5 +28,5 @@ p.s. The first one of the readers that comments with “we don’t need no steen
  [2]: https://rambleon.org/2007/01/30/omni-needs-a-urug/#comment-5996
  [3]: http://people.omnigroup.com/wiml/
  [4]: http://www.omnigroup.com/applications/omniweb/pet/lot.html
- [5]: https://cdn.rambleon.org/migrate/2007/02/badge.png
- [6]: https://cdn.rambleon.org/migrate/2007/02/badge.png (badge.png)
+ [5]: https://files.rambleon.org/images/2007/02/badge.png
+ [6]: https://files.rambleon.org/images/2007/02/badge.png (badge.png)

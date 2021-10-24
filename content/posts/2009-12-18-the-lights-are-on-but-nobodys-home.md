@@ -15,5 +15,5 @@ Obligatory reference: [LED traffic lights don’t melt snow (@Engadget)][2]
 
 _Whenever I start feeling sorry for a group of engineers, I just imagine if they were the software development group_
 
- [1]: https://cdn.rambleon.org/migrate/2009/12/lightson.jpg
+ [1]: https://files.rambleon.org/images/2009/12/lightson.jpg
  [2]: http://www.engadget.com/2009/12/17/led-traffic-lights-dont-melt-snow-do-cause-accidents/

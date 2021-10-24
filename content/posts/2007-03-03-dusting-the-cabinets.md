@@ -12,4 +12,4 @@ categories:
 
 Yes, in case you were wondering, my wife left to go run some errands.
 
- [1]: https://cdn.rambleon.org/migrate/2007/03/p1000951.jpg
+ [1]: https://files.rambleon.org/images/2007/03/p1000951.jpg

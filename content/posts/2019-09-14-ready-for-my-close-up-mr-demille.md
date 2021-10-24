@@ -14,7 +14,7 @@ Just like a 10x engineer, the blog disappears for a month, over-engineers the he
 
 I'm going going to blame&#8230; yeah that's right&#8230; you know it:<figure class="wp-block-image">
 
-<img src="https://cdn.rambleon.org/migrate/2019/08/kuberneetus-1024x614.png" alt="" class="wp-image-1419" srcset="https://cdn.rambleon.org/migrate/2019/08/kuberneetus-1024x614.png 1024w, https://cdn.rambleon.org/migrate/2019/08/kuberneetus-300x180.png 300w, https://cdn.rambleon.org/migrate/2019/08/kuberneetus-768x461.png 768w, https://cdn.rambleon.org/migrate/2019/08/kuberneetus-1200x720.png 1200w, https://cdn.rambleon.org/migrate/2019/08/kuberneetus.png 2000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Ku Ber Neet Us</figcaption></figure>
+<img src="https://files.rambleon.org/images/2019/08/kuberneetus-1024x614.png" alt="" class="wp-image-1419" srcset="https://files.rambleon.org/images/2019/08/kuberneetus-1024x614.png 1024w, https://files.rambleon.org/images/2019/08/kuberneetus-300x180.png 300w, https://files.rambleon.org/images/2019/08/kuberneetus-768x461.png 768w, https://files.rambleon.org/images/2019/08/kuberneetus-1200x720.png 1200w, https://files.rambleon.org/images/2019/08/kuberneetus.png 2000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption>Ku Ber Neet Us</figcaption></figure>
 
 So, a month later; $500 of hardware for the home lab and $95 a month in hosting charges; and at least three complete reinstalls of two separate Rancher-based clusters — this blog (and other things) are back running in an over-engineered infrastructure, maybe again _<s>because I can</s>_ because it's there.
 
@@ -30,7 +30,7 @@ But despite the complexity, and despite even the overkill nature of an entire co
 
 So now that the other things are running, that's next. How I got started, and how I went about accomplishing building a local development and <s>CI</s>/CD auto-deployment workflow for [my rails application][2] — and maybe it won't take me a month to write it.<figure class="wp-block-image">
 
-<img src="https://cdn.rambleon.org/migrate/2019/09/TheCoffeePant-CowGroverMrJohnson-2012.png" alt="" class="wp-image-1453" srcset="https://cdn.rambleon.org/migrate/2019/09/TheCoffeePant-CowGroverMrJohnson-2012.png 640w, https://cdn.rambleon.org/migrate/2019/09/TheCoffeePant-CowGroverMrJohnson-2012-300x169.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>My Rancher Cluster, ready for its closeup</figcaption></figure>
+<img src="https://files.rambleon.org/images/2019/09/TheCoffeePant-CowGroverMrJohnson-2012.png" alt="" class="wp-image-1453" srcset="https://files.rambleon.org/images/2019/09/TheCoffeePant-CowGroverMrJohnson-2012.png 640w, https://files.rambleon.org/images/2019/09/TheCoffeePant-CowGroverMrJohnson-2012-300x169.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /><figcaption>My Rancher Cluster, ready for its closeup</figcaption></figure>
 
  [1]: https://christine.website/blog/the-cult-of-kubernetes-2019-09-07
  [2]: https://gitlab.com/busterleague/busterleague

@@ -10,4 +10,4 @@ categories:
 ---
 ![Priorities][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/03/priorities.jpg
+ [1]: https://files.rambleon.org/images/2007/03/priorities.jpg

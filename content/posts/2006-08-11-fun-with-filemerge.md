@@ -29,6 +29,6 @@ And Volia! You now can unlock the Mysteries of the Railsians. Quarters not inclu
  [1]: http://www.rubyonrails.org/
  [2]: http://weblog.rubyonrails.org/2006/8/9/rails-1-1-5-mandatory-security-patch-and-other-tidbits
  [3]: http://rubyforge.org/frs/?group_id=307
- [4]: https://cdn.rambleon.org/migrate/2006/08/filemergelaunch.png
- [5]: https://cdn.rambleon.org/migrate/2006/08/compare.png
- [6]: https://cdn.rambleon.org/migrate/2006/08/diff.png
+ [4]: https://files.rambleon.org/images/2006/08/filemergelaunch.png
+ [5]: https://files.rambleon.org/images/2006/08/compare.png
+ [6]: https://files.rambleon.org/images/2006/08/diff.png

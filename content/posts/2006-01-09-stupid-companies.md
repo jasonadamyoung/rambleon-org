@@ -38,5 +38,5 @@ Because I can’t submit a simple web form from the browser and platform I use? 
 
  [1]: http://www.xensource.com
  [2]: http://www.vmware.com/products/esx/
- [3]: https://cdn.rambleon.org/migrate/2006/01/FirefoxScreenSnapz008.jpg
- [4]: https://cdn.rambleon.org/migrate/2006/01/RDCScreenSnapz005.jpg
+ [3]: https://files.rambleon.org/images/2006/01/FirefoxScreenSnapz008.jpg
+ [4]: https://files.rambleon.org/images/2006/01/RDCScreenSnapz005.jpg

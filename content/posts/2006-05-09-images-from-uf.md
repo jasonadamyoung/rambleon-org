@@ -20,6 +20,6 @@ The lake is a wildlife preserve. I saw an egret or two, a great blue heron, a ha
 
 ![P1000185.jpg][3]
 
- [1]: https://cdn.rambleon.org/migrate/2006/05/P10002041.jpg
- [2]: https://cdn.rambleon.org/migrate/2006/05/P1000163.jpg
- [3]: https://cdn.rambleon.org/migrate/2006/05/P1000185.jpg
+ [1]: https://files.rambleon.org/images/2006/05/P10002041.jpg
+ [2]: https://files.rambleon.org/images/2006/05/P1000163.jpg
+ [3]: https://files.rambleon.org/images/2006/05/P1000185.jpg

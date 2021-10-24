@@ -23,4 +23,4 @@ It’s no Mother Theresa in a sticky bun or anything — but hey — you take wh
  [1]: /2007/03/26/and-day-turned-to-night/
  [2]: http://farm1.static.flickr.com/179/451543489_ca48752985.jpg
  [3]: http://www.flickr.com/photos/rambleon/451543489/ (Photo Sharing)
- [4]: https://cdn.rambleon.org/migrate/2007/04/question.jpg
+ [4]: https://files.rambleon.org/images/2007/04/question.jpg

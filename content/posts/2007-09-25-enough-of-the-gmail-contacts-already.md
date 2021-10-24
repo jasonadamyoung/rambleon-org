@@ -38,7 +38,7 @@ But stop the madness alright? Right now it’s just pandering to the look at me 
 
 These invites and follows aren’t marketing, and they aren’t social networking — they are spam.
 
- [1]: https://cdn.rambleon.org/migrate/2007/09/firefoxscreensnapz012.jpg
+ [1]: https://files.rambleon.org/images/2007/09/firefoxscreensnapz012.jpg
  [2]: https://rambleon.org/2007/08/15/in-moratorium-permenantly/
  [3]: http://www.gapingvoid.com/
  [4]: https://rambleon.org/2007/05/11/beat-like-a-dead-krzyzanowskisaurus/

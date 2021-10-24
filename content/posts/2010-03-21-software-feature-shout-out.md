@@ -29,4 +29,4 @@ The application also has the built in ability to create ssh tunnels for connecti
 It’s a great feature, and a great app, and one of the most useful tools I own. A big thanks to Araelium for developing it.
 
  [1]: http://www.araelium.com/querious/
- [2]: https://cdn.rambleon.org/migrate/2010/03/Querious.png (Querious)
+ [2]: https://files.rambleon.org/images/2010/03/Querious.png (Querious)

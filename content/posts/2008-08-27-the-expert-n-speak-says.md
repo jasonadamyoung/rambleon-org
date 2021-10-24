@@ -27,4 +27,4 @@ tags:
 
 “There is no reason anyone would want a computer in their home.” — Ken Olson, President, Chairman and Founder of Digital Equipment Co. 1977
 
- [1]: https://cdn.rambleon.org/migrate/2008/08/expertsay.jpg
+ [1]: https://files.rambleon.org/images/2008/08/expertsay.jpg

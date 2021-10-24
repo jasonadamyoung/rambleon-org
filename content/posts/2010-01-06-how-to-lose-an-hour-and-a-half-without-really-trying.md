@@ -26,4 +26,4 @@ And then watch your MailPlane application — and then Safari completely go into
 
 This is the kind of stuff I really don’t enjoy about my job anymore.
 
- [1]: https://cdn.rambleon.org/migrate/2010/01/Mailplane-for-work-email-4.png (Mailplane for work email-4)
+ [1]: https://files.rambleon.org/images/2010/01/Mailplane-for-work-email-4.png (Mailplane for work email-4)

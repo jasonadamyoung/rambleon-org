@@ -12,4 +12,4 @@ I just thought that the total on my grocery store receipt while getting a few th
 
 ![1776.jpg][1]
 
- [1]: https://cdn.rambleon.org/migrate/2006/07/1776.jpg
+ [1]: https://files.rambleon.org/images/2006/07/1776.jpg

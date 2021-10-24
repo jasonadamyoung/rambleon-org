@@ -17,4 +17,4 @@ tags:
 ---
 ![The Name Game][1]
 
- [1]: https://cdn.rambleon.org/migrate/2008/09/namegame.jpg
+ [1]: https://files.rambleon.org/images/2008/09/namegame.jpg

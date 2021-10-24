@@ -14,7 +14,7 @@ tags:
 
 _Editor's Note: I [originally posted this in twitter](https://twitter.com/jasonadamyoung/status/1449433548407119876?s=20) but it deserves a more permanent home here._ 
 
-![Not Guaranteed](https://cdn.rambleon.org/2021/safety-not-guaranteed.png "Sometimes you really can change the past")
+![Not Guaranteed](https://files.rambleon.org/images/2021/safety-not-guaranteed.png "Sometimes you really can change the past")
 
 Over the last three years, since changing jobs from the role I had been in for the previous 13, I've been trying to use that transition to change something that I wasn't proud of.  
 

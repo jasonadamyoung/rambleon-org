@@ -12,5 +12,5 @@ categories:
 
 A number you don’t recognize? [Perhaps some background is in order…][2]
 
- [1]: https://cdn.rambleon.org/migrate/2007/05/numbers.jpg
+ [1]: https://files.rambleon.org/images/2007/05/numbers.jpg
  [2]: http://www.freedom-to-tinker.com/?p=1152

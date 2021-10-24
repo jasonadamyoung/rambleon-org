@@ -27,7 +27,7 @@ It’s mighty, mighty hard to stop access to information, and attempts to do so,
 At the least, this will make things interesting for a while.
 
  [1]: http://images.google.com/images?q=tiananmen
- [2]: https://cdn.rambleon.org/migrate/2006/01/FirefoxScreenSnapz012.jpg
+ [2]: https://files.rambleon.org/images/2006/01/FirefoxScreenSnapz012.jpg
  [3]: http://images.google.cn/images?q=tiananmen
- [4]: https://cdn.rambleon.org/migrate/2006/01/FirefoxScreenSnapz011.jpg
+ [4]: https://files.rambleon.org/images/2006/01/FirefoxScreenSnapz011.jpg
  [5]: http://fishbowl.pastiche.org/2006/01/27/a_tale_of_two_googles

@@ -23,5 +23,5 @@ The Apple’s are few and far between. They are one of the rare groups that may 
 The rest of us have to stay open.
 
  [1]: http://www.sas.com
- [2]: https://cdn.rambleon.org/migrate/2007/01/applewelcome.jpg
+ [2]: https://files.rambleon.org/images/2007/01/applewelcome.jpg
  [3]: http://www.apple.com

@@ -26,5 +26,5 @@ Photoshop.com and the iPhone app look cool — somebody at Adobe — can you giv
  [2]: https://rambleon.org/2009/05/17/a-shout-out-to-adobe/
  [3]: http://blogs.adobe.com/lightroomjournal/
  [4]: http://blogs.adobe.com
- [5]: https://cdn.rambleon.org/migrate/2009/10/Adobe-Blogs.jpg
- [6]: https://cdn.rambleon.org/migrate/2009/10/Source-of-http___blogs.adobe.com_photoshopdotcom_1.jpg
+ [5]: https://files.rambleon.org/images/2009/10/Adobe-Blogs.jpg
+ [6]: https://files.rambleon.org/images/2009/10/Source-of-http___blogs.adobe.com_photoshopdotcom_1.jpg

@@ -13,4 +13,4 @@ tags:
 
 That might have been the easiest restore on any platform I’ve ever done.
 
- [1]: https://cdn.rambleon.org/migrate/2007/11/timemachine.png
+ [1]: https://files.rambleon.org/images/2007/11/timemachine.png

@@ -10,4 +10,4 @@ categories:
 ---
 ![Indiana Jones ain't got nuttin on this][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/04/expedition.jpg
+ [1]: https://files.rambleon.org/images/2007/04/expedition.jpg

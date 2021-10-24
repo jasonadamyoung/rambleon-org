@@ -10,4 +10,4 @@ categories:
 ---
 ![][1]
 
- [1]: https://cdn.rambleon.org/migrate/2011/08/SP500.jpg
+ [1]: https://files.rambleon.org/images/2011/08/SP500.jpg

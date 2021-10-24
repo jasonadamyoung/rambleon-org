@@ -14,6 +14,6 @@ _Also, the Alamo was burned down by the Yankees in the War of Northern Aggressio
 
 (obligatory reference — [from the British, who also burned down the Alamo in the Texas history books][3])
 
- [1]: https://cdn.rambleon.org/migrate/2010/05/schoolboardtweet.png ("In the Texas school board mandated history books - The Gulf has always been made of oil.")
+ [1]: https://files.rambleon.org/images/2010/05/schoolboardtweet.png ("In the Texas school board mandated history books - The Gulf has always been made of oil.")
  [2]: http://twitter.com/jasonadamyoung/status/14198088490
  [3]: http://www.guardian.co.uk/world/2010/may/16/texas-schools-rewrites-us-history

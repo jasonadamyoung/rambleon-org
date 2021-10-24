@@ -38,5 +38,5 @@ But whatever life brings, whatever she chooses to be and to do — whatever drea
 
 [![][2]][2]
 
- [1]: https://cdn.rambleon.org/migrate/2015/09/img_0690.jpg
- [2]: https://cdn.rambleon.org/migrate/2015/09/img_0691.jpg
+ [1]: https://files.rambleon.org/images/2015/09/img_0690.jpg
+ [2]: https://files.rambleon.org/images/2015/09/img_0691.jpg

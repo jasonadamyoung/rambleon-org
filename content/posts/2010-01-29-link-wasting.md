@@ -21,4 +21,4 @@ From just a few moments ago in another tab.
 I think it’s safe to say I won’t be returning to Exhibit A.
 
  [1]: http://iwantflash.com/iwantflash-petition/
- [2]: https://cdn.rambleon.org/migrate/2010/01/flashcrash.png (flashcrash)
+ [2]: https://files.rambleon.org/images/2010/01/flashcrash.png (flashcrash)

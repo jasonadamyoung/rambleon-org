@@ -14,4 +14,4 @@ I finally have all my images from iPhoto imported over into Lightroom — Let th
 
 ![Adobe Lightroomscreensnapz002][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/03/adobe-lightroomscreensnapz002.jpg
+ [1]: https://files.rambleon.org/images/2007/03/adobe-lightroomscreensnapz002.jpg

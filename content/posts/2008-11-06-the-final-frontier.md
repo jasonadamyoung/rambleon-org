@@ -16,4 +16,4 @@ tags:
 
 _Africa is a continent, not a country — I never knew. Next they’ll be telling us the earth revolves around the sun!_
 
- [1]: https://cdn.rambleon.org/migrate/2008/11/finalfrontier.jpg
+ [1]: https://files.rambleon.org/images/2008/11/finalfrontier.jpg

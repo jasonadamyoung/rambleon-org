@@ -28,9 +28,9 @@ p.s. Updated to add — it’s a whole different world [over at search.twitter.c
 
  [1]: http://www.google.com/search?btnG=1&q=How+to+tie+a+tie
  [2]: http://www.google.com/trends
- [3]: https://cdn.rambleon.org/migrate/2009/04/google-trends.png (google-trends)
- [4]: https://cdn.rambleon.org/migrate/2009/04/google-trends_-how-to-tie-a-tie-apr-12-2009.png (google-trends_-how-to-tie-a-tie-apr-12-2009)
+ [3]: https://files.rambleon.org/images/2009/04/google-trends.png (google-trends)
+ [4]: https://files.rambleon.org/images/2009/04/google-trends_-how-to-tie-a-tie-apr-12-2009.png (google-trends_-how-to-tie-a-tie-apr-12-2009)
  [5]: http://twitter.com/nsj/status/1503483450
  [6]: http://twitter.com/brianshrader/status/1503393795
  [7]: http://search.twitter.com/
- [8]: https://cdn.rambleon.org/migrate/2009/04/twitter-search.png (twitter-search)
+ [8]: https://files.rambleon.org/images/2009/04/twitter-search.png (twitter-search)

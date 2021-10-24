@@ -18,4 +18,4 @@ Here’s ye-olde share-my-screen that’s sharing-my-screen trick using the more
 
 I’m clearly too easily amused.
 
- [1]: https://cdn.rambleon.org/migrate/2007/11/recursion.jpg
+ [1]: https://files.rambleon.org/images/2007/11/recursion.jpg

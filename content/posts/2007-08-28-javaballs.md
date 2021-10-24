@@ -13,4 +13,4 @@ tags:
 ---
  ![Because the world needs all the SpaceBalls! references it can get][1]_We’ve renamed our ticker symbol to JAVA. Oh no! We’ve gone from blow to suck_
 
- [1]: https://cdn.rambleon.org/migrate/2007/08/java.jpg
+ [1]: https://files.rambleon.org/images/2007/08/java.jpg

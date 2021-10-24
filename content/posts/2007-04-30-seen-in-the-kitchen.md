@@ -12,4 +12,4 @@ I would hate to know what sort of letter to the company prompted _this_ warning.
 
 ![Coffeepot][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/04/coffeepot.jpg
+ [1]: https://files.rambleon.org/images/2007/04/coffeepot.jpg

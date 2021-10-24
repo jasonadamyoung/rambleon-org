@@ -10,4 +10,4 @@ categories:
 ---
 ![I can haz safe intarnets][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/05/safeintarnets.jpg
+ [1]: https://files.rambleon.org/images/2007/05/safeintarnets.jpg

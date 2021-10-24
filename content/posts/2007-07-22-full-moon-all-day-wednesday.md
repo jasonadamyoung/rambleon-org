@@ -14,4 +14,4 @@ I was a little worried about the apocalypse for a moment there — but the sun w
 
 ![firefoxscreensnapz027.jpg][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/07/firefoxscreensnapz027.jpg
+ [1]: https://files.rambleon.org/images/2007/07/firefoxscreensnapz027.jpg

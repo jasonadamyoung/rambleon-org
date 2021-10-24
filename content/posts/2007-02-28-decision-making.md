@@ -12,4 +12,4 @@ categories:
 
 Why yes, yes that is a VMS User Manual
 
- [1]: https://cdn.rambleon.org/migrate/2007/02/agreement.jpg
+ [1]: https://files.rambleon.org/images/2007/02/agreement.jpg

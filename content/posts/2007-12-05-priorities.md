@@ -47,7 +47,7 @@ I twittered his name last night, and a fellow dog-loving friend from Iowa said â
 
 Yes, I think so. Theyâ€™ve already changed ours.
 
- [1]: https://cdn.rambleon.org/migrate/2007/12/sadwinston.jpg
+ [1]: https://files.rambleon.org/images/2007/12/sadwinston.jpg
  [2]: /2007/10/06/happiness-is/
  [3]: https://photos.smugmug.com/photos/510089126_6mhRj-M.jpg
  [4]: https://photos.smugmug.com/photos/510092487_B6jRJ-M.jpg

@@ -26,5 +26,5 @@ Picture that.
 
  [1]: http://ncartmuseum.org/museumpark/park_structures.shtml
  [2]: http://ncartmuseum.org/
- [3]: https://cdn.rambleon.org/migrate/2009/03/35809808-78703244-google-maps.png (35809808-78703244-google-maps)
+ [3]: https://files.rambleon.org/images/2009/03/35809808-78703244-google-maps.png (35809808-78703244-google-maps)
  [4]: http://twitter.com/jasonadamyoung/status/1426219574

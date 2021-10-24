@@ -18,4 +18,4 @@ Which might very well be the greatest error message ever.
 
 **[correction]** Greatest error _dialog_ might be more accurate. **[update]** It’s not as funny as I thought it was when I posted it to the University’s packmug list, but it’s still kinda funny.
 
- [1]: https://cdn.rambleon.org/migrate/2006/01/Conflict%20ResolverScreenSnapz001.jpg
+ [1]: https://files.rambleon.org/images/2006/01/Conflict%20ResolverScreenSnapz001.jpg

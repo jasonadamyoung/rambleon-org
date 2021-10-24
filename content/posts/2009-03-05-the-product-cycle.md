@@ -18,5 +18,5 @@ Apple Product cycles, you have to love them.
 
 _William Shatner image by Jerry Avenaim, used under the Creative Commons-Attribution-Share Alike 2.5 per license listing at [wikipedia.org][2]_
 
- [1]: https://cdn.rambleon.org/migrate/2009/03/productcycle.jpg
+ [1]: https://files.rambleon.org/images/2009/03/productcycle.jpg
  [2]: http://en.wikipedia.org/wiki/File:William_Shatner.jpg

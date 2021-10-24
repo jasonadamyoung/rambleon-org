@@ -48,4 +48,4 @@ Heck, I’m one to yawp. I have several terabytes in Xserve Raids sitting around
  [2]: http://blog.case.edu/jms18/2006/03/07/google_drive
  [3]: https://rambleon.org/2005/12/11/12-days-of-user-support/
  [4]: http://lists.ncsu.edu/cgi-bin/digest?list=tltr;archive=tltr.200303;Submit=Show%20Archive#MSG7
- [5]: https://cdn.rambleon.org/migrate/2006/03/ucsign.gif
+ [5]: https://files.rambleon.org/images/2006/03/ucsign.gif

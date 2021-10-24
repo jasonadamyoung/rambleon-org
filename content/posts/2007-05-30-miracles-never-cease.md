@@ -16,4 +16,4 @@ The temperature in Raleigh today seems to indicate that hell is not freezing ove
 
 What’s next? The release of a tablet Macintosh?
 
- [1]: https://cdn.rambleon.org/migrate/2007/05/software-updatescreensnapz001.jpg
+ [1]: https://files.rambleon.org/images/2007/05/software-updatescreensnapz001.jpg

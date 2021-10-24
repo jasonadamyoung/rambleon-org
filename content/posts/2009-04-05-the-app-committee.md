@@ -20,5 +20,5 @@ tags:
 
 _I can’t imagine how [those 175 million users][2] get by without supervisor notifications and custom team logos_
 
- [1]: https://cdn.rambleon.org/migrate/2009/04/appcommittee.jpg
+ [1]: https://files.rambleon.org/images/2009/04/appcommittee.jpg
  [2]: http://www.facebook.com/press/info.php?statistics

@@ -19,4 +19,4 @@ tags:
 
 _There you have it folks — being the newphew of the first cousin of a board member is recession proof — particularly if you can figure out how to print reports from PowerBuilder_
 
- [1]: https://cdn.rambleon.org/migrate/2009/04/occassionaluseonly.jpg
+ [1]: https://files.rambleon.org/images/2009/04/occassionaluseonly.jpg

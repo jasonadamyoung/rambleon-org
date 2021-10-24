@@ -18,5 +18,5 @@ tags:
 
 ![Ne'er do well][2]
 
- [1]: https://cdn.rambleon.org/migrate/2008/08/skeery.jpg
- [2]: https://cdn.rambleon.org/migrate/2008/08/skeeryps.jpg
+ [1]: https://files.rambleon.org/images/2008/08/skeery.jpg
+ [2]: https://files.rambleon.org/images/2008/08/skeeryps.jpg

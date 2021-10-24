@@ -44,7 +44,7 @@ And good ol’ boys were having RC and moon pie
 Singing this will be the day that I die
 all gone are the Oatmeal Creme Pie
 
- [1]: https://cdn.rambleon.org/migrate/2009/06/noquestions.png (noquestions)
+ [1]: https://files.rambleon.org/images/2009/06/noquestions.png (noquestions)
  [2]: https://rambleon.org/2008/08/13/operator-can-you-help-me-place-this-call/
  [3]: https://rambleon.org/2007/12/02/why-ask-why/
  [4]: http://twitter.com/jasonadamyoung/status/1961198999

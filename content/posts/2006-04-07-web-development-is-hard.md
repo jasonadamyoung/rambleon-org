@@ -27,4 +27,4 @@ We could edit online rather simply, each with our own update account. WordPress 
 It was easy. But only because all this stuff was licensed in a way that I could do derivative works and make it look like I (she 😉 ) wanted.
 
  [1]: http://jeremy.zawodny.com/blog/archives/006497.html
- [2]: https://cdn.rambleon.org/migrate/2006/04/website.jpg
+ [2]: https://files.rambleon.org/images/2006/04/website.jpg

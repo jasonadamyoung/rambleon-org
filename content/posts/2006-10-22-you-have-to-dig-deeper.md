@@ -41,8 +41,8 @@ At the end of the day though, I really love this kind of data view — especiall
  [1]: http://tastyresearch.wordpress.com/2006/10/05/pop-vs-soda-vs-coke/
  [2]: http://jeremy.zawodny.com/linkblog/
  [3]: https://tastyresearch.files.wordpress.com/2006/10/popvssodamap.png
- [4]: https://cdn.rambleon.org/migrate/2006/10/legend.png
- [5]: https://cdn.rambleon.org/migrate/2006/10/nc.png
- [6]: https://cdn.rambleon.org/migrate/2006/10/missouri.png
+ [4]: https://files.rambleon.org/images/2006/10/legend.png
+ [5]: https://files.rambleon.org/images/2006/10/nc.png
+ [6]: https://files.rambleon.org/images/2006/10/missouri.png
  [7]: http://www.popvssoda.com/
  [8]: http://www.popvssoda.com/stats/USA.html

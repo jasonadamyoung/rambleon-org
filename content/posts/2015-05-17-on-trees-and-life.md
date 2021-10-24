@@ -18,7 +18,7 @@ There's one though that catches my eye every single time I walk through through 
 
 It is an American Beech, a tree twisted, turned, wrapped in age-old poison ivy vine, covered in algae and lichen, rotting at the bottom:
 
-[<img class="alignnone size-large wp-image-138" src="https://cdn.rambleon.org/migrate/2015/05/img_5600.jpg?w=660" alt="IMG_5600" width="660" height="880" srcset="https://cdn.rambleon.org/migrate/2015/05/img_5600.jpg 2448w, https://cdn.rambleon.org/migrate/2015/05/img_5600-225x300.jpg 225w, https://cdn.rambleon.org/migrate/2015/05/img_5600-768x1024.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][1]
+[<img class="alignnone size-large wp-image-138" src="https://files.rambleon.org/images/2015/05/img_5600.jpg?w=660" alt="IMG_5600" width="660" height="880" srcset="https://files.rambleon.org/images/2015/05/img_5600.jpg 2448w, https://files.rambleon.org/images/2015/05/img_5600-225x300.jpg 225w, https://files.rambleon.org/images/2015/05/img_5600-768x1024.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][1]
 
 That tree is _beautiful_.
 
@@ -34,7 +34,7 @@ Because the lesson of that tree is that _life_, real life, adapts, twists, turns
 
 Because out of that twisted, broken, American Beech comes one of the most beautiful canopies in all of the woods:
 
-[<img class="alignnone size-large wp-image-139" src="https://cdn.rambleon.org/migrate/2015/05/img_5621.jpg?w=660" alt="IMG_5621" width="660" height="880" srcset="https://cdn.rambleon.org/migrate/2015/05/img_5621.jpg 2448w, https://cdn.rambleon.org/migrate/2015/05/img_5621-225x300.jpg 225w, https://cdn.rambleon.org/migrate/2015/05/img_5621-768x1024.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][2]
+[<img class="alignnone size-large wp-image-139" src="https://files.rambleon.org/images/2015/05/img_5621.jpg?w=660" alt="IMG_5621" width="660" height="880" srcset="https://files.rambleon.org/images/2015/05/img_5621.jpg 2448w, https://files.rambleon.org/images/2015/05/img_5621-225x300.jpg 225w, https://files.rambleon.org/images/2015/05/img_5621-768x1024.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][2]
 
 American Beech trees can live over 300 years.  I'm not sure how long this one will be here, its life, like ours, has no guarantee.
 
@@ -42,5 +42,5 @@ But that tree is a reminder that life is beautiful, and powerful, and is an ama
 
 That tree reminds me that Life is not tenuous. It is _tenacious_.  And our lives, lived, should be the same.
 
- [1]: https://cdn.rambleon.org/migrate/2015/05/img_5600.jpg
- [2]: https://cdn.rambleon.org/migrate/2015/05/img_5621.jpg
+ [1]: https://files.rambleon.org/images/2015/05/img_5600.jpg
+ [2]: https://files.rambleon.org/images/2015/05/img_5621.jpg

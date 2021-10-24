@@ -10,4 +10,4 @@ categories:
 ---
 ![Love those offsites][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/04/offsite.jpg
+ [1]: https://files.rambleon.org/images/2007/04/offsite.jpg

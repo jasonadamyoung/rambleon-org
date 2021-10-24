@@ -18,4 +18,4 @@ Well, I’m not much the comformist. So I’ll do my own thing. But don’t worr
 
 (thankfully my boss says “Your Call” and encourages creativity. And even a little Jeffersonian rebellion. I wouldn’t be there if he didn’t.)
 
- [1]: https://cdn.rambleon.org/migrate/2006/05/Messaging.jpg
+ [1]: https://files.rambleon.org/images/2006/05/Messaging.jpg

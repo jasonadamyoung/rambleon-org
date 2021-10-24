@@ -12,5 +12,5 @@ categories:
 
 (special thanks to [Michael DeHaan][2] for the original idea for this comic)
 
- [1]: https://cdn.rambleon.org/migrate/2007/04/boing.jpg
+ [1]: https://files.rambleon.org/images/2007/04/boing.jpg
  [2]: http://www.michaeldehaan.net/

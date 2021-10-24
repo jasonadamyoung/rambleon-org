@@ -30,6 +30,6 @@ But detail-wise I think that Facebook gets this right.  It doesn’t repeat the
 This is the best example this week of where my thinking has been with “details matter”.
 
  [1]: /2011/08/03/doing-something-changes-how-we-see-it/
- [2]: https://cdn.rambleon.org/migrate/2011/08/Facebook-Link.jpg
- [3]: https://cdn.rambleon.org/migrate/2011/08/Google+-Link.jpg
+ [2]: https://files.rambleon.org/images/2011/08/Facebook-Link.jpg
+ [3]: https://files.rambleon.org/images/2011/08/Google+-Link.jpg
  [4]: https://plus.google.com/113979231591025020100/posts/gwPWPKV1h2a

@@ -56,5 +56,5 @@ j.c.don_
 
 Hopefully this will accurately capture and promote the National Republic Congressional Committee’s message. If I can be of any more assistance to you guys, please call.
 
- [1]: https://cdn.rambleon.org/migrate/2007/03/telespam1.mp3
+ [1]: https://files.rambleon.org/images/2007/03/telespam1.mp3
  [2]: http://en.wikipedia.org/wiki/NRCC#Cash_demands_from_lobbyists.2C_clients.2C_and_.22award_winners.22

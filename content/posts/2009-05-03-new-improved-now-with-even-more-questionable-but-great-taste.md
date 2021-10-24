@@ -37,5 +37,5 @@ And thanks to organizations everywhere (including mine) and all the content runn
 
 (whoops, wrong ending credits — we’ll get that corrected shortly)
 
- [1]: https://cdn.rambleon.org/migrate/2009/05/broke.jpg
+ [1]: https://files.rambleon.org/images/2009/05/broke.jpg
  [2]: /categories/comics

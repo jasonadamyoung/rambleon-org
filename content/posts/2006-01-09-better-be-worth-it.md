@@ -18,4 +18,4 @@ I really don’t like the idea of going without personal email for half the day.
 
 Thanks, Jason
 
- [1]: https://cdn.rambleon.org/migrate/2006/01/SafariScreenSnapz064.jpg
+ [1]: https://files.rambleon.org/images/2006/01/SafariScreenSnapz064.jpg

@@ -16,4 +16,4 @@ They didn’t really teach this kind of query in any of the CS classes I took, b
 
 Thankfully she’s a Macintosh user too :-). The only thing I’m wondering about now is whether they allow “Marriage Merging” of one’s iTunes music purchases 😉
 
- [1]: https://cdn.rambleon.org/migrate/2006/02/ring.jpg
+ [1]: https://files.rambleon.org/images/2006/02/ring.jpg

@@ -20,4 +20,4 @@ And a quick run through Audacity (because I don’t have a command line lame ins
 
 [twitter][1]
 
- [1]: https://cdn.rambleon.org/migrate/2009/06/twitter.mp3
+ [1]: https://files.rambleon.org/images/2009/06/twitter.mp3

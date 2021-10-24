@@ -12,4 +12,4 @@ I really love the “find in page” implementation in Safari 3.
 
 ![picture-8.png][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/06/picture-8.png
+ [1]: https://files.rambleon.org/images/2007/06/picture-8.png

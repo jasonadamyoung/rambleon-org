@@ -18,5 +18,5 @@ People idly wonder about IP restrictions and our insane U.S. copyright policies 
 
 I think this piece underscores those copyright policies and their impact on _freedom_.
 
- [1]: https://cdn.rambleon.org/migrate/2011/01/Reeder.jpg
+ [1]: https://files.rambleon.org/images/2011/01/Reeder.jpg
  [2]: http://www.readwriteweb.com/archives/al_jazeera_releases_egypt_coverage_under_creative.php

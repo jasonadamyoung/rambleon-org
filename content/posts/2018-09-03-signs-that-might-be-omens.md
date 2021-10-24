@@ -50,7 +50,7 @@ I'm really incredibly thankful to be in the field I'm in. There's a shortage of 
 
 * * *
 
-<img src="https://cdn.rambleon.org/migrate/2018/08/IMG_6449-1024x768.jpg" class="alignnone size-large wp-image-1291" width="840" height="630" alt="" srcset="https://cdn.rambleon.org/migrate/2018/08/IMG_6449-1024x768.jpg 1024w, https://cdn.rambleon.org/migrate/2018/08/IMG_6449-300x225.jpg 300w, https://cdn.rambleon.org/migrate/2018/08/IMG_6449-768x576.jpg 768w, https://cdn.rambleon.org/migrate/2018/08/IMG_6449-1200x900.jpg 1200w, https://cdn.rambleon.org/migrate/2018/08/IMG_6449.jpg 2016w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img src="https://files.rambleon.org/images/2018/08/IMG_6449-1024x768.jpg" class="alignnone size-large wp-image-1291" width="840" height="630" alt="" srcset="https://files.rambleon.org/images/2018/08/IMG_6449-1024x768.jpg 1024w, https://files.rambleon.org/images/2018/08/IMG_6449-300x225.jpg 300w, https://files.rambleon.org/images/2018/08/IMG_6449-768x576.jpg 768w, https://files.rambleon.org/images/2018/08/IMG_6449-1200x900.jpg 1200w, https://files.rambleon.org/images/2018/08/IMG_6449.jpg 2016w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 But as that job board at OSCON filled up over the days I realized something, that I've known for a long time, I've even stated it to myself and others, but it came back stronger than it ever had.
 

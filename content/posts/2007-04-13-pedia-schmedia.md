@@ -10,4 +10,4 @@ categories:
 ---
 ![Wikipedia, Wikishemdia][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/04/pedia.jpg
+ [1]: https://files.rambleon.org/images/2007/04/pedia.jpg

@@ -37,7 +37,7 @@ I think iPhoto is going to be dead to me quite soon. Here’s hoping that Lightr
 p.s. the contrast on these looks much better in ecto and safari (I guess ecto uses webkit). They came out as sRGB from Lightroom, and I guess Safari knows how to deal with that and Firefox doesn’t. Have I mentioned how annoying color management is?
 
  [1]: http://www.flickr.com/photo_exif.gne?id=378889329
- [2]: https://cdn.rambleon.org/migrate/2007/02/firefoxscreensnapz025.jpg
+ [2]: https://files.rambleon.org/images/2007/02/firefoxscreensnapz025.jpg
  [3]: http://www.flickr.com/photos/rambleon/tags/drafthorsepull/
- [4]: https://cdn.rambleon.org/migrate/2007/02/dsc-0006.jpg
- [5]: https://cdn.rambleon.org/migrate/2007/02/1dsc-0006-1.jpg
+ [4]: https://files.rambleon.org/images/2007/02/dsc-0006.jpg
+ [5]: https://files.rambleon.org/images/2007/02/1dsc-0006-1.jpg

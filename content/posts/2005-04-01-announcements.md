@@ -68,4 +68,4 @@ Campus Linux officials said that they were shifting to Windows, because “It’
 
 * * *
 
- [1]: https://cdn.rambleon.org/migrate/2006/11/bessiemaude.jpg
+ [1]: https://files.rambleon.org/images/2006/11/bessiemaude.jpg

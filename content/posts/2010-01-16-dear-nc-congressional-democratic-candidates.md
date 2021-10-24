@@ -43,8 +43,8 @@ Either use or lose it folks — that’s your free “new media” advice of the
  [5]: http://twitter.com/KenLewis2010
  [6]: http://twitter.com/elaine4nc
  [7]: http://twitter.com/owlcity
- [8]: https://cdn.rambleon.org/migrate/2010/01/Twitter-_-Jason-Adam-Young_-@KennethWLewis-Thanks-for-....png (Twitter _ Jason Adam Young_ @KennethWLewis Thanks for ...)
+ [8]: https://files.rambleon.org/images/2010/01/Twitter-_-Jason-Adam-Young_-@KennethWLewis-Thanks-for-....png (Twitter _ Jason Adam Young_ @KennethWLewis Thanks for ...)
  [9]: http://twitter.com/jasonadamyoung/statuses/5891109810
- [10]: https://cdn.rambleon.org/migrate/2010/01/Twitter-_-Jason-Adam-Young_-@elaine4nc-Thanks-for-the-....png (Twitter _ Jason Adam Young_ @elaine4nc Thanks for the ...)
+ [10]: https://files.rambleon.org/images/2010/01/Twitter-_-Jason-Adam-Young_-@elaine4nc-Thanks-for-the-....png (Twitter _ Jason Adam Young_ @elaine4nc Thanks for the ...)
  [11]: http://twitter.com/jasonadamyoung/status/7800904447
  [12]: http://cotweet.com/

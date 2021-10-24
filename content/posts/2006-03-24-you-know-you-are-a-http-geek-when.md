@@ -12,4 +12,4 @@ You laugh out loud at your own stupid internal joke about how behind you are rea
 
 ![NetNewsWireScreenSnapz004.jpg][1]
 
- [1]: https://cdn.rambleon.org/migrate/2006/03/NetNewsWireScreenSnapz004.jpg
+ [1]: https://files.rambleon.org/images/2006/03/NetNewsWireScreenSnapz004.jpg

@@ -30,6 +30,6 @@ p.s. Have I mentioned that I love completely bogus “Time Remaining” values?
 
 ![Mailscreensnapz005][3]
 
- [1]: https://cdn.rambleon.org/migrate/2007/02/mailscreensnapz002.jpg
- [2]: https://cdn.rambleon.org/migrate/2007/02/mailscreensnapz004.jpg
- [3]: https://cdn.rambleon.org/migrate/2007/02/mailscreensnapz005.jpg
+ [1]: https://files.rambleon.org/images/2007/02/mailscreensnapz002.jpg
+ [2]: https://files.rambleon.org/images/2007/02/mailscreensnapz004.jpg
+ [3]: https://files.rambleon.org/images/2007/02/mailscreensnapz005.jpg

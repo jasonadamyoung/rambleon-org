@@ -25,5 +25,5 @@ Even worse, if your friends use “instant personalization” ? You’ll have to
 
 If you’ve never signed up with Facebook, don’t do it now.
 
- [1]: https://cdn.rambleon.org/migrate/2010/04/facebook-no-privacy.png (facebook-no-privacy)
- [2]: https://cdn.rambleon.org/migrate/2010/04/Facebook-Privacy-Settings-3.png (Facebook IP Privacy)
+ [1]: https://files.rambleon.org/images/2010/04/facebook-no-privacy.png (facebook-no-privacy)
+ [2]: https://files.rambleon.org/images/2010/04/Facebook-Privacy-Settings-3.png (Facebook IP Privacy)

@@ -28,4 +28,4 @@ is definitely not paypal.com.
 
 But they are getting much better. I feel sorry for the folks that fall for it. (maybe they’ll find this in google and won’t).
 
- [1]: https://cdn.rambleon.org/migrate/2006/01/paypalspam.jpg
+ [1]: https://files.rambleon.org/images/2006/01/paypalspam.jpg

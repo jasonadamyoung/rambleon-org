@@ -40,6 +40,6 @@ Your comments say a lot about you, and what Adobe is encouraging here, and it ma
  [1]: https://rambleon.org/2009/05/16/adobe-i-love-you-and-all-but-reader-not-so-much/#comments
  [2]: https://rambleon.org/2009/05/16/adobe-i-love-you-and-all-but-reader-not-so-much/#comment-348
  [3]: http://www.adobe.com/products/livecycle/designer/
- [4]: https://cdn.rambleon.org/migrate/2009/05/adobe-readerscreensnapz005.png (Original PDF properties)
- [5]: https://cdn.rambleon.org/migrate/2009/05/adobe-readerscreensnapz006.png (Modified PDF Properties from Preview)
+ [4]: https://files.rambleon.org/images/2009/05/adobe-readerscreensnapz005.png (Original PDF properties)
+ [5]: https://files.rambleon.org/images/2009/05/adobe-readerscreensnapz006.png (Modified PDF Properties from Preview)
  [6]: https://rambleon.org/2009/05/16/adobe-i-love-you-and-all-but-reader-not-so-much/#comment-350

@@ -42,5 +42,5 @@ And there’s not really a UPS product that uses a 208V 20A plug. So what do you
 
  [1]: http://www.apcmedia.com/salestools/NRAN-5TDSPN_R4_EN.pdf
  [2]: http://www.apc.com/resource/include/techspec_index.cfm?base_sku=SURT3000RMXLT
- [3]: https://cdn.rambleon.org/migrate/2006/05/conn_L6-20R_sm.gif
- [4]: https://cdn.rambleon.org/migrate/2006/05/conn_L6-30R_sm.gif
+ [3]: https://files.rambleon.org/images/2006/05/conn_L6-20R_sm.gif
+ [4]: https://files.rambleon.org/images/2006/05/conn_L6-30R_sm.gif

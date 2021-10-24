@@ -40,5 +40,5 @@ To be totally fair — they do indicate the words they have issues with:
 
 Hi-laree-us. I almost want phone calls again.
 
- [1]: https://cdn.rambleon.org/migrate/2009/03/testvoicemail.mp3
- [2]: https://cdn.rambleon.org/migrate/2009/03/google-voice-inbox.jpg
+ [1]: https://files.rambleon.org/images/2009/03/testvoicemail.mp3
+ [2]: https://files.rambleon.org/images/2009/03/google-voice-inbox.jpg

@@ -14,4 +14,4 @@ Today’s weather graphic for Raleigh, from the Apple Weather widget:
 
 ![raleighweatherwidget.jpg][1]
 
- [1]: https://cdn.rambleon.org/migrate/2007/01/raleighweatherwidget.jpg
+ [1]: https://files.rambleon.org/images/2007/01/raleighweatherwidget.jpg

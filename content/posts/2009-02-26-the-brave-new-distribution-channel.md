@@ -20,4 +20,4 @@ tags:
 
 _You mushy brained fools, hulu is for computers, not for your televisions._
 
- [1]: https://cdn.rambleon.org/migrate/2009/02/hulu.jpg
+ [1]: https://files.rambleon.org/images/2009/02/hulu.jpg

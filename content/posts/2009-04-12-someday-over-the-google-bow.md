@@ -15,4 +15,4 @@ categories:
 Next up, somehow winning a Free-gee-lé Major Award. I’m a rocketship!
 
  [1]: /2009/01/31/omg-the-internets-are-b0rken/
- [2]: https://cdn.rambleon.org/migrate/2009/04/omg-the-internets-are-b0rken-google-search.png (omg-the-internets-are-b0rken-google-search)
+ [2]: https://files.rambleon.org/images/2009/04/omg-the-internets-are-b0rken-google-search.png (omg-the-internets-are-b0rken-google-search)

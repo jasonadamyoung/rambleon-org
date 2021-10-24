@@ -22,4 +22,4 @@ That might be the best compliment I could ever pay to Apple, Inc — and my vene
 
 _p.s. — now watch Apple come out with something utterly brilliant next week that I will desire greatly and break this resolution_
 
- [1]: https://cdn.rambleon.org/migrate/2007/01/P1000870.jpg
+ [1]: https://files.rambleon.org/images/2007/01/P1000870.jpg
