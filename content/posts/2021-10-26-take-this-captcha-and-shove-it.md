@@ -49,11 +49,11 @@ I've sent three very vociferously whiny support tickets in since December of 201
 
 The last mitigation was to install [Privacy Pass](https://privacypass.github.io/) which mitigated the issue the last 4 times (drawing "passes" down) - I avoided the Captcha but had to login twice.
 
-My last support ticket 6 days I asked Support not to troubleshoot - but merely to tell Engineering that I was gone. Not that it mattered, but the Captcha drove this customer away.
+My last support ticket 6 days ago I asked Support not to troubleshoot this again - but merely to tell Engineering that I was gone. Not that it likely mattered to them, but the Captcha drove this customer away.
 
 I empathize with Digital Ocean Engineering and Security here. Web login security is hard. And **The miserable, horrible, no-good Digital Ocean Cloudflare Captcha** has a place to reduce the login security threat of automated bots trying to crack login accounts. I get it.
 
-But not every login, not four times every login, and double the logins.
+But not every login, not four times every login, and then double the login.
 
 Even Cloudflare is [please stop using this (and buy this other service we have)](https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood/).
 
